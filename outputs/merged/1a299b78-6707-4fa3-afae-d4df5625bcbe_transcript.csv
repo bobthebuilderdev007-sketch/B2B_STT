@@ -1,0 +1,214 @@
+start,end,duration,speaker,language,text,confidence
+0.0,2.0,2.0,SPEAKER_00,de,"Hi, Michael.",0.3236
+2.0,4.0,2.0,SPEAKER_00,de,"Hi, everyone.",0.3236
+4.0,6.0,2.0,SPEAKER_00,de,How are you doing?,0.3236
+6.0,8.0,2.0,SPEAKER_00,de,So far so good.,0.3236
+8.0,10.0,2.0,SPEAKER_01,de,We are waiting for you.,0.3236
+10.0,12.0,2.0,SPEAKER_01,de,I'm here.,0.3236
+12.0,14.0,2.0,SPEAKER_01,de,That's true.,0.3236
+14.0,16.0,2.0,SPEAKER_01,de,How's Michael?,0.3236
+16.0,18.0,2.0,SPEAKER_00,de,"Hi, Michael.",0.3236
+18.0,20.0,2.0,SPEAKER_00,de,"Hi, Michael.",0.3236
+20.0,22.0,2.0,SPEAKER_02,de,"Hi, Michael.",0.3236
+22.0,24.0,2.0,SPEAKER_02,de,"Hi, Michael.",0.3236
+24.0,26.0,2.0,SPEAKER_02,de,"Hi, Michael.",0.3236
+26.0,28.0,2.0,SPEAKER_02,de,"Hi, Michael.",0.3236
+28.0,30.0,2.0,SPEAKER_02,de,"Hi, может.",0.2317
+30.0,32.0,2.0,SPEAKER_02,de,"Hi, Michael.",0.2317
+32.0,34.0,2.0,SPEAKER_01,de,"Hi, Sage.",0.2317
+34.0,36.0,2.0,SPEAKER_01,de,Hi.,0.2317
+36.0,37.0,1.0,SPEAKER_01,de,Nice to see you.,0.2317
+37.0,39.0,2.0,SPEAKER_01,de,Thank you.,0.2317
+39.0,41.0,2.0,SPEAKER_01,de,And I'm glad to see you all.,0.2317
+41.0,48.0,7.0,SPEAKER_01,de,"Because I already, I don't know if I've told you, I already had dreams that I'm at work.",0.2317
+48.0,54.0,6.0,SPEAKER_01,de,And how everyone meets me and do like this.,0.2317
+54.0,57.0,3.0,SPEAKER_01,de,And I say again.,0.2317
+57.0,85.03999999999999,28.04,SPEAKER_02,de,und ich habe dieses Dream mixerrils halber,0.0004
+85.04,88.04,3.0,SPEAKER_02,de,Soll ich das schälen?,0.1782
+88.04,90.04,2.0,SPEAKER_02,de,Ich werde... ja...,0.1782
+90.04,92.04,2.0,SPEAKER_03,de,"Ups, zu lecker.",0.1782
+92.04,95.04,3.0,SPEAKER_03,de,"Die Wahl für die, die sie erst schärft.",0.1782
+97.04,100.04,3.0,SPEAKER_04,de,"Sag ich, ich mag, dass du in der Office bist,",0.1782
+100.04,102.04,2.0,SPEAKER_04,de,ohne dass du in der Office bist.,0.1782
+107.04,109.04,2.0,SPEAKER_02,de,"Okay, so.",0.1782
+109.04,114.04,5.0,SPEAKER_05,de,"Ja, also, ich habe nur einen Ziel.",0.1782
+114.04,117.04,3.0,SPEAKER_05,de,Ich habe nur einen Ziel für heute und morgen.,0.1445
+117.04,120.04,3.0,SPEAKER_05,de,Ich muss noch ein paar Marketerformen machen.,0.1445
+120.04,124.04,4.0,SPEAKER_05,de,"Ich muss noch die Sales-Bot machen,",0.1445
+124.04,127.04,3.0,SPEAKER_05,de,aber es ist schon 99% fertig.,0.1445
+127.04,130.04000000000002,3.0,SPEAKER_05,de,Es wird schon fertig.,0.1445
+130.04000000000002,133.04000000000002,3.0,SPEAKER_05,de,Ich werde es noch nicht machen.,0.1445
+133.04000000000002,136.04000000000002,3.0,SPEAKER_05,de,Ich werde es noch nicht machen.,0.1445
+136.04000000000002,139.04000000000002,3.0,SPEAKER_05,de,Ich werde es noch nicht machen.,0.1445
+139.04000000000002,142.04000000000002,3.0,SPEAKER_05,de,Ich werde es noch nicht machen.,0.1445
+142.04,146.04,4.0,SPEAKER_05,de,Es wird bis morgen fertig.,0.2213
+146.04,148.04,2.0,SPEAKER_05,de,Ja.,0.2213
+151.04,154.04,3.0,SPEAKER_06,de,"Du kannst Deutsch schliessen, natürlich.",0.2213
+154.04,156.04,2.0,SPEAKER_06,de,Wie es usual ist.,0.2213
+156.04,158.04,2.0,SPEAKER_05,de,Das ist gut.,0.2213
+158.04,160.04,2.0,SPEAKER_05,de,Leo?,0.2213
+160.04,162.04,2.0,SPEAKER_05,de,"Ja, ich sehe.",0.2213
+163.04,164.04,1.0,SPEAKER_03,de,Warum Leo?,0.2213
+164.04,166.04,2.0,SPEAKER_03,de,Don't miss me.,0.2213
+166.04,168.04,2.0,SPEAKER_03,de,I'm back again.,0.2213
+168.04,171.04,3.0,SPEAKER_03,de,Wir gehen von unten nach oben.,0.2213
+171.04,173.04,2.0,SPEAKER_03,de,"Okay, dann ist Leo.",0.3274
+173.04,175.04,2.0,SPEAKER_07,de,Okay.,0.3274
+175.04,177.04,2.0,SPEAKER_07,de,Gut.,0.3274
+177.04,180.04,3.0,SPEAKER_07,de,Ich bin Prof. Software Developer,0.3274
+180.04,183.04,3.0,SPEAKER_07,de,im Proven-Maskets-Every-Week.,0.3274
+183.04,186.04,3.0,SPEAKER_07,de,Das habe ich diese Woche vor.,0.3274
+186.04,189.04,3.0,SPEAKER_07,de,Ich habe schon letzte Woche angefangen am Freitag,0.3274
+189.04,192.04,3.0,SPEAKER_07,de,mit dem Update-Oner im Ordnung-Assignment.,0.3274
+192.04,195.04,3.0,SPEAKER_07,de,"Darum müsste ich dann noch Haus finden,",0.3274
+195.04,198.04,3.0,SPEAKER_07,de,"wo jetzt noch den Fehler herkommt,",0.3274
+198.04,201.04,3.0,SPEAKER_07,de,"das heißt, es wird noch ein Main-Team.",0.3675
+201.04,204.04,3.0,SPEAKER_07,de,Da bin ich noch dran.,0.3675
+204.04,207.04,3.0,SPEAKER_07,de,Jetzt hätte ich noch bei Plugging vor.,0.3675
+207.04,210.04,3.0,SPEAKER_07,de,Es ist ein Update-Field.,0.3675
+210.04,213.04,3.0,SPEAKER_07,de,"Wenn gefällt, ergännt werden sollen,",0.3675
+213.04,216.04,3.0,SPEAKER_07,de,"sollen andere Fehler sich mit ändern, der Value ändern.",0.3675
+216.04,219.04,3.0,SPEAKER_07,de,"Ich habe noch offene PRs bei FST,",0.3675
+219.04,222.04,3.0,SPEAKER_07,de,"die möchte ich dann auch noch abgehen,",0.3675
+222.04,225.04,3.0,SPEAKER_07,de,also weiter bearbeiten.,0.3675
+225.04,228.04,3.0,SPEAKER_07,de,"Wie immer, Perl 900.",0.2204
+228.04,231.04,3.0,SPEAKER_07,de,"Diese Woche werde ich es zentrissens investieren,",0.2204
+231.04,234.04,3.0,SPEAKER_07,de,also durchbekommen.,0.2204
+234.04,237.04,3.0,SPEAKER_07,de,Das wäre es von meiner Seite.,0.2204
+237.04,240.04,3.0,SPEAKER_07,de,Sachi.,0.2204
+240.04,242.04,2.0,SPEAKER_02,de,Danke.,0.2204
+242.04,244.04,2.0,SPEAKER_02,de,Ich bin der Sys-Volitee Consultant,0.2204
+244.04,247.04,3.0,SPEAKER_02,de,und ich schreibe von meinen Skills und Geschmack-Experienzern,0.2204
+247.04,249.04,2.0,SPEAKER_02,de,jeden Tag.,0.2204
+249.04,251.04,2.0,SPEAKER_02,de,"Was ich diese Woche vor habe,",0.2204
+251.04,254.04,3.0,SPEAKER_02,de,"war die Konziliation, die Schriftungsverfahren,",0.2204
+254.04,258.03999999999996,4.0,SPEAKER_02,de,"und beziehungsweise, wenn sie nicht mehr benötigt sind,",0.3554
+258.03999999999996,261.03999999999996,3.0,SPEAKER_02,de,dann lösen.,0.3554
+261.03999999999996,264.03999999999996,3.0,SPEAKER_02,de,"Und habe ich auch ein anderes Thema,",0.3554
+264.03999999999996,267.03999999999996,3.0,SPEAKER_02,de,um diese Sales-Order-Logik zu refinen.,0.3554
+267.03999999999996,272.03999999999996,5.0,SPEAKER_02,de,"Bei PIN, keine offenen Aufgaben momentan,",0.3554
+272.03999999999996,276.03999999999996,4.0,SPEAKER_02,de,"aber falls was kommt, dann werde ich mich darum kümmern.",0.3554
+276.03999999999996,280.03999999999996,4.0,SPEAKER_02,de,G-Plus-H kann was App anzupassen,0.3554
+280.04,284.04,4.0,SPEAKER_02,de,und diese ...,0.3796
+284.04,288.04,4.0,SPEAKER_02,de,"Wir haben momentan ein Flow, um Auto-Numbering",0.3796
+288.04,292.04,4.0,SPEAKER_02,de,für Verkaufsschance und Aufträge zu machen.,0.3796
+292.04,296.04,4.0,SPEAKER_02,de,"Aber das werde ich diese Woche auszuführen,",0.3796
+296.04,300.04,4.0,SPEAKER_02,de,"ein Ticket, damit wir diese Logik durch Plug-in machen können,",0.3796
+300.04,302.04,2.0,SPEAKER_02,de,nicht durch Flow.,0.3796
+302.04,306.04,4.0,SPEAKER_02,de,"Skill Development, 3 Stunden für Perl 200",0.3796
+306.04,309.04,3.0,SPEAKER_02,de,und 2 Stunden für PMP-Sortification.,0.3796
+309.04,311.04,2.0,SPEAKER_02,de,"Genau, so viel zu mir.",0.3719
+311.04,314.04,3.0,SPEAKER_02,de,"Dann, Dominic, magst du gerne weiter machen?",0.3719
+314.04,316.04,2.0,SPEAKER_04,de,"Danke dir, Satin.",0.3719
+316.04,319.04,3.0,SPEAKER_04,de,Wo starte ich?,0.3719
+319.04,321.04,2.0,SPEAKER_04,de,"Ja, vorher erst mal.",0.3719
+321.04,323.04,2.0,SPEAKER_04,de,"Ich bin ein erfolgreicher IT-Konsultant,",0.3719
+323.04,325.04,2.0,SPEAKER_04,de,"entwicke innovative Lösungen über die Rate,",0.3719
+325.04,327.04,2.0,SPEAKER_04,de,meine Kunden zuverlässig.,0.3719
+327.04,330.04,3.0,SPEAKER_04,de,Dann für diese Woche habe ich die Prozessübersichterstellen,0.3719
+330.04,333.04,3.0,SPEAKER_04,de,"weiter vorgenommen bei Lichtblick, genauso wie letzte Woche.",0.3719
+333.04,337.04,4.0,SPEAKER_04,de,Dann letzte Woche habe ich den Zederstandsmeldungsprozess abgeschlossen,0.3719
+337.04,341.04,4.0,SPEAKER_04,de,und den Kundenregisterierungsprozess.,0.4
+341.04,345.04,4.0,SPEAKER_04,de,Diese Woche will ich mit weiteren offenen Themen fortfahren.,0.4
+345.04,349.04,4.0,SPEAKER_04,de,Denn bei TNI ist mit Sacha Hittler noch eine Einrichtung,0.4
+349.04,352.04,3.0,SPEAKER_04,de,"von FileNet geplant, wo er mir dann noch mal zeigt,",0.4
+352.04,356.04,4.0,SPEAKER_04,de,wie genau man FileNet in eine Model 5 App einbindet,0.4
+356.04,358.04,2.0,SPEAKER_04,de,und konfiguriert.,0.4
+358.04,361.04,3.0,SPEAKER_04,de,Das Weiteren ist noch mal die Settings-Config-File,0.4
+361.04,364.04,3.0,SPEAKER_04,de,in der Azure DevOps anzupassen.,0.4
+364.04,368.04,4.0,SPEAKER_04,de,Dann bei ITNetX ist die Anpassung noch von zwei Charts.,0.3624
+368.04,370.04,2.0,SPEAKER_04,de,"Das Plug-in, was ich letzte Woche geschrieben habe,",0.3624
+370.04,372.04,2.0,SPEAKER_04,de,nochmal testen und den PR dann dazu darstellen,0.3624
+372.04,377.04,5.0,SPEAKER_04,de,und für die PL200 dann drei bis fünf Stunden diese Woche einzuplanen.,0.3624
+377.04,379.04,2.0,SPEAKER_04,de,"Das war ich schon, habe ich am Donnerstag,",0.3624
+379.04,381.04,2.0,SPEAKER_04,de,einen halben Tag Urlaub.,0.3624
+381.04,384.04,3.0,SPEAKER_04,de,Da bin ich noch mal beim Arzt bezüglich meines Beins.,0.3624
+384.04,387.04,3.0,SPEAKER_04,de,"Nur, dass ihr da bescheid wisst, also bis Donnerstagmittag bin ich dann da",0.3624
+387.04,390.04,3.0,SPEAKER_04,de,und ab Nachmittag dann weg.,0.3624
+390.04,393.04,3.0,SPEAKER_04,de,"Wenn es aber gut läuft, von zeitlichen her bin ich den Abend noch beim Team eventab ein.",0.3624
+393.04,399.04,6.0,SPEAKER_04,de,Dann war es von meiner Seite und ich gebe doch weiter an Serge.,0.3553
+399.04,402.04,3.0,SPEAKER_01,de,Thank you Dominic.,0.3553
+402.04,405.04,3.0,SPEAKER_01,de,I am anexperienced software developer.,0.3553
+405.04,409.04,4.0,SPEAKER_01,de,My teammates and my customers can relay and mail in everything.,0.3553
+409.04,417.04,8.0,SPEAKER_01,de,"So this week, firstly I will try to sort out everything on my working table",0.3553
+417.04,425.04,8.0,SPEAKER_01,de,in order to clean up and prepare for the working week.,0.406
+425.04,431.04,6.0,SPEAKER_01,de,"Also, I already had a look into a task list.",0.406
+431.04,437.04,6.0,SPEAKER_01,de,So I plan to release three tickets this week.,0.406
+437.04,444.04,7.0,SPEAKER_01,de,"Also, if you need my hands, you are welcome.",0.406
+444.04,450.04,6.0,SPEAKER_01,de,It might be helpful for you.,0.4045
+450.04,459.04,9.0,SPEAKER_01,de,Just for your information during the week I have irradiation sessions,0.4045
+459.04,462.04,3.0,SPEAKER_01,de,and it is quite random.,0.4045
+462.04,468.04,6.0,SPEAKER_01,de,It could be in the middle of the day and it could be even at 8 or 9 pm.,0.4045
+468.04,473.04,5.0,SPEAKER_01,de,So sometimes I will be absent randomly.,0.4045
+473.04,476.04,3.0,SPEAKER_01,de,That's it.,0.3544
+476.04,479.04,3.0,SPEAKER_01,de,Who is next?,0.3544
+479.04,482.04,3.0,SPEAKER_03,de,Christian.,0.3544
+482.04,487.04,5.0,SPEAKER_03,de,I am a final software developer striving for perfection zurück aus dem Urlaub.,0.3544
+487.04,493.04,6.0,SPEAKER_03,de,"Ich habe 4 tickets fertig bekommen, plus 2, die so gut wie fertig sind.",0.3544
+493.04,497.04,4.0,SPEAKER_03,de,Die habe ich vorletzte Woche nicht mehr abschließen können.,0.3544
+497.04,503.04,6.0,SPEAKER_03,de,Ich habe noch die FST vor meinem Urlaub angefangen.,0.3194
+503.04,506.04,3.0,SPEAKER_03,de,Die ist weitestgehend fertig.,0.3194
+506.04,508.04,2.0,SPEAKER_03,de,Jetzt wird es fertig bekommen.,0.3194
+508.04,512.04,4.0,SPEAKER_03,de,"Pils 200, 3 bis 5 Stunden, je nachdem was übrig bleibt.",0.3194
+512.04,517.04,5.0,SPEAKER_03,de,Und bei Lupus Alpha habe ich noch ein bisschen Code Refactoring vor mir.,0.3194
+517.04,520.04,3.0,SPEAKER_03,de,"Ein PR ist offen, einer kommt noch.",0.3194
+520.04,525.04,5.0,SPEAKER_03,de,Ich habe das ganze Projekt endlich auf dem aktuellen Style Guide.,0.3037
+525.04,527.04,2.0,SPEAKER_03,de,Damit das erledigt ist.,0.3037
+527.04,529.04,2.0,SPEAKER_06,de,"So, freue ich.",0.3037
+529.04,531.04,2.0,SPEAKER_06,de,Danke.,0.3037
+531.04,534.04,3.0,SPEAKER_06,de,Ich bin ein relentless Consultant in Style Frame Proof.,0.3037
+534.04,538.04,4.0,SPEAKER_06,de,"Mein Custom Experiences, diese Worker bei Casino.",0.3037
+538.04,543.04,5.0,SPEAKER_06,de,Ich muss mich um die Marketingformular Logic kümmern.,0.3037
+543.04,547.04,4.0,SPEAKER_06,de,Auch im Produktion System.,0.3037
+547.04,554.04,7.0,SPEAKER_06,de,Und auch habe ich die Aktualisierung von Canvas App auch im Produktion System.,0.3431
+554.04,559.04,5.0,SPEAKER_06,de,Und Testing läuft diese Work auch.,0.3431
+559.04,566.04,7.0,SPEAKER_06,de,"Bei Gats Newsprint Planning, ja, am Mitwalk und auch habe ich,",0.3431
+566.04,572.04,6.0,SPEAKER_06,de,"ich muss ein Product Deployment, ich muss ein Product Deployment marken",0.3431
+572.04,577.04,5.0,SPEAKER_06,de,"um Donnerstag, so ich muss das vorbereiten.",0.3074
+577.04,583.04,6.0,SPEAKER_06,de,Dann bei Lispelig LBE habe ich ein DCP Task.,0.3074
+583.04,588.04,5.0,SPEAKER_06,de,Das habe ich letzte Woche ein Loosengefunden.,0.3074
+588.04,591.04,3.0,SPEAKER_06,de,Und diese Woche muss ich das erledigen.,0.3074
+591.04,594.04,3.0,SPEAKER_06,de,Und auch handle new service requests.,0.3074
+594.04,599.04,5.0,SPEAKER_06,de,Und ich bin komplett Power Automate Flow,0.3074
+599.04,602.04,3.0,SPEAKER_06,de,von Customer Voice Service.,0.2687
+602.04,609.04,7.0,SPEAKER_06,de,"Das ist so, nicht zu viel in Prior, aber ich versuche das zu machen.",0.2687
+609.04,612.04,3.0,SPEAKER_06,de,Und das war's meine Worker.,0.2687
+612.04,616.04,4.0,SPEAKER_06,de,Fabian Planze 25 Forms.,0.2687
+616.04,619.04,3.0,SPEAKER_06,de,"FPM, no open bugs.",0.2687
+619.04,622.04,3.0,SPEAKER_06,de,Complete coding process and deploy to production.,0.2687
+622.04,624.04,2.0,SPEAKER_00,de,Okay.,0.2687
+624.04,630.04,6.0,SPEAKER_00,de,Sonst etwas von Andra?,0.2981
+630.04,633.04,3.0,SPEAKER_04,de,Sehr gegetvelsu.,0.2981
+633.04,638.04,5.0,SPEAKER_04,de,"Maria, wenn du uns diese Woche verlässt, ist es schön, dass du da warst.",0.2981
+638.04,643.04,5.0,SPEAKER_04,de,Wir machen morgen noch einen schönen Tag.,0.2981
+643.04,650.04,7.0,SPEAKER_00,de,Ist das am Donnerstag im Team Meeting denn auch noch mal dabei?,0.2981
+650.04,654.04,4.0,SPEAKER_05,de,"Nein, also morgen ist mein letzter, letzter Tag.",0.2896
+654.04,656.04,2.0,SPEAKER_05,de,Okay.,0.2896
+656.04,661.04,5.0,SPEAKER_04,de,"Guck mal, ich habe mal fragen, ob du da auch noch mitkommen kannst.",0.2896
+661.04,668.04,7.0,SPEAKER_05,de,"Vielleicht sieht man sich, ich wohne da, in der Nähe sogar.",0.2896
+668.04,670.04,2.0,SPEAKER_06,de,"Alles klar, so.",0.2896
+670.04,675.04,5.0,SPEAKER_06,de,Ich habe einen Tag Urlaub am 3 Tag.,0.2926
+675.04,680.04,5.0,SPEAKER_06,de,Und am Donnerstag machen wir jetzt Home Office.,0.2926
+680.04,682.04,2.0,SPEAKER_06,de,"Alles ja, gut.",0.2926
+682.04,684.04,2.0,SPEAKER_06,de,Guten Tag an die Woche.,0.2926
+684.04,686.04,2.0,SPEAKER_06,de,"Danke dir, have a good day.",0.2926
+686.04,688.04,2.0,SPEAKER_06,de,"Bye, Segi.",0.2926
+688.04,690.04,2.0,SPEAKER_00,de,"Bye, Segi.",0.2926
+700.04,703.04,3.0,SPEAKER_00,de,Ich habe einen Tag Urlaub.,0.3335
+703.04,706.04,3.0,SPEAKER_00,de,Ich habe einen Tag Urlaub.,0.3335
+706.04,709.04,3.0,SPEAKER_00,de,Ich habe einen Tag Urlaub.,0.3335
+709.04,712.04,3.0,SPEAKER_00,de,Ich habe einen Tag Urlaub.,0.3335
+712.04,715.04,3.0,SPEAKER_00,de,Ich habe einen Tag Urlaub.,0.3335
+715.04,718.04,3.0,SPEAKER_00,de,Ich habe einen Tag Urlaub.,0.3335
+718.04,721.04,3.0,SPEAKER_00,de,Ich habe einen Tag Urlaub.,0.3335
+721.04,724.04,3.0,SPEAKER_00,de,Ich habe einen Tag Urlaub.,0.3335
+724.04,727.04,3.0,SPEAKER_00,de,Ich habe einen Tag Urlaub.,0.3335
+728.04,731.04,3.0,SPEAKER_00,de,Ich habe einen Tag Urlaub.,0.4366
+731.04,734.04,3.0,SPEAKER_00,de,Ich habe einen Tag Urlaub.,0.4366
+734.04,737.04,3.0,SPEAKER_00,de,Ich habe einen Tag Urlaub.,0.4366
+737.04,740.04,3.0,SPEAKER_00,de,Ich habe einen Tag Urlaub.,0.4366
+740.04,743.04,3.0,SPEAKER_00,de,Ich habe einen Tag Urlaub.,0.4366
+743.04,746.04,3.0,SPEAKER_00,de,Ich habe einen Tag Urlaub.,0.4366
+746.04,749.04,3.0,SPEAKER_00,de,Ich habe einen Tag Urlaub.,0.4366
+749.04,752.04,3.0,SPEAKER_00,de,Ich habe einen Tag Urlaub.,0.4366
+752.04,755.04,3.0,SPEAKER_00,de,Ich habe einen Tag Urlaub.,0.4366

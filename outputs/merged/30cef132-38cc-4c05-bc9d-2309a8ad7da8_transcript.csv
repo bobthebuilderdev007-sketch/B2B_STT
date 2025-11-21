@@ -1,0 +1,318 @@
+start,end,duration,speaker,language,text,confidence
+0.0,10.44,10.44,SPEAKER_00,de,Hallo!,0.0025
+10.44,12.44,2.0,SPEAKER_00,de,Hi.,0.2214
+30.439999999999998,31.439999999999998,1.0,SPEAKER_00,de,Hi.,0.2214
+31.439999999999998,33.44,2.0,SPEAKER_00,de,"Hi, Sajin.",0.2214
+34.44,36.44,2.0,SPEAKER_01,de,Dominik ist in der Meeting.,0.2023
+36.44,41.44,5.0,SPEAKER_01,de,Er kommt wahrscheinlich nach der Meeting.,0.2023
+44.44,46.44,2.0,SPEAKER_01,de,Das ist ein Prisma.,0.2023
+50.44,51.44,1.0,SPEAKER_00,de,Okay.,0.2023
+51.44,52.44,1.0,SPEAKER_00,de,Ja.,0.2023
+52.44,55.44,3.0,SPEAKER_01,de,"Wie geht es dir, Serge?",0.2023
+56.44,58.44,2.0,SPEAKER_02,de,Ich bin eigentlich okay.,0.1761
+58.44,61.44,3.0,SPEAKER_02,de,Ich habe meine Void schon gebraucht.,0.1761
+61.44,64.44,3.0,SPEAKER_02,de,Ich habe die Sessionen schon gebraucht.,0.1761
+64.44,67.44,3.0,SPEAKER_02,de,Aber es sollte besser werden.,0.1761
+67.44,71.44,4.0,SPEAKER_00,de,"Es sollte, dass ich meine Sessionen komplett completen werde.",0.1761
+74.44,77.44,3.0,SPEAKER_01,de,Das ist gut zu hören.,0.1761
+77.44,80.44,3.0,SPEAKER_01,de,Ich kann nicht für dich hier sein.,0.1761
+80.44,83.44,3.0,SPEAKER_02,de,"Ich denke, es ist ...",0.1761
+85.44,89.44,4.0,SPEAKER_02,de,Nächste Woche habe ich drei Sessionen.,0.211
+89.44,92.44,3.0,SPEAKER_02,de,"Ich denke, dass ich nach der nächsten Woche wiederkommen werde.",0.211
+92.44,93.44,1.0,SPEAKER_03,de,Hallo.,0.211
+93.44,95.44,2.0,SPEAKER_01,de,Ich komme zu dir.,0.211
+95.44,96.44,1.0,SPEAKER_01,de,Hi.,0.211
+97.44,98.44,1.0,SPEAKER_03,de,"Hi, Dominik.",0.211
+98.44,99.44,1.0,SPEAKER_03,de,Wie fühlst du dich?,0.211
+99.44,100.44,1.0,SPEAKER_01,de,Great.,0.211
+100.44,102.44,2.0,SPEAKER_03,de,"Es ist besonders, dass ich es heute Abend habe.",0.211
+102.44,103.44,1.0,SPEAKER_00,de,Ja.,0.211
+105.44,107.44,2.0,SPEAKER_03,de,Selbst wenn du verletzt bist.,0.211
+109.44,110.44,1.0,SPEAKER_03,de,Keine Ahnung.,0.211
+110.44,112.44,2.0,SPEAKER_03,de,Es war ein bisschen ein Schreit.,0.211
+112.44,113.44,1.0,SPEAKER_03,de,Ich habe keine Ahnung.,0.211
+114.44,117.44,3.0,SPEAKER_03,de,Ichiversity hatte es.,0.0002
+117.44,119.44,2.0,SPEAKER_03,de,Jetzt kann man euch adden.,0.0002
+120.44,122.44,2.0,SPEAKER_03,de,Fernsehen recht.,0.0002
+125.44,129.44,4.0,SPEAKER_04,de,Fort Deutschland hat shorts und Corners noch ein bisschen frei.,0.0002
+131.44,134.44,3.0,SPEAKER_04,de,Sie kein Sturm Strom rückte seit Jahren?,0.0002
+134.44,136.44,2.0,SPEAKER_04,de,"Heute ist sie 16 oder 18,",0.0002
+137.44,142.42,4.98,SPEAKER_04,de,durch die,0.0002
+142.42,149.92,7.5,SPEAKER_04,de,"Wenn du das mal mehrmals twice times machen, dann fällst du die Sache und bekommst ein paar Injury.",0.1249
+149.92,156.01999999999998,6.1,SPEAKER_04,de,"Und Seki war so, was er mir gesagt hat, ich weiß nicht, ich verstehe nur Englisch.",0.1249
+156.01999999999998,158.01999999999998,2.0,SPEAKER_04,de,Und das war eine sehr gute Phase.,0.1249
+158.01999999999998,163.01999999999998,5.0,SPEAKER_04,de,"Und halb Stunden später, Seki lag auf der Erde.",0.1249
+165.51999999999998,170.51999999999998,5.0,SPEAKER_04,de,Aber es war toll und Seki hat nichts zu hören. Das ist perfekt.,0.1249
+171.12,173.62,2.5,SPEAKER_02,de,Ich bin auf der Erde.,0.1626
+173.62,176.62,3.0,SPEAKER_02,de,Der Speed war ziemlich hoch.,0.1626
+176.62,183.62,7.0,SPEAKER_02,de,Ich habe einfach meinen Kontroll über den Boden verloren.,0.1626
+183.62,184.62,1.0,SPEAKER_02,de,Das ist es.,0.1626
+184.62,186.62,2.0,SPEAKER_05,de,"Ja, er hat den Rock getroffen.",0.1626
+186.62,190.62,4.0,SPEAKER_05,de,Also keine hohe Improvisation?,0.1626
+190.62,191.62,1.0,SPEAKER_05,de,Nein.,0.1626
+191.62,197.62,6.0,SPEAKER_02,de,Aber das ist eine sehr neue Erfahrung für mich und ich liebe es sehr.,0.1626
+197.72,203.72,6.0,SPEAKER_05,de,"Ich kann wirklich ihn vorstellen, wenn er in der Office drückt.",0.127
+203.72,207.72,4.0,SPEAKER_05,de,"Hinten, Elly.",0.127
+207.72,209.72,2.0,SPEAKER_05,de,"Hinten, Hinten, Elly.",0.127
+209.72,211.72,2.0,SPEAKER_04,de,"Wir schauen forward, wie viel es kostet.",0.127
+211.72,215.72,4.0,SPEAKER_03,de,"Es wird sehr viel, 4 oder 5K.",0.127
+215.72,220.72,5.0,SPEAKER_02,de,"Ich glaube, es ist viel cheaper, viel mehr.",0.127
+220.82,223.82,3.0,SPEAKER_06,de,Warumлагt das?,0.0001
+223.82,242.52,18.7,SPEAKER_06,de,Wircuse am,0.0001
+242.52,248.52,6.0,SPEAKER_01,de,"Und ich werde nur die Leute aufbauen, die auf Bikes sind.",0.1222
+250.52,254.52,4.0,SPEAKER_03,de,"So, dann verliert du die Zeit. Sagen, starten wir.",0.1222
+254.52,256.52,2.0,SPEAKER_03,de,Absolut.,0.1222
+256.52,258.52,2.0,SPEAKER_03,de,Danke.,0.1222
+259.52,268.52,9.0,SPEAKER_01,de,"So, meine Woche hatte ich ein paar Dinge, die ich eigentlich mache.",0.1552
+268.52,270.52,2.0,SPEAKER_01,de,Zuerst starte ich mit Lischblick.,0.1552
+272.52,279.52,7.0,SPEAKER_01,de,"Ich wollte dieses Revocation-Prozess definieren und die Tatsache für Pendlinge bemerken,",0.1552
+279.52,282.52,3.0,SPEAKER_01,de,weil ich von der Vokation gestartet habe.,0.1552
+283.52,288.52,5.0,SPEAKER_01,de,"Sobald das Revocation-Prozess ist, ist es nicht komplett definiert.",0.2712
+288.52,294.52,6.0,SPEAKER_01,de,"Es ist 50% definiert. Ich würde sagen, es ist ein ziemlich komplexes Prozess.",0.2712
+294.52,301.52,7.0,SPEAKER_01,de,"Beliebe mich, weil es viele Systeme gibt, die in Dynamics sind,",0.2712
+301.52,308.52,7.0,SPEAKER_01,de,"PowerCloud Sync, PowerCloud Handler, Event Handler und Dynamics.",0.2712
+308.52,314.52,6.0,SPEAKER_01,de,Es wird wahrscheinlich nächste Woche für mich definieren.,0.1564
+314.52,320.52,6.0,SPEAKER_01,de,"Ja, von dem anderen Tatsachen waren fertig.",0.1564
+320.52,331.52,11.0,SPEAKER_01,de,"Ja, bei PIN hatte ich alle Pendlinge-Tatsachen gemacht.",0.1564
+331.52,334.52,3.0,SPEAKER_01,de,Ich konnte das auch tun.,0.1564
+334.52,338.52,4.0,SPEAKER_01,de,"Alle BRs waren fertig, die Kommentare waren erledigt.",0.1826
+338.52,342.52,4.0,SPEAKER_01,de,"Ja, es war eine gute Woche für PIN.",0.1826
+342.52,350.52,8.0,SPEAKER_01,de,"Cool, dass das Plugin noch nicht durchgekommen ist.",0.1826
+350.52,354.52,4.0,SPEAKER_01,de,Ich konnte nicht die Canvas App kustomieren.,0.1826
+354.52,363.52,9.0,SPEAKER_01,de,"Ich wollte das Plugin schiften, das Definition auf der anderen Seite.",0.1408
+363.52,368.52,5.0,SPEAKER_01,de,Das ist von meiner Seite.,0.1408
+368.52,371.52,3.0,SPEAKER_01,de,Warum ist es der beste dieser Woche?,0.1408
+371.52,375.52,4.0,SPEAKER_01,de,"Es kam von der Vokation, es war sehr frisch.",0.1408
+375.52,381.52,6.0,SPEAKER_01,de,"Ja, ich brauche nicht viele Räume.",0.1408
+381.52,385.52,4.0,SPEAKER_01,de,Das ist von meiner Seite.,0.1621
+385.52,388.52,3.0,SPEAKER_01,de,Ich schaffe es über zu Dominik.,0.1621
+388.52,390.52,2.0,SPEAKER_04,de,"Danke, Sachin.",0.1621
+390.52,397.52,7.0,SPEAKER_04,de,Für diese Woche möchte ich ein Dokument-Core-Pack installieren.,0.1621
+397.52,404.52,7.0,SPEAKER_04,de,Er hat die Tickets gebraucht und sich bereit für das Programm.,0.1621
+404.52,407.52,3.0,SPEAKER_04,de,Heute war mein erstes Start.,0.1621
+407.52,409.52,2.0,SPEAKER_04,de,Es gibt einige Komplikationen.,0.1312
+409.52,413.52,4.0,SPEAKER_04,de,Ich werde diese Tatsache in der nächsten Woche aufnehmen.,0.1312
+413.52,425.52,12.0,SPEAKER_04,de,"Dann haben wir eine tue-June-Metze über die Konditionen,",0.1312
+425.52,429.52,4.0,SPEAKER_04,de,die mit der Funnet-Integration und der Objekt-Sorge.,0.1312
+429.52,433.52,4.0,SPEAKER_04,de,"Wir haben einen kleinen Schritt vor,",0.1312
+433.52,437.52,4.0,SPEAKER_04,de,"um die anderen Dinge zu erinnern,",0.1783
+437.52,441.52,4.0,SPEAKER_04,de,dass ich Matthias Mathe für sie brauche.,0.1783
+441.52,444.52,3.0,SPEAKER_04,de,Er ist auf der Woche trainiert.,0.1783
+444.52,450.52,6.0,SPEAKER_04,de,Auf Montag werde ich ihn über die Integration diskutieren.,0.1783
+450.52,454.52,4.0,SPEAKER_04,de,Ich habe drei Tickets gemacht.,0.1783
+454.52,459.52,5.0,SPEAKER_04,de,Ich habe vier Tickets gemacht und auch mit Sachin diskutiert.,0.1783
+459.52,461.52,2.0,SPEAKER_04,de,"Danke, dass ihr zurückgekommen seid.",0.1783
+461.52,465.52,4.0,SPEAKER_04,de,Ich habe die Tickets aufgeführt.,0.1452
+465.52,469.52,4.0,SPEAKER_04,de,Ich bin jetzt noch kleiner.,0.1452
+469.52,472.52,3.0,SPEAKER_04,de,Ich habe den PL-200 gemacht.,0.1452
+472.52,475.52,3.0,SPEAKER_04,de,Ich habe den Plan aufgedrückt.,0.1452
+475.52,478.52,3.0,SPEAKER_04,de,Ich habe nur drei oder fünf Tickets gemacht.,0.1452
+478.52,481.52,3.0,SPEAKER_04,de,"Aber die Tickets sind lange genug,",0.1452
+481.52,484.52,3.0,SPEAKER_04,de,um die anderen Tickets zu machen.,0.1452
+484.52,487.52,3.0,SPEAKER_04,de,Dann habe ich fünf Tickets gemacht.,0.1452
+487.52,493.52,6.0,SPEAKER_04,de,Ich habe eine gute Bicycle-Tour gestern.,0.1463
+493.52,496.52,3.0,SPEAKER_04,de,Es war wirklich Spaß.,0.1463
+496.52,503.52,7.0,SPEAKER_04,de,Ich habe auch meine Brain-Dumps und die Learnings für den PL-200 zu erzielen.,0.1463
+503.52,508.52,5.0,SPEAKER_04,de,Dann werde ich Sie über die Tickets beheben.,0.1463
+508.52,511.52,3.0,SPEAKER_02,de,Danke Dominik.,0.1463
+511.52,520.52,9.0,SPEAKER_02,de,Meine Woche war der erste Test- und Produktions-Solution-Depo.,0.2072
+520.52,522.52,2.0,SPEAKER_02,de,Es ging wie mit Scharn.,0.2072
+522.52,528.52,6.0,SPEAKER_02,de,Das war der einfachste Teil meiner Woche.,0.2072
+528.52,533.52,5.0,SPEAKER_02,de,Ich habe nur eine Ticket gemacht.,0.2072
+533.52,537.52,4.0,SPEAKER_02,de,Ich habe auch einen neuen Ticket gemacht.,0.1594
+537.52,542.52,5.0,SPEAKER_02,de,"Es dauert lange, als ich es davor hatte.",0.1594
+542.52,546.52,4.0,SPEAKER_02,de,"Wir müssen mit einem Kastemar diskutieren,",0.1594
+546.52,549.52,3.0,SPEAKER_02,de,um die möglichen Lösungen zu machen.,0.1594
+549.52,558.52,9.0,SPEAKER_02,de,Diese Woche ist für mich sehr intensiv kompliziert.,0.1594
+558.52,565.52,7.0,SPEAKER_02,de,Ich habe viele Tickets gemacht.,0.1994
+565.52,573.52,8.0,SPEAKER_02,de,Diese Ticket ist nicht komplett.,0.1994
+573.52,581.52,8.0,SPEAKER_02,de,Nächste Ticket ist eine Lösung für die Entity-Self-Autotriggerung.,0.1994
+581.52,585.52,4.0,SPEAKER_02,de,Ich habe eine Lösung für den Kastemar produziert.,0.1994
+585.52,588.52,3.0,SPEAKER_02,de,Wir haben auch eine Diskussion.,0.1603
+588.52,592.52,4.0,SPEAKER_02,de,"Ich habe erklärt, wie wir es absolvieren können.",0.1603
+592.52,596.52,4.0,SPEAKER_02,de,Sie haben einen Zeitraum zu diskutieren.,0.1603
+596.52,603.52,7.0,SPEAKER_02,de,Ich habe für die Entscheidung eine Zeitung für die Entity-Self-Autotriggerung.,0.1603
+603.52,609.52,6.0,SPEAKER_02,de,Ich habe eine Unterstützung auf die Wettbewerbe und eine Ticket für Agere.,0.1603
+609.52,613.52,4.0,SPEAKER_02,de,Ich habe diese Ticket für Royston komplett gemacht.,0.2006
+613.52,623.52,10.0,SPEAKER_02,de,Ich habe auch auf der FPM-SAP-Integration für FABI gearbeitet.,0.2006
+623.52,628.52,5.0,SPEAKER_02,de,Wir haben eine Lösung für einen Kastemar mit einer anderen.,0.2006
+628.52,637.52,9.0,SPEAKER_02,de,"Es dauert viel Zeit, um die Bucks zu lösen.",0.2006
+637.52,641.52,4.0,SPEAKER_02,de,Ich habe die Migration gebracht.,0.1316
+641.52,645.52,4.0,SPEAKER_02,de,Aber wir haben es aber auch gesorgt.,0.1316
+645.52,652.52,7.0,SPEAKER_02,de,FABI hat seine Vakation gemacht.,0.1316
+652.52,655.52,3.0,SPEAKER_02,de,Ich bin der beste dieser Woche.,0.1316
+655.52,659.52,4.0,SPEAKER_02,de,Ich habe keine Nachrichten auf meinen Kraften.,0.1316
+659.52,668.52,9.0,SPEAKER_02,de,Ich fühle mich wie in Hamster in der Welt.,0.1706
+668.52,675.52,7.0,SPEAKER_02,de,Ich fühle mich wie in der Zeit.,0.1706
+675.52,688.52,13.0,SPEAKER_02,de,"Ich habe keine Nachrichten, aber ich will nach Hause.",0.1706
+688.52,692.52,4.0,SPEAKER_02,de,Es war ein sehr tolles Event.,0.2049
+692.52,695.52,3.0,SPEAKER_02,de,Es war meine neue Erfahrung.,0.2049
+695.52,702.52,7.0,SPEAKER_02,de,Ich habe diese Liste von Drogen gemacht.,0.2049
+702.52,708.52,6.0,SPEAKER_02,de,Das ist warum ich der beste dieser Woche bin.,0.2049
+708.52,712.52,4.0,SPEAKER_02,de,"Christian, dein Turnier.",0.2049
+712.52,714.52,2.0,SPEAKER_05,de,"Ja, danke.",0.2049
+715.52,727.52,12.0,SPEAKER_05,de,Er hat dann vier Tickets nachged alert erledigt.,0.0002
+727.52,733.52,6.0,SPEAKER_05,de,"In der Blindeng即lordsядete werden 90% die SiA practitionerskon zona,",0.0002
+733.52,738.52,5.0,SPEAKER_05,de,ich bin jetzt in der 90%.,0.0002
+738.52,740.52,2.0,SPEAKER_05,de,Das ist ein Task-Creation-Issue.,0.1807
+740.52,742.52,2.0,SPEAKER_05,de,Ich habe es investiert.,0.1807
+742.52,744.52,2.0,SPEAKER_05,de,Ich habe nicht alles gefunden.,0.1807
+744.52,746.52,2.0,SPEAKER_05,de,"Ich habe es gesagt, dass es ein User-Error ist.",0.1807
+746.52,748.52,2.0,SPEAKER_05,de,Sie haben es nie zurückgekommen.,0.1807
+748.52,750.52,2.0,SPEAKER_05,de,Ich weiß nicht.,0.1807
+750.52,752.52,2.0,SPEAKER_05,de,"Für die FPM,",0.1807
+752.52,754.52,2.0,SPEAKER_05,de,"die Möglichkeit,",0.1807
+754.52,756.52,2.0,SPEAKER_05,de,"die Code zu überholen,",0.1807
+756.52,758.52,2.0,SPEAKER_05,de,habe ich es begonnen.,0.1807
+758.52,760.52,2.0,SPEAKER_05,de,"Dann habe ich das Wunder,",0.1807
+760.52,762.52,2.0,SPEAKER_05,de,dass man auf einer,0.1807
+762.52,764.52,2.0,SPEAKER_05,de,remote Maschine arbeiten muss.,0.1807
+764.52,766.52,2.0,SPEAKER_05,de,"Segi, du kennst die Pinsen.",0.1807
+766.52,768.52,2.0,SPEAKER_05,de,Ich habe nicht mehr Zeit bekommen.,0.2185
+768.52,770.52,2.0,SPEAKER_05,de,"Für die PL200,",0.2185
+770.52,772.52,2.0,SPEAKER_05,de,"die 3-5 Stunden pro Planung,",0.2185
+772.52,774.52,2.0,SPEAKER_05,de,habe ich 2 Pinsen.,0.2185
+774.52,776.52,2.0,SPEAKER_05,de,"Ich bin glücklich,",0.2185
+776.52,778.52,2.0,SPEAKER_05,de,die 2 Pinsen zu haben.,0.2185
+778.52,780.52,2.0,SPEAKER_05,de,"Das Wunder ist,",0.2185
+780.52,782.52,2.0,SPEAKER_05,de,dass ich die Zeit habe.,0.2185
+782.52,784.52,2.0,SPEAKER_05,de,Und am letzten Sonntag,0.2185
+784.52,786.52,2.0,SPEAKER_05,de,hatte ich Luna Eclipse.,0.2185
+786.52,788.52,2.0,SPEAKER_05,de,Ich habe ein paar Fotos taken.,0.2185
+788.52,790.52,2.0,SPEAKER_05,de,"Vielleicht,",0.2185
+790.52,792.52,2.0,SPEAKER_05,de,wenn ich einfach,0.2185
+792.52,794.52,2.0,SPEAKER_05,de,"die Zeit habe,",0.2185
+794.52,796.52,2.0,SPEAKER_05,de,dann habe ich noch ein Foto in der Chat.,0.2581
+796.52,798.52,2.0,SPEAKER_05,de,Jetzt ist es zu groß.,0.2581
+798.52,800.52,2.0,SPEAKER_05,de,Ein bisschen Montage.,0.2581
+800.52,802.52,2.0,SPEAKER_05,de,"Also,",0.2581
+802.52,804.52,2.0,SPEAKER_05,de,"wenn du ein neues Wetter willst,",0.2581
+804.52,806.52,2.0,SPEAKER_05,de,dann hast du ein paar Fotos.,0.2581
+806.52,808.52,2.0,SPEAKER_05,de,Ein paar Fotos.,0.2581
+808.52,810.52,2.0,SPEAKER_05,de,Ein paar Fotos.,0.2581
+810.52,812.52,2.0,SPEAKER_05,de,Ein paar Fotos.,0.2581
+812.52,814.52,2.0,SPEAKER_05,de,Ein paar Fotos.,0.2581
+814.52,816.52,2.0,SPEAKER_05,de,Ein paar Fotos.,0.2581
+816.52,818.52,2.0,SPEAKER_05,de,Ein paar Fotos.,0.2581
+818.52,820.52,2.0,SPEAKER_05,de,Ein paar Fotos.,0.2581
+820.52,822.52,2.0,SPEAKER_05,de,Ein paar Fotos.,0.2581
+822.52,824.88,2.36,SPEAKER_05,de,Das war mein wiegt from وه帶,0.0
+831.38,832.72,1.34,SPEAKER_06,de,So carplex,0.0
+844.48,845.42,0.94,SPEAKER_06,de,Wofür,0.0
+852.52,856.0799999999999,3.56,SPEAKER_06,de,Bounce Data Flows.,0.2791
+856.0799999999999,861.3199999999999,5.24,SPEAKER_06,de,"So, I think so from the next week we will be dedicating the next two weeks for the prod.",0.2791
+861.3199999999999,867.52,6.2,SPEAKER_06,de,"Regarding Clisprick Immobility, these tasks are done.",0.2791
+867.52,871.72,4.2,SPEAKER_06,de,I also have finished two new tasks that were given ad hoc.,0.2791
+871.72,879.92,8.2,SPEAKER_06,de,"And yeah, there's mainly nothing much this week in terms of new sprints.",0.2791
+879.92,881.72,1.8,SPEAKER_06,de,So that probably will come up next week.,0.2791
+882.72,892.32,9.6,SPEAKER_06,de,In continue with customer voice use case that is completed thanks to Sergey also successfully tested with client.,0.2905
+892.32,897.52,5.2,SPEAKER_06,de,"On Thursday, have some improvements but nothing regarding development for you.",0.2905
+897.52,901.9200000000001,4.4,SPEAKER_06,de,"Sergey, it's just customizations for my set.",0.2905
+901.9200000000001,906.32,4.4,SPEAKER_06,de,"Yeah, PL 200 prep for us not done.",0.2905
+906.32,911.72,5.4,SPEAKER_06,de,We seriously need to really block that and take that.,0.347
+911.72,916.72,5.0,SPEAKER_06,de,Start doing that from next week.,0.347
+916.72,923.5200000000001,6.8,SPEAKER_06,de,"In addition to that, I had some tasks for handing over tasks for GATs.",0.347
+923.5200000000001,926.72,3.2,SPEAKER_06,de,I think so we have completed all the handovers.,0.347
+926.72,934.5200000000001,7.8,SPEAKER_06,de,Also had some technical meetings yesterday with the new project team there.,0.347
+934.52,937.92,3.4,SPEAKER_06,de,"And yeah, maybe that was it.",0.3671
+937.92,940.72,2.8,SPEAKER_06,de,I am the best this week.,0.3671
+940.72,948.12,7.4,SPEAKER_06,de,I am happy that I had good progress with the Pinnage customer voice issues.,0.3671
+948.12,959.3199999999999,11.2,SPEAKER_06,de,"I have learned much more from what I have understood and you know, got to do a lot of workarounds which are working thankfully.",0.3671
+959.32,969.32,10.0,SPEAKER_06,de,The other reason is this week was not that easy mentally for me as some of you would have known that I had my grandmother passed away this Tuesday.,0.4055
+969.32,976.9200000000001,7.6,SPEAKER_06,de,"So coming back to work was a little difficult, but I kept telling myself that life goes on.",0.4055
+976.9200000000001,982.12,5.2,SPEAKER_06,de,We have to do the things that we have to do.,0.4055
+982.12,994.92,12.8,SPEAKER_06,de,"So yeah, in that way I consider it was yeah, I was positive enough to come back the next day and start with my tasks.",0.3713
+994.92,997.32,2.4,SPEAKER_06,de,That's all.,0.3713
+997.32,999.92,2.6,SPEAKER_06,de,Fabian.,0.3713
+999.92,1002.92,3.0,SPEAKER_06,de,"Fabian is on leave, Sergey, if you don't know.",0.3713
+1002.92,1005.92,3.0,SPEAKER_06,de,He is fighting so far.,0.3713
+1005.92,1011.72,5.8,SPEAKER_06,de,"Around 10 days leave, he will come 23rd of this month back to office.",0.3713
+1011.72,1016.32,4.6,SPEAKER_02,de,"I know, but I thought he has vocation next week.",0.3226
+1016.32,1018.52,2.2,SPEAKER_06,de,I don't know about Freddy.,0.3226
+1018.52,1021.9200000000001,3.4,SPEAKER_06,de,"He went from, oh yeah, he is off from today.",0.3226
+1021.9200000000001,1024.92,3.0,SPEAKER_07,de,Mhm.,0.3226
+1024.92,1029.92,5.0,SPEAKER_05,de,"I knew that, yeah, yesterday evening his flight went slow.",0.3226
+1029.92,1031.52,1.6,SPEAKER_05,de,He is no longer in the country.,0.3226
+1031.52,1032.92,1.4,SPEAKER_05,de,He fled the country.,0.3226
+1032.92,1036.72,3.8,SPEAKER_05,de,He fled the country.,0.3226
+1036.72,1040.32,3.6,SPEAKER_05,de,"Oh, Celia is here, I have to be careful what I say.",0.3226
+1040.32,1044.52,4.2,SPEAKER_02,de,"Christian, your photo is amazing.",0.3313
+1044.52,1045.9199999999998,1.4,SPEAKER_02,de,This is my domain.,0.3313
+1045.9199999999998,1047.9199999999998,2.0,SPEAKER_02,de,I like this stuff very much.,0.3313
+1047.9199999999998,1050.9199999999998,3.0,SPEAKER_01,de,Impressive stuff.,0.3313
+1050.9199999999998,1056.9199999999998,6.0,SPEAKER_08,de,Cool.,0.3313
+1056.9199999999998,1058.9199999999998,2.0,SPEAKER_08,de,What's planned then guys for the weekend?,0.3313
+1058.9199999999998,1060.9199999999998,2.0,SPEAKER_08,de,Anything special?,0.3313
+1060.9199999999998,1063.9199999999998,3.0,SPEAKER_08,de,Not really.,0.3313
+1064.52,1071.52,7.0,SPEAKER_02,de,"Nothing special, but I want to continue my work on my project.",0.3669
+1071.52,1077.52,6.0,SPEAKER_05,de,"Dominus project, nobody can know about until you are finished.",0.3669
+1077.52,1082.52,5.0,SPEAKER_02,de,Basically Roy already knows.,0.3669
+1082.52,1085.52,3.0,SPEAKER_02,de,But it's a secret.,0.3669
+1085.52,1088.52,3.0,SPEAKER_05,de,I don't remember.,0.3669
+1088.52,1092.52,4.0,SPEAKER_05,de,He forgot everything.,0.3669
+1092.52,1094.52,2.0,SPEAKER_06,de,Yeah.,0.3621
+1094.52,1097.52,3.0,SPEAKER_06,de,"Nothing new happening, I think so in Mannheim.",0.3621
+1097.52,1104.52,7.0,SPEAKER_06,de,I found out a nice website where you can find out all the events happening in your city.,0.3621
+1104.52,1107.52,3.0,SPEAKER_06,de,It's called rauzgegangen.de.,0.3621
+1107.52,1111.52,4.0,SPEAKER_06,de,And pretty cool.,0.3621
+1111.52,1112.52,1.0,SPEAKER_04,de,I sent you an event.,0.3621
+1112.52,1114.52,2.0,SPEAKER_04,de,Just sharing please.,0.3621
+1114.52,1118.52,4.0,SPEAKER_06,de,"Yeah, so you can select your city, for example I say.",0.3621
+1122.52,1133.52,11.0,SPEAKER_06,de,"Yeah, and it will at least give you what's all the events for the day.",0.3386
+1133.52,1138.52,5.0,SPEAKER_06,de,And also everything around Mannheim.,0.3386
+1138.52,1146.52,8.0,SPEAKER_06,de,"So it's like markets, standups, comedy going on, music, second hand thrift stores, theater.",0.3386
+1146.52,1148.52,2.0,SPEAKER_06,de,Very nice.,0.3386
+1148.52,1150.52,2.0,SPEAKER_07,de,Nice.,0.3386
+1150.52,1155.52,5.0,SPEAKER_04,de,I also sent you a link on a concert on Sunday.,0.3645
+1155.52,1158.52,3.0,SPEAKER_06,de,"This Sunday, okay.",0.3645
+1158.52,1160.52,2.0,SPEAKER_06,de,I'll check it out.,0.3645
+1160.52,1163.52,3.0,SPEAKER_06,de,I'll check the link.,0.3645
+1163.52,1171.52,8.0,SPEAKER_06,de,"I'm not sure that they're in smaller towns, but main towns should be there.",0.3645
+1171.52,1173.52,2.0,SPEAKER_00,de,Thank you.,0.3645
+1173.52,1180.52,7.0,SPEAKER_08,de,Cool.,0.3892
+1180.52,1182.52,2.0,SPEAKER_08,de,"How did you do this, Christian?",0.3892
+1182.52,1184.52,2.0,SPEAKER_08,de,"It's like a time lapse, right?",0.3892
+1184.52,1187.52,3.0,SPEAKER_08,de,Kind of.,0.3892
+1187.52,1192.52,5.0,SPEAKER_05,de,"So, 24 for a different image.",0.3892
+1192.52,1195.52,3.0,SPEAKER_05,de,And I just stitched them together.,0.3892
+1195.52,1200.52,5.0,SPEAKER_05,de,But the camera was in one place and I just waited for the moon to go on.,0.3892
+1200.52,1202.52,2.0,SPEAKER_05,de,Okay.,0.3892
+1202.52,1204.52,2.0,SPEAKER_02,de,Wohl.,0.3332
+1204.52,1207.52,3.0,SPEAKER_02,de,I just set on some support.,0.3332
+1207.52,1209.52,2.0,SPEAKER_02,de,And you just ...,0.3332
+1209.52,1211.52,2.0,SPEAKER_05,de,Okay.,0.3332
+1211.52,1213.52,2.0,SPEAKER_05,de,And then just waited.,0.3332
+1213.52,1215.52,2.0,SPEAKER_08,de,Looks very nice.,0.3332
+1215.52,1223.52,8.0,SPEAKER_05,de,"We had a wonderful plan, the location where we set to look at this blood moon.",0.3332
+1223.52,1229.52,6.0,SPEAKER_05,de,"It was just like, okay, technically the moon should rise just behind the castle.",0.3332
+1229.52,1231.52,2.0,SPEAKER_05,de,It would have been so nice.,0.4286
+1231.52,1235.52,4.0,SPEAKER_05,de,"And then time came, no moon.",0.4286
+1235.52,1239.52,4.0,SPEAKER_05,de,The air was so kind of dizzy.,0.4286
+1239.52,1245.52,6.0,SPEAKER_05,de,It took like half an hour later and way higher in the sky.,0.4286
+1245.52,1248.52,3.0,SPEAKER_05,de,"When someone said, hey, it's there.",0.4286
+1248.52,1251.52,3.0,SPEAKER_05,de,We did not find it before.,0.4286
+1251.52,1254.52,3.0,SPEAKER_05,de,But then it came out and everything was fine.,0.4286
+1254.52,1256.52,2.0,SPEAKER_05,de,Where's the moon?,0.4286
+1256.52,1258.52,2.0,SPEAKER_05,de,"Oh, there's the moon.",0.4286
+1258.52,1260.52,2.0,SPEAKER_05,de,Yeah.,0.3904
+1260.52,1264.52,4.0,SPEAKER_05,de,"Yeah, the first images you couldn't barely even make it.",0.3904
+1264.52,1266.52,2.0,SPEAKER_06,de,To see them.,0.3904
+1266.52,1270.52,4.0,SPEAKER_06,de,"Yeah, it was not that red as it was meant to be, maybe.",0.3904
+1270.52,1275.52,5.0,SPEAKER_05,de,"When it was the high point, here it was just too dizzy.",0.3904
+1275.52,1277.52,2.0,SPEAKER_05,de,You could not see anything.,0.3904
+1277.52,1279.52,2.0,SPEAKER_05,de,"Right, right.",0.3904
+1279.52,1282.52,3.0,SPEAKER_05,de,In clear nights it would have been better.,0.3904
+1282.52,1286.52,4.0,SPEAKER_05,de,"But next time is 20, 28, I guess.",0.3904
+1286.52,1288.52,2.0,SPEAKER_05,de,"Oh, okay.",0.3659
+1288.52,1294.52,6.0,SPEAKER_05,de,"For the next, what did we say, solar eclipse,",0.3659
+1294.52,1297.52,3.0,SPEAKER_05,de,that you can see it's 2081.,0.3659
+1297.52,1299.52,2.0,SPEAKER_05,de,So that takes some time.,0.3659
+1299.52,1303.52,4.0,SPEAKER_00,de,Cool.,0.3659
+1303.52,1307.52,4.0,SPEAKER_00,de,All right.,0.3659
+1307.52,1313.52,6.0,SPEAKER_00,de,19.,0.3659
+1313.52,1316.52,3.0,SPEAKER_00,de,Okay.,0.3331
+1316.52,1321.52,5.0,SPEAKER_06,de,"I have a meeting at 4.30, so I will leave.",0.3331
+1321.52,1324.52,3.0,SPEAKER_06,de,Have a nice weekend.,0.3331
+1324.52,1326.52,2.0,SPEAKER_00,de,Have a nice weekend.,0.3331
+1343.52,1346.52,3.0,SPEAKER_00,de,Copyright WDR 2021,0.2427
+1373.52,1376.52,3.0,SPEAKER_00,de,Copyright WDR 2021,0.354

@@ -1,0 +1,295 @@
+start,end,duration,speaker,language,text,confidence
+0.0,2.0,2.0,SPEAKER_00,de,9.,0.1464
+2.0,4.0,2.0,SPEAKER_00,de,20.,0.1464
+4.0,6.0,2.0,SPEAKER_00,de,Das ist eine Party hinter dir.,0.1464
+7.0,9.0,2.0,SPEAKER_00,de,9.,0.3828
+9.0,11.0,2.0,SPEAKER_00,de,20.,0.3828
+11.0,14.0,3.0,SPEAKER_00,de,Das ist eine Party hinter dir.,0.3828
+14.0,16.0,2.0,SPEAKER_00,de,10.,0.1838
+16.0,42.46,26.46,SPEAKER_00,de,Das ist ein,0.1838
+42.46,44.46,2.0,SPEAKER_01,de,Räder.,0.2396
+44.46,46.46,2.0,SPEAKER_02,de,10.,0.2396
+46.46,48.46,2.0,SPEAKER_02,de,Das ist ein Vollzählick.,0.2396
+48.46,50.46,2.0,SPEAKER_02,de,Ich schließe mal die Tür.,0.2396
+50.46,52.46,2.0,SPEAKER_02,de,Das ist ein Leihshauch am Start.,0.2396
+52.46,54.46,2.0,SPEAKER_02,de,So können wir beginnen.,0.2396
+54.46,56.46,2.0,SPEAKER_02,de,Gebe ich gleich meinen Redeball weiter?,0.2396
+56.46,58.46,2.0,SPEAKER_02,de,Ich nehme den Redeball an.,0.2396
+58.46,60.46,2.0,SPEAKER_02,de,Ich starte.,0.2396
+60.46,62.46,2.0,SPEAKER_01,de,"Diese Woche hatte ich vor,",0.2396
+62.46,64.46000000000001,2.0,SPEAKER_01,de,ich habe den Räder in der Mitte.,0.2396
+64.46000000000001,66.46000000000001,2.0,SPEAKER_03,de,Ich habe den Räder in der Mitte.,0.2396
+66.46000000000001,68.46000000000001,2.0,SPEAKER_03,de,Ich habe den Räder in der Mitte.,0.2396
+68.46000000000001,70.46000000000001,2.0,SPEAKER_03,de,Ich habe den Räder in der Mitte.,0.2396
+70.46,78.46,8.0,SPEAKER_03,de,"Ich habe den Räder bei dessert,",0.0017
+78.46,85.46,7.0,SPEAKER_03,de,"von RTXлоfim und Highlighttherapie,",0.0017
+85.46,90.46,5.0,SPEAKER_03,de,und dieser Woche hatte ich vor gehabtre Renditions.,0.0017
+90.46,94.46,4.0,SPEAKER_03,de,"Ich habe ech wenigstens die kingsten Eslend-Guardlines,",0.0017
+94.46,99.46,5.0,SPEAKER_03,de,"weisen die Konzerte,",0.0017
+99.46,104.46,5.0,SPEAKER_03,de,"Ich denke auch, Bukit war im Urlaub, also so sieht es halt vom Team aus her aus.",0.318
+104.46,109.46,5.0,SPEAKER_03,de,"Deswegen kam da jetzt nichts, aber vom Field Service kamen ein, zwei Sachen.",0.318
+109.46,111.46,2.0,SPEAKER_03,de,Da sind die Änderungen auch schon depleit.,0.318
+111.46,124.46,13.0,SPEAKER_03,de,"Und bei SellykuBS, da ging es halt einfach darum, dass ich nochmal mit dem Herr den Nachnamen weiß ich nicht mehr, den Haken.",0.318
+124.46,130.45999999999998,6.0,SPEAKER_03,de,"Da ist ich da mit ihm nochmal rede wegen dem Flow, ob da auch neue Anpassungswünsche kommen.",0.4165
+130.45999999999998,136.45999999999998,6.0,SPEAKER_03,de,"Die sind gekommen, da habe ich jetzt hingeschrieben 50-50-Donn.",0.4165
+136.45999999999998,139.45999999999998,3.0,SPEAKER_03,de,"Da gab es noch eine Änderung, die ich noch nicht geschafft habe.",0.4165
+139.45999999999998,148.45999999999998,9.0,SPEAKER_03,de,"Da halt noch ein Issue kam, also der hat im Flow noch Einträge im Archiv mitgenommen.",0.4165
+148.45999999999998,153.45999999999998,5.0,SPEAKER_03,de,"Da hat er die ganzen Kommentare noch hinzugefügt, was problematisch ist.",0.4165
+153.46,156.46,3.0,SPEAKER_03,de,Dieses Problem habe ich von meinen Testungen aus.,0.4095
+156.46,160.46,4.0,SPEAKER_03,de,Also ich habe es nicht mit seinem Trello gearbeitet.,0.4095
+160.46,167.46,7.0,SPEAKER_03,de,"Also mit meinem eigenen Trello, da habe ich von meinen Testungen aus schon mal den Flow halt überarbeitet, habe das angepasst.",0.4095
+167.46,169.46,2.0,SPEAKER_03,de,Da funktioniert es.,0.4095
+169.46,177.46,8.0,SPEAKER_03,de,"Jetzt geht es darum, dass ich nochmal mit ihm nächste Woche dann spreche und dann wieder den Flow aktiviere, wenn das okay ist.",0.4095
+177.46,182.46,5.0,SPEAKER_03,de,"Dann hatte ich noch den Block, ja, für 900.",0.4095
+182.46,185.46,3.0,SPEAKER_03,de,Da habe ich seit dieser Woche angefangen.,0.4132
+185.46,196.46,11.0,SPEAKER_03,de,"Da habe ich den ersten Modul fast durch, aber den habe ich auch schon damals durch gehabt, weil ich angefangen hatte für PL200 zu lernen.",0.4132
+196.46,199.46,3.0,SPEAKER_03,de,"Aber da muss ich die Sachen einfach nochmal auffrischen, nochmal durchgehen.",0.4132
+199.46,207.46,8.0,SPEAKER_03,de,"Und da fehlen mir jetzt noch zwei Lernanheiten, das werde ich dann auch noch fertig stellen.",0.4132
+207.46,209.46,2.0,SPEAKER_03,de,Warum ich diese Woche der Beste bin?,0.4132
+209.46,215.46,6.0,SPEAKER_03,de,"Ich finde, meine Kommunikation mit Harkan diese Woche war auch sehr gut wegen Trello.",0.4287
+215.46,219.46,4.0,SPEAKER_03,de,Auch da kann ich noch selbstbewusster sein.,0.4287
+219.46,224.46,5.0,SPEAKER_03,de,"Da habe ich auch ein kleines Feedback dazu bekommen, von Fabian.",0.4287
+224.46,235.46,11.0,SPEAKER_03,de,"Aber auch da, wie ich dann auch mit dem Problem umgegangen bin, ich habe auch schnell gesehen, dass immer schief halt eben noch ein paar Einzelheiten sind,",0.4287
+235.46,238.46,3.0,SPEAKER_03,de,die ich dann eben vorausfiltern kann.,0.4031
+238.46,240.46,2.0,SPEAKER_03,de,Und das Problem habe ich halt selbst herausgefunden.,0.4031
+240.46,248.46,8.0,SPEAKER_03,de,"Und da finde ich, dass ich da auch einen großen Step gemacht habe, in Sachen von Problemfindungen und daraus eine Lösung zu finden.",0.4031
+248.46,251.46,3.0,SPEAKER_03,de,"Das finde ich gut, das habe ich gut gemacht.",0.4031
+251.46,261.46000000000004,10.0,SPEAKER_03,de,"Privattraining weiter durchgezogen, Gym durchgezogen.",0.4031
+261.46,266.46,5.0,SPEAKER_03,de,"Fußball jetzt erstmal komplett pausiert, weil meine Verletzung ein bisschen schlimmer geworden ist.",0.399
+266.46,276.46,10.0,SPEAKER_03,de,"Aber auch da werde ich nächste Woche jetzt beim Sportmediziner persönlich erscheinen, um Terminen ausmachen zu können, weil das Telefon nicht nicht ging.",0.399
+276.46,281.46,5.0,SPEAKER_03,de,Jetzt bin ich durch. Ich gebe heute an Blagoja.,0.399
+281.46,283.46,2.0,SPEAKER_04,de,Danke schön.,0.399
+283.46,290.46,7.0,SPEAKER_04,de,"Also bei FP, ich habe zwei Backtickets gefixt und gemacht.",0.3841
+290.46,297.46,7.0,SPEAKER_04,de,"Dort gibt es noch ein paar Themen, die ich für die nächste Woche fertigstellen.",0.3841
+297.46,304.46,7.0,SPEAKER_04,de,"Also die zwei Backtickets, die ich habe erledigt, die sind bei Kunden schon um Testen.",0.3841
+304.46,309.46,5.0,SPEAKER_04,de,"Die müssen das einfach durchtesten und dann schauen, ob etwas kommt zurück oder nicht.",0.3841
+309.46,315.46,6.0,SPEAKER_04,de,"Und bei Lichtblick, ich hatte ein Backticket fertiggestellt.",0.3871
+315.46,321.46,6.0,SPEAKER_04,de,Und auch ich habe den Bacon mit Testen geholfen diese ganze Woche.,0.3871
+321.46,334.46,13.0,SPEAKER_04,de,"Und ja, warum bin ich die Beste dieser Woche, weil ich war echt hilfreich bei Lichtblick mit dem Testen von Bacon.",0.3871
+334.46,342.46,8.0,SPEAKER_04,de,Also mehr Sessions gehabt mit Pedro und Mitra.,0.2853
+342.46,351.46,9.0,SPEAKER_04,de,"Und die zweite Grund ist, dass ich einen Gurgerums-Boerkunde bekommen.",0.2853
+351.46,354.46,3.0,SPEAKER_04,de,Und ja.,0.2853
+354.46,357.46,3.0,SPEAKER_05,de,Was ist das?,0.2853
+357.46,360.46,3.0,SPEAKER_04,de,German citizenship.,0.2853
+360.46,362.46,2.0,SPEAKER_04,de,Nice.,0.3761
+362.46,364.46,2.0,SPEAKER_05,de,Congratulations.,0.3761
+364.46,366.46,2.0,SPEAKER_04,de,Thank you.,0.3761
+366.46,368.46,2.0,SPEAKER_04,de,Und ich gebe weiter ansatz.,0.3761
+368.46,371.46,3.0,SPEAKER_05,de,Danke dir.,0.3761
+371.46,375.46,4.0,SPEAKER_05,de,"Genau, was ich diese Woche vorhatte.",0.3761
+375.46,377.46,2.0,SPEAKER_05,de,Erstmal bei Lichtblick.,0.3761
+377.46,384.46,7.0,SPEAKER_05,de,"Die Themen, die bei mir auf waren, hatte ich vor, die einfach zu erledigen.",0.3761
+384.46,397.46,13.0,SPEAKER_05,de,"Aber das war halt nicht möglich, weil der Po und Anja, Process Managerin, die waren also, der Jens war krank seit zwei Wochen.",0.4021
+397.46,399.46,2.0,SPEAKER_05,de,Und Anja war im Urlaub.,0.4021
+399.46,411.46,12.0,SPEAKER_05,de,"Deswegen könnte ich die Bestätigungs- und die faktische Fragen, die ich hatte, einfach nicht geantwortet bekommen.",0.4021
+411.46,416.46,5.0,SPEAKER_05,de,Und deswegen habe ich die Themen einfach auch in Holt gelassen.,0.377
+416.46,423.46,7.0,SPEAKER_05,de,Und die Backtickets und alle Support-Themen habe ich durchgenommen und erledigt.,0.377
+423.46,427.46,4.0,SPEAKER_05,de,"Genau, außerdem habe ich auch der E-Mail-Form.",0.3965
+427.46,429.46,2.0,SPEAKER_05,de,Habe ich auch ganz optimiert.,0.3965
+429.46,440.46,11.0,SPEAKER_05,de,"Und das heißt jetzt, diese Arbeitsplats bei der E-Mail-Formular ist auch richtig gut geworden.",0.3965
+440.46,444.46,4.0,SPEAKER_05,de,Und das wird mit dem nächsten Deployment live gehen.,0.3965
+445.46,455.46,10.0,SPEAKER_05,de,"Genau, bei PIN hatte ich vor dieser Woche die Themen, die wir seit drei Wochen entwickelt haben, live zu nehmen.",0.4367
+455.46,457.46,2.0,SPEAKER_05,de,Das habe ich gemacht.,0.4367
+457.46,464.46,7.0,SPEAKER_05,de,"Und dafür haben wir auch einen großen Lob bekommen von Anja, dass alles sauber läuft.",0.4367
+465.46,466.46,1.0,SPEAKER_05,de,"Ja, danke.",0.3533
+466.46,474.46,8.0,SPEAKER_05,de,"Obwohl sie mir einen Back gefunden hat, das habe ich auch sofort gefixt heute Nachtmittag.",0.3533
+474.46,475.46,1.0,SPEAKER_05,de,"Aber ja, schon gut.",0.3533
+475.46,477.46,2.0,SPEAKER_05,de,Was war das für ein Back?,0.3533
+477.46,479.46,2.0,SPEAKER_05,de,Das war ein Managed-Lehrer.,0.3533
+479.46,487.46,8.0,SPEAKER_05,de,"Also, sie hatte ein Problem bei E-Mails.",0.3533
+487.46,490.46,3.0,SPEAKER_05,de,Und das haben wir schnell gefixt im Port.,0.3533
+490.46,492.46,2.0,SPEAKER_05,de,Und nach dem Deployment gab es diese Leer.,0.3816
+492.46,494.46,2.0,SPEAKER_05,de,Das war schon lange her.,0.3816
+494.46,499.46,5.0,SPEAKER_05,de,"Genau, das war nicht für Learnings.",0.3816
+499.46,500.46,1.0,SPEAKER_05,de,Auf jeden Fall.,0.3816
+500.46,502.46,2.0,SPEAKER_05,de,"Aber ja, sie ist zufrieden.",0.3816
+502.46,503.46,1.0,SPEAKER_05,de,Das ist wichtig.,0.3816
+503.46,506.46,3.0,SPEAKER_05,de,Und wir machen weiter.,0.3816
+506.46,514.46,8.0,SPEAKER_05,de,"Genau, bei G plus H hatte ich diese wirklich viel Zeit genommen, weil ich hatte.",0.3816
+514.46,519.46,5.0,SPEAKER_05,de,Und diese Power BI Dashboard habe ich aufgebaut.,0.3947
+519.46,520.46,1.0,SPEAKER_05,de,Sehr geiles Dashboard.,0.3947
+520.46,523.46,3.0,SPEAKER_05,de,Die waren echt zufrieden.,0.3947
+523.46,527.46,4.0,SPEAKER_05,de,"Und ja, Flows habe ich gefixt.",0.3947
+527.46,529.46,2.0,SPEAKER_05,de,Viel Service App habe ich angepasst.,0.3947
+529.46,535.46,6.0,SPEAKER_05,de,Diese Kalender und alle Sachen Ansichten habe ich angepasst und optimiert.,0.3947
+535.46,543.46,8.0,SPEAKER_05,de,Und diese Verkaufsschousse und Angebot Entitette Formularen habe ich auch ein bisschen angepasst.,0.3947
+543.46,551.46,8.0,SPEAKER_05,de,"Aber diese Wortvorlage bleibt immer noch auf, weil dafür hatte ich knapp Zeit.",0.4005
+551.46,558.46,7.0,SPEAKER_05,de,Und das habe ich vor nächster Woche dran zu arbeiten.,0.4005
+558.46,564.46,6.0,SPEAKER_05,de,"Genau, warum bin ich der Beste diese Woche, weil ich viele Support-Themen in mich gefummelt habe.",0.4005
+564.46,570.46,6.0,SPEAKER_05,de,"Und habe ich auch, wie gesagt, meine Kunde zufrieden gelassen.",0.4005
+570.46,583.46,13.0,SPEAKER_05,de,"Und ja, und zweiter Kunde, warum bin ich der Beste diese Woche, weil ich war fast krank, aber ich habe überlebt.",0.3702
+583.46,585.46,2.0,SPEAKER_05,de,TTT.,0.3702
+585.46,587.46,2.0,SPEAKER_05,de,"TTT, genau.",0.3702
+587.46,589.46,2.0,SPEAKER_01,de,Fabi kann das bestätigen.,0.3702
+589.46,590.46,1.0,SPEAKER_01,de,Das stimmt.,0.3702
+590.46,593.46,3.0,SPEAKER_01,de,"Ich habe einen Satschen, glaube ich, 3 Liter Tee an einem Tag trinken sehen.",0.3702
+593.46,595.46,2.0,SPEAKER_01,de,Das war krass.,0.3702
+595.46,597.46,2.0,SPEAKER_01,de,Hat es geklappt mit dem World Time Blade?,0.3702
+597.46,604.46,7.0,SPEAKER_01,de,"Das ist nochmal Downloads und Decimization, also die Metadaten gezogen werden?",0.3743
+604.46,606.46,2.0,SPEAKER_05,de,Noch nicht.,0.3743
+606.46,613.46,7.0,SPEAKER_05,de,"Aber ja, ich werde es weiter schauen und finden wir bestimmt heraus.",0.3743
+613.46,620.46,7.0,SPEAKER_05,de,"Genau, damit gebe ich das Wort weiter an Dominik.",0.3743
+620.46,622.46,2.0,SPEAKER_06,de,Danke dir.,0.3743
+622.46,627.46,5.0,SPEAKER_06,de,"Ja, genau, für die 2 Tage, wo ich hier war, Lichtblick, da hatte ich für einen Ticket vorgenommen.",0.3757
+627.46,632.46,5.0,SPEAKER_06,de,"Das eine Ticket ist auch fertig, das andere Ticket, das ist so weit durch wie ich es machen konnte.",0.3757
+632.46,640.46,8.0,SPEAKER_06,de,"Anja braucht jetzt ja dafür, für die weitere Rückmache der restlichen E-Mails, die bei den Beschäftsfahrten noch übrig geblieben sind.",0.3757
+640.46,650.46,10.0,SPEAKER_06,de,"Wie wir mit denen verkehren, das sind jetzt nur noch 8 E-Mails, also von daher von knapp 100 E-Mails ist das so gut, die dann.",0.3757
+650.46,659.46,9.0,SPEAKER_06,de,"Bei ITN-IE, da hatte ich Katalass App supportet diese Woche und diverse Rückfragen nochmal, auch nochmal Danke an dir Fabian,",0.2996
+659.46,666.46,7.0,SPEAKER_06,de,"an die Kollegen gestellt und bin ein bisschen weitergekommen gleich jetzt nächste Woche mit dem Kunden nochmal,",0.2996
+666.46,672.46,6.0,SPEAKER_06,de,dass sie auch von Dev in die andere Richtung arbeiten und ich werde von Prod in Richtung Dev.,0.2996
+672.46,681.46,9.0,SPEAKER_06,de,"Und ITNetX, da haben wir diese Woche unser Meeting gehabt für das Sparing für 2025.",0.4081
+681.46,689.46,8.0,SPEAKER_06,de,"Daraus sind schon vier große Themen entstanden, eines davon ist schon fertig, ist jetzt gerade das Protdeployment am Laufen.",0.4081
+689.46,696.46,7.0,SPEAKER_06,de,"Genau, und dann, wenn das Protdeployment durch ist, mache ich dann noch die Datenübertragung der Records",0.4081
+696.46,704.46,8.0,SPEAKER_06,de,"und dann ist das eine Ticket auch so mit abgeschlossen für diese Woche, ja und das war meine kurze, aber danke schon.",0.3676
+704.46,712.46,8.0,SPEAKER_06,de,"Warum bin ich die Woche der Beste? Ich bin zurück von den Toten, nichtsdestotrotz werde ich im Wochenende wieder weiter mein Saxophon üben.",0.3676
+712.46,717.46,5.0,SPEAKER_06,de,"Jetzt geht auf mit der Lunge es wieder und ja, deswegen bin ich die Woche der Beste.",0.3676
+717.46,720.46,3.0,SPEAKER_06,de,"Und dann, Sege, mach bitte weiter.",0.3676
+721.46,723.46,2.0,SPEAKER_07,de,Danke Dominik.,0.2768
+727.46,736.46,9.0,SPEAKER_07,de,"Okay, FST Investment Management, Solution Deployment to Test and Prod, das ist fertig.",0.2768
+736.46,746.46,10.0,SPEAKER_07,de,"Ich habe die Deployment to Production einfach vor zehn Minuten geschafft, aber es ist wirklich fertig.",0.2768
+747.46,763.46,16.0,SPEAKER_07,de,"FST Investment Management, es ist nicht fertig, weil während des Testen, sie haben gefunden, dass ein paar Dokumentationen geändert werden sollten und ich habe den Code-Adjustment aufgenommen,",0.1449
+763.46,771.46,8.0,SPEAKER_07,de,"und ich habe dann die Deployment zu den Verlustern gefordert, die ich in der Woche wieder aufgenommen habe.",0.1398
+771.46,776.46,5.0,SPEAKER_07,de,"Und dann habe ich die Deployment zu den Verlustern gefordert, die ich in der Woche wieder aufgenommen habe.",0.1398
+776.46,783.46,7.0,SPEAKER_07,de,"Und dann habe ich die Deployment zu den Verlustern gefordert, die ich in der Woche wieder aufgenommen habe.",0.1398
+783.46,791.46,8.0,SPEAKER_07,de,"Es ist eigentlich refacturiert, aber nicht gefordert, um zu testen.",0.1538
+794.46,797.46,3.0,SPEAKER_07,de,Weil es keine Zeit für Testen ist.,0.1538
+797.46,808.46,11.0,SPEAKER_07,de,"Und die Erfektion der Testen, die ich im Jahr 2017 aufgerichtet habe, habe ich auch den Code refacturiert.",0.1391
+808.46,816.46,8.0,SPEAKER_07,de,"Und ich bin jetzt 100% sicher, dass es in der Multithread-Mode funktioniert.",0.1391
+816.46,821.46,5.0,SPEAKER_07,de,Und es ist geployt im Testsystem.,0.1391
+821.46,840.46,19.0,SPEAKER_07,de,"Es gibt keine Resultativen, die ich erwartet habe, aber ich glaube, dass es die Erfektion der Linen nicht mit der Erfektion geht.",0.1318
+840.46,847.46,7.0,SPEAKER_07,de,"Und auch im BMI-Report, das ist auch fertig.",0.1318
+847.46,853.46,6.0,SPEAKER_07,de,"FST-Gets, komplettes Ticket, auch fertig.",0.187
+853.46,859.46,6.0,SPEAKER_07,de,Und ich habe einen anderen Ticket in der Cloud Form geboten.,0.187
+859.46,862.46,3.0,SPEAKER_07,de,Ich bin der Besten dieser Woche.,0.187
+862.46,867.46,5.0,SPEAKER_07,de,"Ich bin wirklich froh, die Power BI-Report zu beobachten.",0.187
+867.46,872.46,5.0,SPEAKER_07,de,"Danke Fabio, du hast das Dokumentarier gefunden.",0.187
+872.46,876.46,4.0,SPEAKER_07,de,"Ich habe das Ticket geboten, aber ich habe es nicht geboten.",0.2647
+876.46,880.46,4.0,SPEAKER_07,de,"Ich habe es nicht geboten, aber ich habe es nicht geboten.",0.2647
+880.46,884.46,4.0,SPEAKER_07,de,"Ich habe es nicht geboten, aber ich habe es nicht geboten.",0.2647
+884.46,888.46,4.0,SPEAKER_07,de,"Ich habe es nicht geboten, aber ich habe es nicht geboten.",0.2647
+888.46,892.46,4.0,SPEAKER_07,de,"Ich habe es nicht geboten, aber ich habe es nicht geboten.",0.2647
+892.46,896.46,4.0,SPEAKER_07,de,"Ich habe es nicht geboten, aber ich habe es nicht geboten.",0.2647
+897.46,902.46,5.0,SPEAKER_07,de,"Ich habe die Weise, wie ich Logs sehen kann.",0.2201
+902.46,907.46,5.0,SPEAKER_07,de,Denn für mich ist es nicht wirklich tracenlos.,0.2201
+907.46,912.46,5.0,SPEAKER_07,de,Aber ich habe es für deine Informationen entwickelt.,0.2201
+912.46,919.46,7.0,SPEAKER_07,de,"Ich habe einen besonderen Endpunkt, wo du die Trace-Login beobachten kannst.",0.2201
+919.46,923.46,4.0,SPEAKER_07,de,Und die Antwort ist basically die Trace-Login.,0.2201
+923.46,927.46,4.0,SPEAKER_07,de,Man kann sie sehen und was mit.,0.1558
+927.46,931.46,4.0,SPEAKER_07,de,Kannst du hier die Zeit beobachten?,0.1558
+931.46,934.46,3.0,SPEAKER_01,de,In zwei Minuten?,0.1558
+934.46,938.46,4.0,SPEAKER_07,de,"Ja, das ist der Moment.",0.1558
+938.46,946.46,8.0,SPEAKER_07,de,"Ich erinnere mich nicht, wenn ich ...",0.1558
+954.46,958.46,4.0,SPEAKER_00,de,Ich muss die Trace-Login beobachten.,0.1418
+958.46,962.46,4.0,SPEAKER_00,de,"Okay, das ist ein Content-Decater.",0.1418
+962.46,973.46,11.0,SPEAKER_00,de,Können Sie mir das Endpunkt beobachten?,0.1418
+973.46,979.46,6.0,SPEAKER_00,de,Weil ich die Trace-Login beobachten muss.,0.2528
+979.46,983.46,4.0,SPEAKER_00,de,Du meinst das Endpunkt?,0.2528
+983.46,986.46,3.0,SPEAKER_01,de,Du brauchst es?,0.2528
+986.46,988.46,2.0,SPEAKER_01,de,Du brauchst den Endpunkt?,0.2528
+988.46,991.46,3.0,SPEAKER_07,de,Du brauchst die URL?,0.2528
+991.46,994.46,3.0,SPEAKER_00,de,Ich brauch die URL.,0.2528
+994.46,997.46,3.0,SPEAKER_00,de,Das sollte es sein.,0.2528
+1003.46,1007.46,4.0,SPEAKER_00,de,"Okay, so lange?",0.1609
+1007.46,1017.46,10.0,SPEAKER_00,de,Und ich werde meine Post-Login beobachten.,0.1609
+1017.46,1022.46,5.0,SPEAKER_00,de,"Oh, jetzt habe ich die Scham.",0.1609
+1022.46,1025.46,3.0,SPEAKER_00,de,Scham.,0.1609
+1025.46,1036.46,11.0,SPEAKER_07,de,"So, wir haben die Trace-Login-Endpunkt.",0.1973
+1036.46,1039.46,3.0,SPEAKER_07,de,Und jetzt versucht es.,0.1973
+1039.46,1043.46,4.0,SPEAKER_07,de,Jetzt ist die Antwort eröffnet.,0.1973
+1043.46,1050.46,7.0,SPEAKER_07,de,Und jetzt werde ich die Antwort beobachten.,0.1973
+1056.46,1059.46,3.0,SPEAKER_00,de,"So, das ist es.",0.1311
+1059.46,1061.46,2.0,SPEAKER_00,de,Du kannst die Scham copy.,0.1311
+1061.46,1065.46,4.0,SPEAKER_07,de,Ich schieße die Scham-End-Paste.,0.1311
+1065.46,1069.46,4.0,SPEAKER_07,de,Dann gehe ich zur Not-Paste.,0.1311
+1069.46,1073.46,4.0,SPEAKER_07,de,"Ich habe einen speziellen Makro-Schiff,",0.1311
+1073.46,1080.46,7.0,SPEAKER_07,de,der diese Stimmungen zu den Scham-Rechern verwendet.,0.1311
+1080.46,1090.46,10.0,SPEAKER_07,de,"Wir sehen, dass die Stimmungen simultaneously verwendet.",0.1899
+1090.46,1095.46,5.0,SPEAKER_07,de,Sie haben ein paar Logen und machen einiges.,0.1899
+1095.46,1099.46,4.0,SPEAKER_07,de,Das ist alles hier.,0.1899
+1099.46,1101.46,2.0,SPEAKER_01,de,Cool.,0.1899
+1101.46,1105.46,4.0,SPEAKER_01,de,"Ich denke, solche kleinen Dinge sind wirklich cool.",0.1899
+1105.46,1109.46,4.0,SPEAKER_01,de,Es gibt einen besseren Überblick und einen besseren Blick auf das System.,0.1899
+1109.46,1111.46,2.0,SPEAKER_02,de,Cool.,0.2314
+1111.46,1116.46,5.0,SPEAKER_00,de,"So, am Ende.",0.2314
+1116.46,1121.46,5.0,SPEAKER_00,de,Danke.,0.2314
+1121.46,1137.46,16.0,SPEAKER_08,de,Meine Wurkauer war sehr beschäftigt bei Casino und auch FST jetzt.,0.2314
+1137.46,1146.46,9.0,SPEAKER_08,de,Bei Casino hatte ich die Änderung von dem Dev-Environment-Test-Deployment gemacht.,0.3529
+1146.46,1152.46,6.0,SPEAKER_08,de,Dann habe ich drei neue Plug-in-Tas geschrieben.,0.3529
+1152.46,1157.46,5.0,SPEAKER_08,de,Und lässt es von der Bug-Resolution.,0.3529
+1157.46,1165.46,8.0,SPEAKER_08,de,"Das ist ein Fehltnock, weil die Microsoft-Support hat keine Flosen gefunden.",0.3529
+1165.46,1168.46,3.0,SPEAKER_08,de,"So, ja, unfortunately.",0.3437
+1168.46,1174.46,6.0,SPEAKER_08,de,"Zweitens von FST Gats, so komplett drei Tickets ins Fremd.",0.3437
+1174.46,1181.46,7.0,SPEAKER_08,de,"Das habe ich gemerkt, aber ich hatte auch viele kleinere Bugs erledigt.",0.3437
+1181.46,1186.46,5.0,SPEAKER_08,de,"Heute, wir hatten einen Review oder einen Test mit den Kunden.",0.3437
+1186.46,1188.46,2.0,SPEAKER_08,de,Es war gut.,0.3437
+1188.46,1196.46,8.0,SPEAKER_08,de,"Und nächste Woche haben wir Nocken-Deployment, Nocken-Produktion mit den neuen Chancen.",0.2854
+1196.46,1204.46,8.0,SPEAKER_08,de,"Bei Listflicks, so deploy new pre-sales changes, das habe ich letztes Woche über den Freitag gemerkt.",0.2854
+1204.46,1214.46,10.0,SPEAKER_08,de,"Und die Dokumentation ist in Progression, auf Kanban, auf Pitch, Kanban und auch pre-sales.",0.2854
+1214.46,1224.46,10.0,SPEAKER_08,de,"Und Listflicks bei PIN, da war ein Support-Ticket, das ich, dass ich zu schreiben hatte.",0.3122
+1224.46,1231.46,7.0,SPEAKER_08,de,Aber das war ein Result mit dem Team-Meting mit Julian und Sachin.,0.3122
+1231.46,1236.46,5.0,SPEAKER_08,de,Das war ein Problem von der Customer Voice App.,0.3122
+1236.46,1240.46,4.0,SPEAKER_08,de,Das war nischt in der License.,0.3122
+1240.46,1247.46,7.0,SPEAKER_08,de,"Wir hatten einen Kino-License für die Customer Voice App, aber wir hatten die anderen Dynamics-Apps.",0.208
+1247.46,1253.46,6.0,SPEAKER_08,de,Wir haben sie gefunden und haben eine neue App zu kaufen.,0.208
+1253.46,1257.46,4.0,SPEAKER_08,de,Was sonst?,0.208
+1257.46,1267.46,10.0,SPEAKER_08,de,"Bei Lupus Alpha, wir haben diese Woche keinen Task, weil ich warte auf Christian.",0.3413
+1267.46,1271.46,4.0,SPEAKER_08,de,"Hoffentlich nicht, wo er ist.",0.3413
+1271.46,1289.46,18.0,SPEAKER_08,de,"Ich bin die beste dieser Woche, weil ich habe detaillierte Plug-in Tasken.",0.2321
+1289.46,1296.46,7.0,SPEAKER_08,de,"Ich habe mit dem Hilfe von Julian, der Detaillierter, gelernt, Plug-in Tasken zu schreiben.",0.2321
+1296.46,1301.46,5.0,SPEAKER_08,de,"Ich bin sicher, dass ich mehr Tasken für den Kino-Projekt schreiben kann.",0.2638
+1301.46,1313.46,12.0,SPEAKER_08,de,"Und zweitens, ich habe auch viele Themen oder Änderungen gemacht, auch bei Gats, auch bei Canosapp und OBI.",0.2638
+1313.46,1317.46,4.0,SPEAKER_08,de,Das gefällt mir.,0.2638
+1317.46,1320.46,3.0,SPEAKER_01,de,"Danke, Fabi.",0.2638
+1320.46,1322.46,2.0,SPEAKER_01,de,"Danke, der Roy.",0.3695
+1322.46,1326.46,4.0,SPEAKER_01,de,Bei mir diese Woche sah es ähnlich aus wie bei allen.,0.3695
+1326.46,1333.46,7.0,SPEAKER_01,de,Bei FBM haben wir jetzt das V1-Feature-Claim abgeschlossen.,0.3695
+1333.46,1337.46,4.0,SPEAKER_01,de,Die 32 Tickets wurden am Montag alle geschlossen.,0.3695
+1337.46,1344.46,7.0,SPEAKER_01,de,"Es gab zwei kleinere Änderungen, die wir direkt live nehmen mussten, aber es fühlt sich gut an.",0.3695
+1344.46,1354.46,10.0,SPEAKER_01,de,Die Quality Management Canvas App wird intern von einem Entwickler gebaut.,0.3552
+1354.46,1359.46,5.0,SPEAKER_01,de,"Das dauert noch ein, zwei Wochen und danach ist die Solution in Use.",0.3552
+1359.46,1362.46,3.0,SPEAKER_01,de,Parallel dazu haben wir mit dem aktuellen Sprint angefangen.,0.3552
+1362.46,1364.46,2.0,SPEAKER_01,de,Da sind ungefähr 20 Tickets drin.,0.3552
+1364.46,1369.46,5.0,SPEAKER_01,de,Davon habe ich jetzt auch schon vier abgearbeitet diese Woche.,0.3552
+1369.46,1377.46,8.0,SPEAKER_01,de,"Wenn ich zurückstelle, das ist ein starker Buck, belädter Sprint.",0.3374
+1377.46,1382.46,5.0,SPEAKER_01,de,"Wir haben ungefähr zehn Bucks, die sich über die letzten vier bis sechs Monate angestaut haben,",0.3374
+1382.46,1384.46,2.0,SPEAKER_01,de,die alle nicht wirklich businessrelevant sind.,0.3374
+1384.46,1388.46,4.0,SPEAKER_01,de,Also alle so ein relativ lowest Rating haben.,0.3374
+1388.46,1391.46,3.0,SPEAKER_01,de,"Deswegen wurden die auch die letzten drei, vier Monate ignoriert.",0.3374
+1391.46,1398.46,7.0,SPEAKER_01,de,"Aber jetzt geht es darum, einfach mal die Technical Daps abzuarbeiten und neue Features dann sich zu überlegen.",0.3374
+1398.46,1404.46,6.0,SPEAKER_01,de,"Gerade beim Claim Bits gibt es auch schon die Version 2 Tickets, die teilweise auch schon in Sprint sind.",0.3927
+1404.46,1410.46,6.0,SPEAKER_01,de,"LB hat sich mir vorgenommen, die Solution auch zu räumen und einmal zu Upgraden.",0.3927
+1410.46,1414.46,4.0,SPEAKER_01,de,"Das haben wir nicht gemacht, das sind nicht live gegangen mit den aktuellen Änderungen,",0.3927
+1414.46,1422.46,8.0,SPEAKER_01,de,"weil da Willi sah auch mit der WhatsApp-Feature, die integrieren WhatsApp in Dynamics,",0.3927
+1422.46,1428.46,6.0,SPEAKER_01,de,"noch nicht 100% durch ist und die nächsten drei Tage dann, also am Montag, Dienstag, Mittwoch weg ist,",0.3712
+1428.46,1435.46,7.0,SPEAKER_01,de,"hatten wir gesagt, okay, skippen wir das Brottdebläumant, bedeutet das Ganze ist noch in Brokers, genau wie die Dokumentation.",0.3712
+1435.46,1445.46,10.0,SPEAKER_01,de,"Wir hatten einen guten Termin, wo wir die Support Cases aufgedeckt haben, die wir zusammen mit dem Optionen Sales Team haben,",0.3712
+1445.46,1448.46,3.0,SPEAKER_01,de,um das eben intern abgeben zu können.,0.3712
+1448.46,1454.46,6.0,SPEAKER_01,de,"Alirokurs ist ein Kurs, den ich mir vorgenommen habe, in meiner Zielvereinbarung bis April,",0.4339
+1454.46,1459.46,5.0,SPEAKER_01,de,"das bedeutet bis Ende April, sind zwei Stunden left, die mache ich jetzt heute oder morgen noch,",0.4339
+1459.46,1467.46,8.0,SPEAKER_01,de,"da bin ich dann auch dann und habe eins von fünf Themen, die ich bis Ende April angehen will, schon gelöst.",0.4339
+1467.46,1474.46,7.0,SPEAKER_01,de,"Hoffen natürlich auch, ihr seid auf eurem Weg, eure Zielvereinbarungsthemen anzugehen,",0.4339
+1474.46,1477.46,3.0,SPEAKER_01,de,"falls ihr die Unterstützung braucht, sagt Bescheid.",0.4339
+1477.46,1479.46,2.0,SPEAKER_01,de,Warum bin ich der Beste?,0.3605
+1479.46,1487.46,8.0,SPEAKER_01,de,"Ich bin stolz auf das Claimfeature, muss ich ganz ehrlich sagen, das schöne Solution, die ist rund,",0.3605
+1487.46,1494.46,7.0,SPEAKER_01,de,"hat einen geilen, ein Brubbel-Prozess, einfach cool und sportlich, diese Woche auch schon zweimal Sport gemacht,",0.3605
+1494.46,1498.46,4.0,SPEAKER_01,de,"am Sonntag gibt es dann noch mal ein Fitness, nämlich bei Dreimer, ist auch mein Ziel dieses Jahr,",0.3605
+1498.46,1501.46,3.0,SPEAKER_01,de,"Dreimal im Durchschnitt zu gehen, die Woche.",0.3605
+1502.46,1508.46,6.0,SPEAKER_01,de,"Genau, sonst war ich von der gute Woche gepasst.",0.4053
+1508.46,1512.46,4.0,SPEAKER_01,de,"Ich bin aber auch froh, wenn nächste Woche hoffentlich wieder alle von uns da sind, insbesondere Christian.",0.4053
+1515.46,1517.46,2.0,SPEAKER_01,de,Drücken wir die Daumen.,0.4053
+1517.46,1520.46,3.0,SPEAKER_01,de,"Hinter dir ist der Waldemar schon zu sehen, das bedeutet, die sind auch durch.",0.4053
+1520.46,1524.46,4.0,SPEAKER_01,de,Dann wollen wir es auch nicht in die Länge ziehen und wollen uns zu den anderen gesellen.,0.4053
+1525.46,1530.46,5.0,SPEAKER_01,de,"Fragen, Anmerkungen, Themen von eurer Seite aus.",0.4053
+1531.46,1538.46,7.0,SPEAKER_01,de,"Vielleicht noch ganz, ganz interessant für euch bei Sally.",0.3823
+1538.46,1550.46,12.0,SPEAKER_01,de,"Diese Woche überschreiten wir wahrscheinlich die 600 aktiven Kunden, bedeutet, wir geholt damit ein anderes Start-up,",0.3823
+1550.46,1559.46,9.0,SPEAKER_01,de,"das MSAS-Bereich hier in Mafinex aktiv ist, noch nicht vom Montreal Recording, auch nicht vom Annual Recording Revenue,",0.3823
+1559.46,1564.46,5.0,SPEAKER_01,de,"aber schon mal von der Kundenanzahl was Gutes, das leutet, jede Woche floaten die Kunden rein.",0.3882
+1564.46,1570.46,6.0,SPEAKER_01,de,"Mario betreut die Supporttechnik extrem gut, schaut, welche Bewegungen die haben,",0.3882
+1570.46,1573.46,3.0,SPEAKER_01,de,"schaut, dass neue Features in die Pipeline reinkommen",0.3882
+1573.46,1578.46,5.0,SPEAKER_01,de,"und Julian, Janik, Amalia setzen das Ganze um.",0.3882
+1578.46,1587.46,9.0,SPEAKER_01,de,"Ich finde, das ist schon ziemlich geil, dass da die Kunden einfach onboardet werden ohne großen Aufwand.",0.3882
+1587.46,1590.46,3.0,SPEAKER_00,de,"Gut, gehen wir rüber.",0.233
+1594.46,1597.46,3.0,SPEAKER_00,de,"Dann, bis gleich.",0.233
+1597.46,1598.46,1.0,SPEAKER_00,de,Tschüss.,0.233
+1617.46,1620.46,3.0,SPEAKER_00,de,"Untertitel im Auftrag des ZDF, 2020",0.2615
+1647.46,1649.46,2.0,SPEAKER_00,de,.,0.1246

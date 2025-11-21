@@ -1,0 +1,2855 @@
+[
+  {
+    "start": 0.0,
+    "end": 10.44,
+    "duration": 10.44,
+    "speaker": "SPEAKER_00",
+    "language": "de",
+    "text": "Hallo!",
+    "confidence": 0.0025
+  },
+  {
+    "start": 10.44,
+    "end": 12.44,
+    "duration": 2.0,
+    "speaker": "SPEAKER_00",
+    "language": "de",
+    "text": "Hi.",
+    "confidence": 0.2214
+  },
+  {
+    "start": 30.439999999999998,
+    "end": 31.439999999999998,
+    "duration": 1.0,
+    "speaker": "SPEAKER_00",
+    "language": "de",
+    "text": "Hi.",
+    "confidence": 0.2214
+  },
+  {
+    "start": 31.439999999999998,
+    "end": 33.44,
+    "duration": 2.0,
+    "speaker": "SPEAKER_00",
+    "language": "de",
+    "text": "Hi, Sajin.",
+    "confidence": 0.2214
+  },
+  {
+    "start": 34.44,
+    "end": 36.44,
+    "duration": 2.0,
+    "speaker": "SPEAKER_01",
+    "language": "de",
+    "text": "Dominik ist in der Meeting.",
+    "confidence": 0.2023
+  },
+  {
+    "start": 36.44,
+    "end": 41.44,
+    "duration": 5.0,
+    "speaker": "SPEAKER_01",
+    "language": "de",
+    "text": "Er kommt wahrscheinlich nach der Meeting.",
+    "confidence": 0.2023
+  },
+  {
+    "start": 44.44,
+    "end": 46.44,
+    "duration": 2.0,
+    "speaker": "SPEAKER_01",
+    "language": "de",
+    "text": "Das ist ein Prisma.",
+    "confidence": 0.2023
+  },
+  {
+    "start": 50.44,
+    "end": 51.44,
+    "duration": 1.0,
+    "speaker": "SPEAKER_00",
+    "language": "de",
+    "text": "Okay.",
+    "confidence": 0.2023
+  },
+  {
+    "start": 51.44,
+    "end": 52.44,
+    "duration": 1.0,
+    "speaker": "SPEAKER_00",
+    "language": "de",
+    "text": "Ja.",
+    "confidence": 0.2023
+  },
+  {
+    "start": 52.44,
+    "end": 55.44,
+    "duration": 3.0,
+    "speaker": "SPEAKER_01",
+    "language": "de",
+    "text": "Wie geht es dir, Serge?",
+    "confidence": 0.2023
+  },
+  {
+    "start": 56.44,
+    "end": 58.44,
+    "duration": 2.0,
+    "speaker": "SPEAKER_02",
+    "language": "de",
+    "text": "Ich bin eigentlich okay.",
+    "confidence": 0.1761
+  },
+  {
+    "start": 58.44,
+    "end": 61.44,
+    "duration": 3.0,
+    "speaker": "SPEAKER_02",
+    "language": "de",
+    "text": "Ich habe meine Void schon gebraucht.",
+    "confidence": 0.1761
+  },
+  {
+    "start": 61.44,
+    "end": 64.44,
+    "duration": 3.0,
+    "speaker": "SPEAKER_02",
+    "language": "de",
+    "text": "Ich habe die Sessionen schon gebraucht.",
+    "confidence": 0.1761
+  },
+  {
+    "start": 64.44,
+    "end": 67.44,
+    "duration": 3.0,
+    "speaker": "SPEAKER_02",
+    "language": "de",
+    "text": "Aber es sollte besser werden.",
+    "confidence": 0.1761
+  },
+  {
+    "start": 67.44,
+    "end": 71.44,
+    "duration": 4.0,
+    "speaker": "SPEAKER_00",
+    "language": "de",
+    "text": "Es sollte, dass ich meine Sessionen komplett completen werde.",
+    "confidence": 0.1761
+  },
+  {
+    "start": 74.44,
+    "end": 77.44,
+    "duration": 3.0,
+    "speaker": "SPEAKER_01",
+    "language": "de",
+    "text": "Das ist gut zu hören.",
+    "confidence": 0.1761
+  },
+  {
+    "start": 77.44,
+    "end": 80.44,
+    "duration": 3.0,
+    "speaker": "SPEAKER_01",
+    "language": "de",
+    "text": "Ich kann nicht für dich hier sein.",
+    "confidence": 0.1761
+  },
+  {
+    "start": 80.44,
+    "end": 83.44,
+    "duration": 3.0,
+    "speaker": "SPEAKER_02",
+    "language": "de",
+    "text": "Ich denke, es ist ...",
+    "confidence": 0.1761
+  },
+  {
+    "start": 85.44,
+    "end": 89.44,
+    "duration": 4.0,
+    "speaker": "SPEAKER_02",
+    "language": "de",
+    "text": "Nächste Woche habe ich drei Sessionen.",
+    "confidence": 0.211
+  },
+  {
+    "start": 89.44,
+    "end": 92.44,
+    "duration": 3.0,
+    "speaker": "SPEAKER_02",
+    "language": "de",
+    "text": "Ich denke, dass ich nach der nächsten Woche wiederkommen werde.",
+    "confidence": 0.211
+  },
+  {
+    "start": 92.44,
+    "end": 93.44,
+    "duration": 1.0,
+    "speaker": "SPEAKER_03",
+    "language": "de",
+    "text": "Hallo.",
+    "confidence": 0.211
+  },
+  {
+    "start": 93.44,
+    "end": 95.44,
+    "duration": 2.0,
+    "speaker": "SPEAKER_01",
+    "language": "de",
+    "text": "Ich komme zu dir.",
+    "confidence": 0.211
+  },
+  {
+    "start": 95.44,
+    "end": 96.44,
+    "duration": 1.0,
+    "speaker": "SPEAKER_01",
+    "language": "de",
+    "text": "Hi.",
+    "confidence": 0.211
+  },
+  {
+    "start": 97.44,
+    "end": 98.44,
+    "duration": 1.0,
+    "speaker": "SPEAKER_03",
+    "language": "de",
+    "text": "Hi, Dominik.",
+    "confidence": 0.211
+  },
+  {
+    "start": 98.44,
+    "end": 99.44,
+    "duration": 1.0,
+    "speaker": "SPEAKER_03",
+    "language": "de",
+    "text": "Wie fühlst du dich?",
+    "confidence": 0.211
+  },
+  {
+    "start": 99.44,
+    "end": 100.44,
+    "duration": 1.0,
+    "speaker": "SPEAKER_01",
+    "language": "de",
+    "text": "Great.",
+    "confidence": 0.211
+  },
+  {
+    "start": 100.44,
+    "end": 102.44,
+    "duration": 2.0,
+    "speaker": "SPEAKER_03",
+    "language": "de",
+    "text": "Es ist besonders, dass ich es heute Abend habe.",
+    "confidence": 0.211
+  },
+  {
+    "start": 102.44,
+    "end": 103.44,
+    "duration": 1.0,
+    "speaker": "SPEAKER_00",
+    "language": "de",
+    "text": "Ja.",
+    "confidence": 0.211
+  },
+  {
+    "start": 105.44,
+    "end": 107.44,
+    "duration": 2.0,
+    "speaker": "SPEAKER_03",
+    "language": "de",
+    "text": "Selbst wenn du verletzt bist.",
+    "confidence": 0.211
+  },
+  {
+    "start": 109.44,
+    "end": 110.44,
+    "duration": 1.0,
+    "speaker": "SPEAKER_03",
+    "language": "de",
+    "text": "Keine Ahnung.",
+    "confidence": 0.211
+  },
+  {
+    "start": 110.44,
+    "end": 112.44,
+    "duration": 2.0,
+    "speaker": "SPEAKER_03",
+    "language": "de",
+    "text": "Es war ein bisschen ein Schreit.",
+    "confidence": 0.211
+  },
+  {
+    "start": 112.44,
+    "end": 113.44,
+    "duration": 1.0,
+    "speaker": "SPEAKER_03",
+    "language": "de",
+    "text": "Ich habe keine Ahnung.",
+    "confidence": 0.211
+  },
+  {
+    "start": 114.44,
+    "end": 117.44,
+    "duration": 3.0,
+    "speaker": "SPEAKER_03",
+    "language": "de",
+    "text": "Ichiversity hatte es.",
+    "confidence": 0.0002
+  },
+  {
+    "start": 117.44,
+    "end": 119.44,
+    "duration": 2.0,
+    "speaker": "SPEAKER_03",
+    "language": "de",
+    "text": "Jetzt kann man euch adden.",
+    "confidence": 0.0002
+  },
+  {
+    "start": 120.44,
+    "end": 122.44,
+    "duration": 2.0,
+    "speaker": "SPEAKER_03",
+    "language": "de",
+    "text": "Fernsehen recht.",
+    "confidence": 0.0002
+  },
+  {
+    "start": 125.44,
+    "end": 129.44,
+    "duration": 4.0,
+    "speaker": "SPEAKER_04",
+    "language": "de",
+    "text": "Fort Deutschland hat shorts und Corners noch ein bisschen frei.",
+    "confidence": 0.0002
+  },
+  {
+    "start": 131.44,
+    "end": 134.44,
+    "duration": 3.0,
+    "speaker": "SPEAKER_04",
+    "language": "de",
+    "text": "Sie kein Sturm Strom rückte seit Jahren?",
+    "confidence": 0.0002
+  },
+  {
+    "start": 134.44,
+    "end": 136.44,
+    "duration": 2.0,
+    "speaker": "SPEAKER_04",
+    "language": "de",
+    "text": "Heute ist sie 16 oder 18,",
+    "confidence": 0.0002
+  },
+  {
+    "start": 137.44,
+    "end": 142.42,
+    "duration": 4.98,
+    "speaker": "SPEAKER_04",
+    "language": "de",
+    "text": "durch die",
+    "confidence": 0.0002
+  },
+  {
+    "start": 142.42,
+    "end": 149.92,
+    "duration": 7.5,
+    "speaker": "SPEAKER_04",
+    "language": "de",
+    "text": "Wenn du das mal mehrmals twice times machen, dann fällst du die Sache und bekommst ein paar Injury.",
+    "confidence": 0.1249
+  },
+  {
+    "start": 149.92,
+    "end": 156.01999999999998,
+    "duration": 6.1,
+    "speaker": "SPEAKER_04",
+    "language": "de",
+    "text": "Und Seki war so, was er mir gesagt hat, ich weiß nicht, ich verstehe nur Englisch.",
+    "confidence": 0.1249
+  },
+  {
+    "start": 156.01999999999998,
+    "end": 158.01999999999998,
+    "duration": 2.0,
+    "speaker": "SPEAKER_04",
+    "language": "de",
+    "text": "Und das war eine sehr gute Phase.",
+    "confidence": 0.1249
+  },
+  {
+    "start": 158.01999999999998,
+    "end": 163.01999999999998,
+    "duration": 5.0,
+    "speaker": "SPEAKER_04",
+    "language": "de",
+    "text": "Und halb Stunden später, Seki lag auf der Erde.",
+    "confidence": 0.1249
+  },
+  {
+    "start": 165.51999999999998,
+    "end": 170.51999999999998,
+    "duration": 5.0,
+    "speaker": "SPEAKER_04",
+    "language": "de",
+    "text": "Aber es war toll und Seki hat nichts zu hören. Das ist perfekt.",
+    "confidence": 0.1249
+  },
+  {
+    "start": 171.12,
+    "end": 173.62,
+    "duration": 2.5,
+    "speaker": "SPEAKER_02",
+    "language": "de",
+    "text": "Ich bin auf der Erde.",
+    "confidence": 0.1626
+  },
+  {
+    "start": 173.62,
+    "end": 176.62,
+    "duration": 3.0,
+    "speaker": "SPEAKER_02",
+    "language": "de",
+    "text": "Der Speed war ziemlich hoch.",
+    "confidence": 0.1626
+  },
+  {
+    "start": 176.62,
+    "end": 183.62,
+    "duration": 7.0,
+    "speaker": "SPEAKER_02",
+    "language": "de",
+    "text": "Ich habe einfach meinen Kontroll über den Boden verloren.",
+    "confidence": 0.1626
+  },
+  {
+    "start": 183.62,
+    "end": 184.62,
+    "duration": 1.0,
+    "speaker": "SPEAKER_02",
+    "language": "de",
+    "text": "Das ist es.",
+    "confidence": 0.1626
+  },
+  {
+    "start": 184.62,
+    "end": 186.62,
+    "duration": 2.0,
+    "speaker": "SPEAKER_05",
+    "language": "de",
+    "text": "Ja, er hat den Rock getroffen.",
+    "confidence": 0.1626
+  },
+  {
+    "start": 186.62,
+    "end": 190.62,
+    "duration": 4.0,
+    "speaker": "SPEAKER_05",
+    "language": "de",
+    "text": "Also keine hohe Improvisation?",
+    "confidence": 0.1626
+  },
+  {
+    "start": 190.62,
+    "end": 191.62,
+    "duration": 1.0,
+    "speaker": "SPEAKER_05",
+    "language": "de",
+    "text": "Nein.",
+    "confidence": 0.1626
+  },
+  {
+    "start": 191.62,
+    "end": 197.62,
+    "duration": 6.0,
+    "speaker": "SPEAKER_02",
+    "language": "de",
+    "text": "Aber das ist eine sehr neue Erfahrung für mich und ich liebe es sehr.",
+    "confidence": 0.1626
+  },
+  {
+    "start": 197.72,
+    "end": 203.72,
+    "duration": 6.0,
+    "speaker": "SPEAKER_05",
+    "language": "de",
+    "text": "Ich kann wirklich ihn vorstellen, wenn er in der Office drückt.",
+    "confidence": 0.127
+  },
+  {
+    "start": 203.72,
+    "end": 207.72,
+    "duration": 4.0,
+    "speaker": "SPEAKER_05",
+    "language": "de",
+    "text": "Hinten, Elly.",
+    "confidence": 0.127
+  },
+  {
+    "start": 207.72,
+    "end": 209.72,
+    "duration": 2.0,
+    "speaker": "SPEAKER_05",
+    "language": "de",
+    "text": "Hinten, Hinten, Elly.",
+    "confidence": 0.127
+  },
+  {
+    "start": 209.72,
+    "end": 211.72,
+    "duration": 2.0,
+    "speaker": "SPEAKER_04",
+    "language": "de",
+    "text": "Wir schauen forward, wie viel es kostet.",
+    "confidence": 0.127
+  },
+  {
+    "start": 211.72,
+    "end": 215.72,
+    "duration": 4.0,
+    "speaker": "SPEAKER_03",
+    "language": "de",
+    "text": "Es wird sehr viel, 4 oder 5K.",
+    "confidence": 0.127
+  },
+  {
+    "start": 215.72,
+    "end": 220.72,
+    "duration": 5.0,
+    "speaker": "SPEAKER_02",
+    "language": "de",
+    "text": "Ich glaube, es ist viel cheaper, viel mehr.",
+    "confidence": 0.127
+  },
+  {
+    "start": 220.82,
+    "end": 223.82,
+    "duration": 3.0,
+    "speaker": "SPEAKER_06",
+    "language": "de",
+    "text": "Warumлагt das?",
+    "confidence": 0.0001
+  },
+  {
+    "start": 223.82,
+    "end": 242.52,
+    "duration": 18.7,
+    "speaker": "SPEAKER_06",
+    "language": "de",
+    "text": "Wircuse am",
+    "confidence": 0.0001
+  },
+  {
+    "start": 242.52,
+    "end": 248.52,
+    "duration": 6.0,
+    "speaker": "SPEAKER_01",
+    "language": "de",
+    "text": "Und ich werde nur die Leute aufbauen, die auf Bikes sind.",
+    "confidence": 0.1222
+  },
+  {
+    "start": 250.52,
+    "end": 254.52,
+    "duration": 4.0,
+    "speaker": "SPEAKER_03",
+    "language": "de",
+    "text": "So, dann verliert du die Zeit. Sagen, starten wir.",
+    "confidence": 0.1222
+  },
+  {
+    "start": 254.52,
+    "end": 256.52,
+    "duration": 2.0,
+    "speaker": "SPEAKER_03",
+    "language": "de",
+    "text": "Absolut.",
+    "confidence": 0.1222
+  },
+  {
+    "start": 256.52,
+    "end": 258.52,
+    "duration": 2.0,
+    "speaker": "SPEAKER_03",
+    "language": "de",
+    "text": "Danke.",
+    "confidence": 0.1222
+  },
+  {
+    "start": 259.52,
+    "end": 268.52,
+    "duration": 9.0,
+    "speaker": "SPEAKER_01",
+    "language": "de",
+    "text": "So, meine Woche hatte ich ein paar Dinge, die ich eigentlich mache.",
+    "confidence": 0.1552
+  },
+  {
+    "start": 268.52,
+    "end": 270.52,
+    "duration": 2.0,
+    "speaker": "SPEAKER_01",
+    "language": "de",
+    "text": "Zuerst starte ich mit Lischblick.",
+    "confidence": 0.1552
+  },
+  {
+    "start": 272.52,
+    "end": 279.52,
+    "duration": 7.0,
+    "speaker": "SPEAKER_01",
+    "language": "de",
+    "text": "Ich wollte dieses Revocation-Prozess definieren und die Tatsache für Pendlinge bemerken,",
+    "confidence": 0.1552
+  },
+  {
+    "start": 279.52,
+    "end": 282.52,
+    "duration": 3.0,
+    "speaker": "SPEAKER_01",
+    "language": "de",
+    "text": "weil ich von der Vokation gestartet habe.",
+    "confidence": 0.1552
+  },
+  {
+    "start": 283.52,
+    "end": 288.52,
+    "duration": 5.0,
+    "speaker": "SPEAKER_01",
+    "language": "de",
+    "text": "Sobald das Revocation-Prozess ist, ist es nicht komplett definiert.",
+    "confidence": 0.2712
+  },
+  {
+    "start": 288.52,
+    "end": 294.52,
+    "duration": 6.0,
+    "speaker": "SPEAKER_01",
+    "language": "de",
+    "text": "Es ist 50% definiert. Ich würde sagen, es ist ein ziemlich komplexes Prozess.",
+    "confidence": 0.2712
+  },
+  {
+    "start": 294.52,
+    "end": 301.52,
+    "duration": 7.0,
+    "speaker": "SPEAKER_01",
+    "language": "de",
+    "text": "Beliebe mich, weil es viele Systeme gibt, die in Dynamics sind,",
+    "confidence": 0.2712
+  },
+  {
+    "start": 301.52,
+    "end": 308.52,
+    "duration": 7.0,
+    "speaker": "SPEAKER_01",
+    "language": "de",
+    "text": "PowerCloud Sync, PowerCloud Handler, Event Handler und Dynamics.",
+    "confidence": 0.2712
+  },
+  {
+    "start": 308.52,
+    "end": 314.52,
+    "duration": 6.0,
+    "speaker": "SPEAKER_01",
+    "language": "de",
+    "text": "Es wird wahrscheinlich nächste Woche für mich definieren.",
+    "confidence": 0.1564
+  },
+  {
+    "start": 314.52,
+    "end": 320.52,
+    "duration": 6.0,
+    "speaker": "SPEAKER_01",
+    "language": "de",
+    "text": "Ja, von dem anderen Tatsachen waren fertig.",
+    "confidence": 0.1564
+  },
+  {
+    "start": 320.52,
+    "end": 331.52,
+    "duration": 11.0,
+    "speaker": "SPEAKER_01",
+    "language": "de",
+    "text": "Ja, bei PIN hatte ich alle Pendlinge-Tatsachen gemacht.",
+    "confidence": 0.1564
+  },
+  {
+    "start": 331.52,
+    "end": 334.52,
+    "duration": 3.0,
+    "speaker": "SPEAKER_01",
+    "language": "de",
+    "text": "Ich konnte das auch tun.",
+    "confidence": 0.1564
+  },
+  {
+    "start": 334.52,
+    "end": 338.52,
+    "duration": 4.0,
+    "speaker": "SPEAKER_01",
+    "language": "de",
+    "text": "Alle BRs waren fertig, die Kommentare waren erledigt.",
+    "confidence": 0.1826
+  },
+  {
+    "start": 338.52,
+    "end": 342.52,
+    "duration": 4.0,
+    "speaker": "SPEAKER_01",
+    "language": "de",
+    "text": "Ja, es war eine gute Woche für PIN.",
+    "confidence": 0.1826
+  },
+  {
+    "start": 342.52,
+    "end": 350.52,
+    "duration": 8.0,
+    "speaker": "SPEAKER_01",
+    "language": "de",
+    "text": "Cool, dass das Plugin noch nicht durchgekommen ist.",
+    "confidence": 0.1826
+  },
+  {
+    "start": 350.52,
+    "end": 354.52,
+    "duration": 4.0,
+    "speaker": "SPEAKER_01",
+    "language": "de",
+    "text": "Ich konnte nicht die Canvas App kustomieren.",
+    "confidence": 0.1826
+  },
+  {
+    "start": 354.52,
+    "end": 363.52,
+    "duration": 9.0,
+    "speaker": "SPEAKER_01",
+    "language": "de",
+    "text": "Ich wollte das Plugin schiften, das Definition auf der anderen Seite.",
+    "confidence": 0.1408
+  },
+  {
+    "start": 363.52,
+    "end": 368.52,
+    "duration": 5.0,
+    "speaker": "SPEAKER_01",
+    "language": "de",
+    "text": "Das ist von meiner Seite.",
+    "confidence": 0.1408
+  },
+  {
+    "start": 368.52,
+    "end": 371.52,
+    "duration": 3.0,
+    "speaker": "SPEAKER_01",
+    "language": "de",
+    "text": "Warum ist es der beste dieser Woche?",
+    "confidence": 0.1408
+  },
+  {
+    "start": 371.52,
+    "end": 375.52,
+    "duration": 4.0,
+    "speaker": "SPEAKER_01",
+    "language": "de",
+    "text": "Es kam von der Vokation, es war sehr frisch.",
+    "confidence": 0.1408
+  },
+  {
+    "start": 375.52,
+    "end": 381.52,
+    "duration": 6.0,
+    "speaker": "SPEAKER_01",
+    "language": "de",
+    "text": "Ja, ich brauche nicht viele Räume.",
+    "confidence": 0.1408
+  },
+  {
+    "start": 381.52,
+    "end": 385.52,
+    "duration": 4.0,
+    "speaker": "SPEAKER_01",
+    "language": "de",
+    "text": "Das ist von meiner Seite.",
+    "confidence": 0.1621
+  },
+  {
+    "start": 385.52,
+    "end": 388.52,
+    "duration": 3.0,
+    "speaker": "SPEAKER_01",
+    "language": "de",
+    "text": "Ich schaffe es über zu Dominik.",
+    "confidence": 0.1621
+  },
+  {
+    "start": 388.52,
+    "end": 390.52,
+    "duration": 2.0,
+    "speaker": "SPEAKER_04",
+    "language": "de",
+    "text": "Danke, Sachin.",
+    "confidence": 0.1621
+  },
+  {
+    "start": 390.52,
+    "end": 397.52,
+    "duration": 7.0,
+    "speaker": "SPEAKER_04",
+    "language": "de",
+    "text": "Für diese Woche möchte ich ein Dokument-Core-Pack installieren.",
+    "confidence": 0.1621
+  },
+  {
+    "start": 397.52,
+    "end": 404.52,
+    "duration": 7.0,
+    "speaker": "SPEAKER_04",
+    "language": "de",
+    "text": "Er hat die Tickets gebraucht und sich bereit für das Programm.",
+    "confidence": 0.1621
+  },
+  {
+    "start": 404.52,
+    "end": 407.52,
+    "duration": 3.0,
+    "speaker": "SPEAKER_04",
+    "language": "de",
+    "text": "Heute war mein erstes Start.",
+    "confidence": 0.1621
+  },
+  {
+    "start": 407.52,
+    "end": 409.52,
+    "duration": 2.0,
+    "speaker": "SPEAKER_04",
+    "language": "de",
+    "text": "Es gibt einige Komplikationen.",
+    "confidence": 0.1312
+  },
+  {
+    "start": 409.52,
+    "end": 413.52,
+    "duration": 4.0,
+    "speaker": "SPEAKER_04",
+    "language": "de",
+    "text": "Ich werde diese Tatsache in der nächsten Woche aufnehmen.",
+    "confidence": 0.1312
+  },
+  {
+    "start": 413.52,
+    "end": 425.52,
+    "duration": 12.0,
+    "speaker": "SPEAKER_04",
+    "language": "de",
+    "text": "Dann haben wir eine tue-June-Metze über die Konditionen,",
+    "confidence": 0.1312
+  },
+  {
+    "start": 425.52,
+    "end": 429.52,
+    "duration": 4.0,
+    "speaker": "SPEAKER_04",
+    "language": "de",
+    "text": "die mit der Funnet-Integration und der Objekt-Sorge.",
+    "confidence": 0.1312
+  },
+  {
+    "start": 429.52,
+    "end": 433.52,
+    "duration": 4.0,
+    "speaker": "SPEAKER_04",
+    "language": "de",
+    "text": "Wir haben einen kleinen Schritt vor,",
+    "confidence": 0.1312
+  },
+  {
+    "start": 433.52,
+    "end": 437.52,
+    "duration": 4.0,
+    "speaker": "SPEAKER_04",
+    "language": "de",
+    "text": "um die anderen Dinge zu erinnern,",
+    "confidence": 0.1783
+  },
+  {
+    "start": 437.52,
+    "end": 441.52,
+    "duration": 4.0,
+    "speaker": "SPEAKER_04",
+    "language": "de",
+    "text": "dass ich Matthias Mathe für sie brauche.",
+    "confidence": 0.1783
+  },
+  {
+    "start": 441.52,
+    "end": 444.52,
+    "duration": 3.0,
+    "speaker": "SPEAKER_04",
+    "language": "de",
+    "text": "Er ist auf der Woche trainiert.",
+    "confidence": 0.1783
+  },
+  {
+    "start": 444.52,
+    "end": 450.52,
+    "duration": 6.0,
+    "speaker": "SPEAKER_04",
+    "language": "de",
+    "text": "Auf Montag werde ich ihn über die Integration diskutieren.",
+    "confidence": 0.1783
+  },
+  {
+    "start": 450.52,
+    "end": 454.52,
+    "duration": 4.0,
+    "speaker": "SPEAKER_04",
+    "language": "de",
+    "text": "Ich habe drei Tickets gemacht.",
+    "confidence": 0.1783
+  },
+  {
+    "start": 454.52,
+    "end": 459.52,
+    "duration": 5.0,
+    "speaker": "SPEAKER_04",
+    "language": "de",
+    "text": "Ich habe vier Tickets gemacht und auch mit Sachin diskutiert.",
+    "confidence": 0.1783
+  },
+  {
+    "start": 459.52,
+    "end": 461.52,
+    "duration": 2.0,
+    "speaker": "SPEAKER_04",
+    "language": "de",
+    "text": "Danke, dass ihr zurückgekommen seid.",
+    "confidence": 0.1783
+  },
+  {
+    "start": 461.52,
+    "end": 465.52,
+    "duration": 4.0,
+    "speaker": "SPEAKER_04",
+    "language": "de",
+    "text": "Ich habe die Tickets aufgeführt.",
+    "confidence": 0.1452
+  },
+  {
+    "start": 465.52,
+    "end": 469.52,
+    "duration": 4.0,
+    "speaker": "SPEAKER_04",
+    "language": "de",
+    "text": "Ich bin jetzt noch kleiner.",
+    "confidence": 0.1452
+  },
+  {
+    "start": 469.52,
+    "end": 472.52,
+    "duration": 3.0,
+    "speaker": "SPEAKER_04",
+    "language": "de",
+    "text": "Ich habe den PL-200 gemacht.",
+    "confidence": 0.1452
+  },
+  {
+    "start": 472.52,
+    "end": 475.52,
+    "duration": 3.0,
+    "speaker": "SPEAKER_04",
+    "language": "de",
+    "text": "Ich habe den Plan aufgedrückt.",
+    "confidence": 0.1452
+  },
+  {
+    "start": 475.52,
+    "end": 478.52,
+    "duration": 3.0,
+    "speaker": "SPEAKER_04",
+    "language": "de",
+    "text": "Ich habe nur drei oder fünf Tickets gemacht.",
+    "confidence": 0.1452
+  },
+  {
+    "start": 478.52,
+    "end": 481.52,
+    "duration": 3.0,
+    "speaker": "SPEAKER_04",
+    "language": "de",
+    "text": "Aber die Tickets sind lange genug,",
+    "confidence": 0.1452
+  },
+  {
+    "start": 481.52,
+    "end": 484.52,
+    "duration": 3.0,
+    "speaker": "SPEAKER_04",
+    "language": "de",
+    "text": "um die anderen Tickets zu machen.",
+    "confidence": 0.1452
+  },
+  {
+    "start": 484.52,
+    "end": 487.52,
+    "duration": 3.0,
+    "speaker": "SPEAKER_04",
+    "language": "de",
+    "text": "Dann habe ich fünf Tickets gemacht.",
+    "confidence": 0.1452
+  },
+  {
+    "start": 487.52,
+    "end": 493.52,
+    "duration": 6.0,
+    "speaker": "SPEAKER_04",
+    "language": "de",
+    "text": "Ich habe eine gute Bicycle-Tour gestern.",
+    "confidence": 0.1463
+  },
+  {
+    "start": 493.52,
+    "end": 496.52,
+    "duration": 3.0,
+    "speaker": "SPEAKER_04",
+    "language": "de",
+    "text": "Es war wirklich Spaß.",
+    "confidence": 0.1463
+  },
+  {
+    "start": 496.52,
+    "end": 503.52,
+    "duration": 7.0,
+    "speaker": "SPEAKER_04",
+    "language": "de",
+    "text": "Ich habe auch meine Brain-Dumps und die Learnings für den PL-200 zu erzielen.",
+    "confidence": 0.1463
+  },
+  {
+    "start": 503.52,
+    "end": 508.52,
+    "duration": 5.0,
+    "speaker": "SPEAKER_04",
+    "language": "de",
+    "text": "Dann werde ich Sie über die Tickets beheben.",
+    "confidence": 0.1463
+  },
+  {
+    "start": 508.52,
+    "end": 511.52,
+    "duration": 3.0,
+    "speaker": "SPEAKER_02",
+    "language": "de",
+    "text": "Danke Dominik.",
+    "confidence": 0.1463
+  },
+  {
+    "start": 511.52,
+    "end": 520.52,
+    "duration": 9.0,
+    "speaker": "SPEAKER_02",
+    "language": "de",
+    "text": "Meine Woche war der erste Test- und Produktions-Solution-Depo.",
+    "confidence": 0.2072
+  },
+  {
+    "start": 520.52,
+    "end": 522.52,
+    "duration": 2.0,
+    "speaker": "SPEAKER_02",
+    "language": "de",
+    "text": "Es ging wie mit Scharn.",
+    "confidence": 0.2072
+  },
+  {
+    "start": 522.52,
+    "end": 528.52,
+    "duration": 6.0,
+    "speaker": "SPEAKER_02",
+    "language": "de",
+    "text": "Das war der einfachste Teil meiner Woche.",
+    "confidence": 0.2072
+  },
+  {
+    "start": 528.52,
+    "end": 533.52,
+    "duration": 5.0,
+    "speaker": "SPEAKER_02",
+    "language": "de",
+    "text": "Ich habe nur eine Ticket gemacht.",
+    "confidence": 0.2072
+  },
+  {
+    "start": 533.52,
+    "end": 537.52,
+    "duration": 4.0,
+    "speaker": "SPEAKER_02",
+    "language": "de",
+    "text": "Ich habe auch einen neuen Ticket gemacht.",
+    "confidence": 0.1594
+  },
+  {
+    "start": 537.52,
+    "end": 542.52,
+    "duration": 5.0,
+    "speaker": "SPEAKER_02",
+    "language": "de",
+    "text": "Es dauert lange, als ich es davor hatte.",
+    "confidence": 0.1594
+  },
+  {
+    "start": 542.52,
+    "end": 546.52,
+    "duration": 4.0,
+    "speaker": "SPEAKER_02",
+    "language": "de",
+    "text": "Wir müssen mit einem Kastemar diskutieren,",
+    "confidence": 0.1594
+  },
+  {
+    "start": 546.52,
+    "end": 549.52,
+    "duration": 3.0,
+    "speaker": "SPEAKER_02",
+    "language": "de",
+    "text": "um die möglichen Lösungen zu machen.",
+    "confidence": 0.1594
+  },
+  {
+    "start": 549.52,
+    "end": 558.52,
+    "duration": 9.0,
+    "speaker": "SPEAKER_02",
+    "language": "de",
+    "text": "Diese Woche ist für mich sehr intensiv kompliziert.",
+    "confidence": 0.1594
+  },
+  {
+    "start": 558.52,
+    "end": 565.52,
+    "duration": 7.0,
+    "speaker": "SPEAKER_02",
+    "language": "de",
+    "text": "Ich habe viele Tickets gemacht.",
+    "confidence": 0.1994
+  },
+  {
+    "start": 565.52,
+    "end": 573.52,
+    "duration": 8.0,
+    "speaker": "SPEAKER_02",
+    "language": "de",
+    "text": "Diese Ticket ist nicht komplett.",
+    "confidence": 0.1994
+  },
+  {
+    "start": 573.52,
+    "end": 581.52,
+    "duration": 8.0,
+    "speaker": "SPEAKER_02",
+    "language": "de",
+    "text": "Nächste Ticket ist eine Lösung für die Entity-Self-Autotriggerung.",
+    "confidence": 0.1994
+  },
+  {
+    "start": 581.52,
+    "end": 585.52,
+    "duration": 4.0,
+    "speaker": "SPEAKER_02",
+    "language": "de",
+    "text": "Ich habe eine Lösung für den Kastemar produziert.",
+    "confidence": 0.1994
+  },
+  {
+    "start": 585.52,
+    "end": 588.52,
+    "duration": 3.0,
+    "speaker": "SPEAKER_02",
+    "language": "de",
+    "text": "Wir haben auch eine Diskussion.",
+    "confidence": 0.1603
+  },
+  {
+    "start": 588.52,
+    "end": 592.52,
+    "duration": 4.0,
+    "speaker": "SPEAKER_02",
+    "language": "de",
+    "text": "Ich habe erklärt, wie wir es absolvieren können.",
+    "confidence": 0.1603
+  },
+  {
+    "start": 592.52,
+    "end": 596.52,
+    "duration": 4.0,
+    "speaker": "SPEAKER_02",
+    "language": "de",
+    "text": "Sie haben einen Zeitraum zu diskutieren.",
+    "confidence": 0.1603
+  },
+  {
+    "start": 596.52,
+    "end": 603.52,
+    "duration": 7.0,
+    "speaker": "SPEAKER_02",
+    "language": "de",
+    "text": "Ich habe für die Entscheidung eine Zeitung für die Entity-Self-Autotriggerung.",
+    "confidence": 0.1603
+  },
+  {
+    "start": 603.52,
+    "end": 609.52,
+    "duration": 6.0,
+    "speaker": "SPEAKER_02",
+    "language": "de",
+    "text": "Ich habe eine Unterstützung auf die Wettbewerbe und eine Ticket für Agere.",
+    "confidence": 0.1603
+  },
+  {
+    "start": 609.52,
+    "end": 613.52,
+    "duration": 4.0,
+    "speaker": "SPEAKER_02",
+    "language": "de",
+    "text": "Ich habe diese Ticket für Royston komplett gemacht.",
+    "confidence": 0.2006
+  },
+  {
+    "start": 613.52,
+    "end": 623.52,
+    "duration": 10.0,
+    "speaker": "SPEAKER_02",
+    "language": "de",
+    "text": "Ich habe auch auf der FPM-SAP-Integration für FABI gearbeitet.",
+    "confidence": 0.2006
+  },
+  {
+    "start": 623.52,
+    "end": 628.52,
+    "duration": 5.0,
+    "speaker": "SPEAKER_02",
+    "language": "de",
+    "text": "Wir haben eine Lösung für einen Kastemar mit einer anderen.",
+    "confidence": 0.2006
+  },
+  {
+    "start": 628.52,
+    "end": 637.52,
+    "duration": 9.0,
+    "speaker": "SPEAKER_02",
+    "language": "de",
+    "text": "Es dauert viel Zeit, um die Bucks zu lösen.",
+    "confidence": 0.2006
+  },
+  {
+    "start": 637.52,
+    "end": 641.52,
+    "duration": 4.0,
+    "speaker": "SPEAKER_02",
+    "language": "de",
+    "text": "Ich habe die Migration gebracht.",
+    "confidence": 0.1316
+  },
+  {
+    "start": 641.52,
+    "end": 645.52,
+    "duration": 4.0,
+    "speaker": "SPEAKER_02",
+    "language": "de",
+    "text": "Aber wir haben es aber auch gesorgt.",
+    "confidence": 0.1316
+  },
+  {
+    "start": 645.52,
+    "end": 652.52,
+    "duration": 7.0,
+    "speaker": "SPEAKER_02",
+    "language": "de",
+    "text": "FABI hat seine Vakation gemacht.",
+    "confidence": 0.1316
+  },
+  {
+    "start": 652.52,
+    "end": 655.52,
+    "duration": 3.0,
+    "speaker": "SPEAKER_02",
+    "language": "de",
+    "text": "Ich bin der beste dieser Woche.",
+    "confidence": 0.1316
+  },
+  {
+    "start": 655.52,
+    "end": 659.52,
+    "duration": 4.0,
+    "speaker": "SPEAKER_02",
+    "language": "de",
+    "text": "Ich habe keine Nachrichten auf meinen Kraften.",
+    "confidence": 0.1316
+  },
+  {
+    "start": 659.52,
+    "end": 668.52,
+    "duration": 9.0,
+    "speaker": "SPEAKER_02",
+    "language": "de",
+    "text": "Ich fühle mich wie in Hamster in der Welt.",
+    "confidence": 0.1706
+  },
+  {
+    "start": 668.52,
+    "end": 675.52,
+    "duration": 7.0,
+    "speaker": "SPEAKER_02",
+    "language": "de",
+    "text": "Ich fühle mich wie in der Zeit.",
+    "confidence": 0.1706
+  },
+  {
+    "start": 675.52,
+    "end": 688.52,
+    "duration": 13.0,
+    "speaker": "SPEAKER_02",
+    "language": "de",
+    "text": "Ich habe keine Nachrichten, aber ich will nach Hause.",
+    "confidence": 0.1706
+  },
+  {
+    "start": 688.52,
+    "end": 692.52,
+    "duration": 4.0,
+    "speaker": "SPEAKER_02",
+    "language": "de",
+    "text": "Es war ein sehr tolles Event.",
+    "confidence": 0.2049
+  },
+  {
+    "start": 692.52,
+    "end": 695.52,
+    "duration": 3.0,
+    "speaker": "SPEAKER_02",
+    "language": "de",
+    "text": "Es war meine neue Erfahrung.",
+    "confidence": 0.2049
+  },
+  {
+    "start": 695.52,
+    "end": 702.52,
+    "duration": 7.0,
+    "speaker": "SPEAKER_02",
+    "language": "de",
+    "text": "Ich habe diese Liste von Drogen gemacht.",
+    "confidence": 0.2049
+  },
+  {
+    "start": 702.52,
+    "end": 708.52,
+    "duration": 6.0,
+    "speaker": "SPEAKER_02",
+    "language": "de",
+    "text": "Das ist warum ich der beste dieser Woche bin.",
+    "confidence": 0.2049
+  },
+  {
+    "start": 708.52,
+    "end": 712.52,
+    "duration": 4.0,
+    "speaker": "SPEAKER_02",
+    "language": "de",
+    "text": "Christian, dein Turnier.",
+    "confidence": 0.2049
+  },
+  {
+    "start": 712.52,
+    "end": 714.52,
+    "duration": 2.0,
+    "speaker": "SPEAKER_05",
+    "language": "de",
+    "text": "Ja, danke.",
+    "confidence": 0.2049
+  },
+  {
+    "start": 715.52,
+    "end": 727.52,
+    "duration": 12.0,
+    "speaker": "SPEAKER_05",
+    "language": "de",
+    "text": "Er hat dann vier Tickets nachged alert erledigt.",
+    "confidence": 0.0002
+  },
+  {
+    "start": 727.52,
+    "end": 733.52,
+    "duration": 6.0,
+    "speaker": "SPEAKER_05",
+    "language": "de",
+    "text": "In der Blindeng即lordsядete werden 90% die SiA practitionerskon zona,",
+    "confidence": 0.0002
+  },
+  {
+    "start": 733.52,
+    "end": 738.52,
+    "duration": 5.0,
+    "speaker": "SPEAKER_05",
+    "language": "de",
+    "text": "ich bin jetzt in der 90%.",
+    "confidence": 0.0002
+  },
+  {
+    "start": 738.52,
+    "end": 740.52,
+    "duration": 2.0,
+    "speaker": "SPEAKER_05",
+    "language": "de",
+    "text": "Das ist ein Task-Creation-Issue.",
+    "confidence": 0.1807
+  },
+  {
+    "start": 740.52,
+    "end": 742.52,
+    "duration": 2.0,
+    "speaker": "SPEAKER_05",
+    "language": "de",
+    "text": "Ich habe es investiert.",
+    "confidence": 0.1807
+  },
+  {
+    "start": 742.52,
+    "end": 744.52,
+    "duration": 2.0,
+    "speaker": "SPEAKER_05",
+    "language": "de",
+    "text": "Ich habe nicht alles gefunden.",
+    "confidence": 0.1807
+  },
+  {
+    "start": 744.52,
+    "end": 746.52,
+    "duration": 2.0,
+    "speaker": "SPEAKER_05",
+    "language": "de",
+    "text": "Ich habe es gesagt, dass es ein User-Error ist.",
+    "confidence": 0.1807
+  },
+  {
+    "start": 746.52,
+    "end": 748.52,
+    "duration": 2.0,
+    "speaker": "SPEAKER_05",
+    "language": "de",
+    "text": "Sie haben es nie zurückgekommen.",
+    "confidence": 0.1807
+  },
+  {
+    "start": 748.52,
+    "end": 750.52,
+    "duration": 2.0,
+    "speaker": "SPEAKER_05",
+    "language": "de",
+    "text": "Ich weiß nicht.",
+    "confidence": 0.1807
+  },
+  {
+    "start": 750.52,
+    "end": 752.52,
+    "duration": 2.0,
+    "speaker": "SPEAKER_05",
+    "language": "de",
+    "text": "Für die FPM,",
+    "confidence": 0.1807
+  },
+  {
+    "start": 752.52,
+    "end": 754.52,
+    "duration": 2.0,
+    "speaker": "SPEAKER_05",
+    "language": "de",
+    "text": "die Möglichkeit,",
+    "confidence": 0.1807
+  },
+  {
+    "start": 754.52,
+    "end": 756.52,
+    "duration": 2.0,
+    "speaker": "SPEAKER_05",
+    "language": "de",
+    "text": "die Code zu überholen,",
+    "confidence": 0.1807
+  },
+  {
+    "start": 756.52,
+    "end": 758.52,
+    "duration": 2.0,
+    "speaker": "SPEAKER_05",
+    "language": "de",
+    "text": "habe ich es begonnen.",
+    "confidence": 0.1807
+  },
+  {
+    "start": 758.52,
+    "end": 760.52,
+    "duration": 2.0,
+    "speaker": "SPEAKER_05",
+    "language": "de",
+    "text": "Dann habe ich das Wunder,",
+    "confidence": 0.1807
+  },
+  {
+    "start": 760.52,
+    "end": 762.52,
+    "duration": 2.0,
+    "speaker": "SPEAKER_05",
+    "language": "de",
+    "text": "dass man auf einer",
+    "confidence": 0.1807
+  },
+  {
+    "start": 762.52,
+    "end": 764.52,
+    "duration": 2.0,
+    "speaker": "SPEAKER_05",
+    "language": "de",
+    "text": "remote Maschine arbeiten muss.",
+    "confidence": 0.1807
+  },
+  {
+    "start": 764.52,
+    "end": 766.52,
+    "duration": 2.0,
+    "speaker": "SPEAKER_05",
+    "language": "de",
+    "text": "Segi, du kennst die Pinsen.",
+    "confidence": 0.1807
+  },
+  {
+    "start": 766.52,
+    "end": 768.52,
+    "duration": 2.0,
+    "speaker": "SPEAKER_05",
+    "language": "de",
+    "text": "Ich habe nicht mehr Zeit bekommen.",
+    "confidence": 0.2185
+  },
+  {
+    "start": 768.52,
+    "end": 770.52,
+    "duration": 2.0,
+    "speaker": "SPEAKER_05",
+    "language": "de",
+    "text": "Für die PL200,",
+    "confidence": 0.2185
+  },
+  {
+    "start": 770.52,
+    "end": 772.52,
+    "duration": 2.0,
+    "speaker": "SPEAKER_05",
+    "language": "de",
+    "text": "die 3-5 Stunden pro Planung,",
+    "confidence": 0.2185
+  },
+  {
+    "start": 772.52,
+    "end": 774.52,
+    "duration": 2.0,
+    "speaker": "SPEAKER_05",
+    "language": "de",
+    "text": "habe ich 2 Pinsen.",
+    "confidence": 0.2185
+  },
+  {
+    "start": 774.52,
+    "end": 776.52,
+    "duration": 2.0,
+    "speaker": "SPEAKER_05",
+    "language": "de",
+    "text": "Ich bin glücklich,",
+    "confidence": 0.2185
+  },
+  {
+    "start": 776.52,
+    "end": 778.52,
+    "duration": 2.0,
+    "speaker": "SPEAKER_05",
+    "language": "de",
+    "text": "die 2 Pinsen zu haben.",
+    "confidence": 0.2185
+  },
+  {
+    "start": 778.52,
+    "end": 780.52,
+    "duration": 2.0,
+    "speaker": "SPEAKER_05",
+    "language": "de",
+    "text": "Das Wunder ist,",
+    "confidence": 0.2185
+  },
+  {
+    "start": 780.52,
+    "end": 782.52,
+    "duration": 2.0,
+    "speaker": "SPEAKER_05",
+    "language": "de",
+    "text": "dass ich die Zeit habe.",
+    "confidence": 0.2185
+  },
+  {
+    "start": 782.52,
+    "end": 784.52,
+    "duration": 2.0,
+    "speaker": "SPEAKER_05",
+    "language": "de",
+    "text": "Und am letzten Sonntag",
+    "confidence": 0.2185
+  },
+  {
+    "start": 784.52,
+    "end": 786.52,
+    "duration": 2.0,
+    "speaker": "SPEAKER_05",
+    "language": "de",
+    "text": "hatte ich Luna Eclipse.",
+    "confidence": 0.2185
+  },
+  {
+    "start": 786.52,
+    "end": 788.52,
+    "duration": 2.0,
+    "speaker": "SPEAKER_05",
+    "language": "de",
+    "text": "Ich habe ein paar Fotos taken.",
+    "confidence": 0.2185
+  },
+  {
+    "start": 788.52,
+    "end": 790.52,
+    "duration": 2.0,
+    "speaker": "SPEAKER_05",
+    "language": "de",
+    "text": "Vielleicht,",
+    "confidence": 0.2185
+  },
+  {
+    "start": 790.52,
+    "end": 792.52,
+    "duration": 2.0,
+    "speaker": "SPEAKER_05",
+    "language": "de",
+    "text": "wenn ich einfach",
+    "confidence": 0.2185
+  },
+  {
+    "start": 792.52,
+    "end": 794.52,
+    "duration": 2.0,
+    "speaker": "SPEAKER_05",
+    "language": "de",
+    "text": "die Zeit habe,",
+    "confidence": 0.2185
+  },
+  {
+    "start": 794.52,
+    "end": 796.52,
+    "duration": 2.0,
+    "speaker": "SPEAKER_05",
+    "language": "de",
+    "text": "dann habe ich noch ein Foto in der Chat.",
+    "confidence": 0.2581
+  },
+  {
+    "start": 796.52,
+    "end": 798.52,
+    "duration": 2.0,
+    "speaker": "SPEAKER_05",
+    "language": "de",
+    "text": "Jetzt ist es zu groß.",
+    "confidence": 0.2581
+  },
+  {
+    "start": 798.52,
+    "end": 800.52,
+    "duration": 2.0,
+    "speaker": "SPEAKER_05",
+    "language": "de",
+    "text": "Ein bisschen Montage.",
+    "confidence": 0.2581
+  },
+  {
+    "start": 800.52,
+    "end": 802.52,
+    "duration": 2.0,
+    "speaker": "SPEAKER_05",
+    "language": "de",
+    "text": "Also,",
+    "confidence": 0.2581
+  },
+  {
+    "start": 802.52,
+    "end": 804.52,
+    "duration": 2.0,
+    "speaker": "SPEAKER_05",
+    "language": "de",
+    "text": "wenn du ein neues Wetter willst,",
+    "confidence": 0.2581
+  },
+  {
+    "start": 804.52,
+    "end": 806.52,
+    "duration": 2.0,
+    "speaker": "SPEAKER_05",
+    "language": "de",
+    "text": "dann hast du ein paar Fotos.",
+    "confidence": 0.2581
+  },
+  {
+    "start": 806.52,
+    "end": 808.52,
+    "duration": 2.0,
+    "speaker": "SPEAKER_05",
+    "language": "de",
+    "text": "Ein paar Fotos.",
+    "confidence": 0.2581
+  },
+  {
+    "start": 808.52,
+    "end": 810.52,
+    "duration": 2.0,
+    "speaker": "SPEAKER_05",
+    "language": "de",
+    "text": "Ein paar Fotos.",
+    "confidence": 0.2581
+  },
+  {
+    "start": 810.52,
+    "end": 812.52,
+    "duration": 2.0,
+    "speaker": "SPEAKER_05",
+    "language": "de",
+    "text": "Ein paar Fotos.",
+    "confidence": 0.2581
+  },
+  {
+    "start": 812.52,
+    "end": 814.52,
+    "duration": 2.0,
+    "speaker": "SPEAKER_05",
+    "language": "de",
+    "text": "Ein paar Fotos.",
+    "confidence": 0.2581
+  },
+  {
+    "start": 814.52,
+    "end": 816.52,
+    "duration": 2.0,
+    "speaker": "SPEAKER_05",
+    "language": "de",
+    "text": "Ein paar Fotos.",
+    "confidence": 0.2581
+  },
+  {
+    "start": 816.52,
+    "end": 818.52,
+    "duration": 2.0,
+    "speaker": "SPEAKER_05",
+    "language": "de",
+    "text": "Ein paar Fotos.",
+    "confidence": 0.2581
+  },
+  {
+    "start": 818.52,
+    "end": 820.52,
+    "duration": 2.0,
+    "speaker": "SPEAKER_05",
+    "language": "de",
+    "text": "Ein paar Fotos.",
+    "confidence": 0.2581
+  },
+  {
+    "start": 820.52,
+    "end": 822.52,
+    "duration": 2.0,
+    "speaker": "SPEAKER_05",
+    "language": "de",
+    "text": "Ein paar Fotos.",
+    "confidence": 0.2581
+  },
+  {
+    "start": 822.52,
+    "end": 824.88,
+    "duration": 2.36,
+    "speaker": "SPEAKER_05",
+    "language": "de",
+    "text": "Das war mein wiegt from وه帶",
+    "confidence": 0.0
+  },
+  {
+    "start": 831.38,
+    "end": 832.72,
+    "duration": 1.34,
+    "speaker": "SPEAKER_06",
+    "language": "de",
+    "text": "So carplex",
+    "confidence": 0.0
+  },
+  {
+    "start": 844.48,
+    "end": 845.42,
+    "duration": 0.94,
+    "speaker": "SPEAKER_06",
+    "language": "de",
+    "text": "Wofür",
+    "confidence": 0.0
+  },
+  {
+    "start": 852.52,
+    "end": 856.0799999999999,
+    "duration": 3.56,
+    "speaker": "SPEAKER_06",
+    "language": "de",
+    "text": "Bounce Data Flows.",
+    "confidence": 0.2791
+  },
+  {
+    "start": 856.0799999999999,
+    "end": 861.3199999999999,
+    "duration": 5.24,
+    "speaker": "SPEAKER_06",
+    "language": "de",
+    "text": "So, I think so from the next week we will be dedicating the next two weeks for the prod.",
+    "confidence": 0.2791
+  },
+  {
+    "start": 861.3199999999999,
+    "end": 867.52,
+    "duration": 6.2,
+    "speaker": "SPEAKER_06",
+    "language": "de",
+    "text": "Regarding Clisprick Immobility, these tasks are done.",
+    "confidence": 0.2791
+  },
+  {
+    "start": 867.52,
+    "end": 871.72,
+    "duration": 4.2,
+    "speaker": "SPEAKER_06",
+    "language": "de",
+    "text": "I also have finished two new tasks that were given ad hoc.",
+    "confidence": 0.2791
+  },
+  {
+    "start": 871.72,
+    "end": 879.92,
+    "duration": 8.2,
+    "speaker": "SPEAKER_06",
+    "language": "de",
+    "text": "And yeah, there's mainly nothing much this week in terms of new sprints.",
+    "confidence": 0.2791
+  },
+  {
+    "start": 879.92,
+    "end": 881.72,
+    "duration": 1.8,
+    "speaker": "SPEAKER_06",
+    "language": "de",
+    "text": "So that probably will come up next week.",
+    "confidence": 0.2791
+  },
+  {
+    "start": 882.72,
+    "end": 892.32,
+    "duration": 9.6,
+    "speaker": "SPEAKER_06",
+    "language": "de",
+    "text": "In continue with customer voice use case that is completed thanks to Sergey also successfully tested with client.",
+    "confidence": 0.2905
+  },
+  {
+    "start": 892.32,
+    "end": 897.52,
+    "duration": 5.2,
+    "speaker": "SPEAKER_06",
+    "language": "de",
+    "text": "On Thursday, have some improvements but nothing regarding development for you.",
+    "confidence": 0.2905
+  },
+  {
+    "start": 897.52,
+    "end": 901.9200000000001,
+    "duration": 4.4,
+    "speaker": "SPEAKER_06",
+    "language": "de",
+    "text": "Sergey, it's just customizations for my set.",
+    "confidence": 0.2905
+  },
+  {
+    "start": 901.9200000000001,
+    "end": 906.32,
+    "duration": 4.4,
+    "speaker": "SPEAKER_06",
+    "language": "de",
+    "text": "Yeah, PL 200 prep for us not done.",
+    "confidence": 0.2905
+  },
+  {
+    "start": 906.32,
+    "end": 911.72,
+    "duration": 5.4,
+    "speaker": "SPEAKER_06",
+    "language": "de",
+    "text": "We seriously need to really block that and take that.",
+    "confidence": 0.347
+  },
+  {
+    "start": 911.72,
+    "end": 916.72,
+    "duration": 5.0,
+    "speaker": "SPEAKER_06",
+    "language": "de",
+    "text": "Start doing that from next week.",
+    "confidence": 0.347
+  },
+  {
+    "start": 916.72,
+    "end": 923.5200000000001,
+    "duration": 6.8,
+    "speaker": "SPEAKER_06",
+    "language": "de",
+    "text": "In addition to that, I had some tasks for handing over tasks for GATs.",
+    "confidence": 0.347
+  },
+  {
+    "start": 923.5200000000001,
+    "end": 926.72,
+    "duration": 3.2,
+    "speaker": "SPEAKER_06",
+    "language": "de",
+    "text": "I think so we have completed all the handovers.",
+    "confidence": 0.347
+  },
+  {
+    "start": 926.72,
+    "end": 934.5200000000001,
+    "duration": 7.8,
+    "speaker": "SPEAKER_06",
+    "language": "de",
+    "text": "Also had some technical meetings yesterday with the new project team there.",
+    "confidence": 0.347
+  },
+  {
+    "start": 934.52,
+    "end": 937.92,
+    "duration": 3.4,
+    "speaker": "SPEAKER_06",
+    "language": "de",
+    "text": "And yeah, maybe that was it.",
+    "confidence": 0.3671
+  },
+  {
+    "start": 937.92,
+    "end": 940.72,
+    "duration": 2.8,
+    "speaker": "SPEAKER_06",
+    "language": "de",
+    "text": "I am the best this week.",
+    "confidence": 0.3671
+  },
+  {
+    "start": 940.72,
+    "end": 948.12,
+    "duration": 7.4,
+    "speaker": "SPEAKER_06",
+    "language": "de",
+    "text": "I am happy that I had good progress with the Pinnage customer voice issues.",
+    "confidence": 0.3671
+  },
+  {
+    "start": 948.12,
+    "end": 959.3199999999999,
+    "duration": 11.2,
+    "speaker": "SPEAKER_06",
+    "language": "de",
+    "text": "I have learned much more from what I have understood and you know, got to do a lot of workarounds which are working thankfully.",
+    "confidence": 0.3671
+  },
+  {
+    "start": 959.32,
+    "end": 969.32,
+    "duration": 10.0,
+    "speaker": "SPEAKER_06",
+    "language": "de",
+    "text": "The other reason is this week was not that easy mentally for me as some of you would have known that I had my grandmother passed away this Tuesday.",
+    "confidence": 0.4055
+  },
+  {
+    "start": 969.32,
+    "end": 976.9200000000001,
+    "duration": 7.6,
+    "speaker": "SPEAKER_06",
+    "language": "de",
+    "text": "So coming back to work was a little difficult, but I kept telling myself that life goes on.",
+    "confidence": 0.4055
+  },
+  {
+    "start": 976.9200000000001,
+    "end": 982.12,
+    "duration": 5.2,
+    "speaker": "SPEAKER_06",
+    "language": "de",
+    "text": "We have to do the things that we have to do.",
+    "confidence": 0.4055
+  },
+  {
+    "start": 982.12,
+    "end": 994.92,
+    "duration": 12.8,
+    "speaker": "SPEAKER_06",
+    "language": "de",
+    "text": "So yeah, in that way I consider it was yeah, I was positive enough to come back the next day and start with my tasks.",
+    "confidence": 0.3713
+  },
+  {
+    "start": 994.92,
+    "end": 997.32,
+    "duration": 2.4,
+    "speaker": "SPEAKER_06",
+    "language": "de",
+    "text": "That's all.",
+    "confidence": 0.3713
+  },
+  {
+    "start": 997.32,
+    "end": 999.92,
+    "duration": 2.6,
+    "speaker": "SPEAKER_06",
+    "language": "de",
+    "text": "Fabian.",
+    "confidence": 0.3713
+  },
+  {
+    "start": 999.92,
+    "end": 1002.92,
+    "duration": 3.0,
+    "speaker": "SPEAKER_06",
+    "language": "de",
+    "text": "Fabian is on leave, Sergey, if you don't know.",
+    "confidence": 0.3713
+  },
+  {
+    "start": 1002.92,
+    "end": 1005.92,
+    "duration": 3.0,
+    "speaker": "SPEAKER_06",
+    "language": "de",
+    "text": "He is fighting so far.",
+    "confidence": 0.3713
+  },
+  {
+    "start": 1005.92,
+    "end": 1011.72,
+    "duration": 5.8,
+    "speaker": "SPEAKER_06",
+    "language": "de",
+    "text": "Around 10 days leave, he will come 23rd of this month back to office.",
+    "confidence": 0.3713
+  },
+  {
+    "start": 1011.72,
+    "end": 1016.32,
+    "duration": 4.6,
+    "speaker": "SPEAKER_02",
+    "language": "de",
+    "text": "I know, but I thought he has vocation next week.",
+    "confidence": 0.3226
+  },
+  {
+    "start": 1016.32,
+    "end": 1018.52,
+    "duration": 2.2,
+    "speaker": "SPEAKER_06",
+    "language": "de",
+    "text": "I don't know about Freddy.",
+    "confidence": 0.3226
+  },
+  {
+    "start": 1018.52,
+    "end": 1021.9200000000001,
+    "duration": 3.4,
+    "speaker": "SPEAKER_06",
+    "language": "de",
+    "text": "He went from, oh yeah, he is off from today.",
+    "confidence": 0.3226
+  },
+  {
+    "start": 1021.9200000000001,
+    "end": 1024.92,
+    "duration": 3.0,
+    "speaker": "SPEAKER_07",
+    "language": "de",
+    "text": "Mhm.",
+    "confidence": 0.3226
+  },
+  {
+    "start": 1024.92,
+    "end": 1029.92,
+    "duration": 5.0,
+    "speaker": "SPEAKER_05",
+    "language": "de",
+    "text": "I knew that, yeah, yesterday evening his flight went slow.",
+    "confidence": 0.3226
+  },
+  {
+    "start": 1029.92,
+    "end": 1031.52,
+    "duration": 1.6,
+    "speaker": "SPEAKER_05",
+    "language": "de",
+    "text": "He is no longer in the country.",
+    "confidence": 0.3226
+  },
+  {
+    "start": 1031.52,
+    "end": 1032.92,
+    "duration": 1.4,
+    "speaker": "SPEAKER_05",
+    "language": "de",
+    "text": "He fled the country.",
+    "confidence": 0.3226
+  },
+  {
+    "start": 1032.92,
+    "end": 1036.72,
+    "duration": 3.8,
+    "speaker": "SPEAKER_05",
+    "language": "de",
+    "text": "He fled the country.",
+    "confidence": 0.3226
+  },
+  {
+    "start": 1036.72,
+    "end": 1040.32,
+    "duration": 3.6,
+    "speaker": "SPEAKER_05",
+    "language": "de",
+    "text": "Oh, Celia is here, I have to be careful what I say.",
+    "confidence": 0.3226
+  },
+  {
+    "start": 1040.32,
+    "end": 1044.52,
+    "duration": 4.2,
+    "speaker": "SPEAKER_02",
+    "language": "de",
+    "text": "Christian, your photo is amazing.",
+    "confidence": 0.3313
+  },
+  {
+    "start": 1044.52,
+    "end": 1045.9199999999998,
+    "duration": 1.4,
+    "speaker": "SPEAKER_02",
+    "language": "de",
+    "text": "This is my domain.",
+    "confidence": 0.3313
+  },
+  {
+    "start": 1045.9199999999998,
+    "end": 1047.9199999999998,
+    "duration": 2.0,
+    "speaker": "SPEAKER_02",
+    "language": "de",
+    "text": "I like this stuff very much.",
+    "confidence": 0.3313
+  },
+  {
+    "start": 1047.9199999999998,
+    "end": 1050.9199999999998,
+    "duration": 3.0,
+    "speaker": "SPEAKER_01",
+    "language": "de",
+    "text": "Impressive stuff.",
+    "confidence": 0.3313
+  },
+  {
+    "start": 1050.9199999999998,
+    "end": 1056.9199999999998,
+    "duration": 6.0,
+    "speaker": "SPEAKER_08",
+    "language": "de",
+    "text": "Cool.",
+    "confidence": 0.3313
+  },
+  {
+    "start": 1056.9199999999998,
+    "end": 1058.9199999999998,
+    "duration": 2.0,
+    "speaker": "SPEAKER_08",
+    "language": "de",
+    "text": "What's planned then guys for the weekend?",
+    "confidence": 0.3313
+  },
+  {
+    "start": 1058.9199999999998,
+    "end": 1060.9199999999998,
+    "duration": 2.0,
+    "speaker": "SPEAKER_08",
+    "language": "de",
+    "text": "Anything special?",
+    "confidence": 0.3313
+  },
+  {
+    "start": 1060.9199999999998,
+    "end": 1063.9199999999998,
+    "duration": 3.0,
+    "speaker": "SPEAKER_08",
+    "language": "de",
+    "text": "Not really.",
+    "confidence": 0.3313
+  },
+  {
+    "start": 1064.52,
+    "end": 1071.52,
+    "duration": 7.0,
+    "speaker": "SPEAKER_02",
+    "language": "de",
+    "text": "Nothing special, but I want to continue my work on my project.",
+    "confidence": 0.3669
+  },
+  {
+    "start": 1071.52,
+    "end": 1077.52,
+    "duration": 6.0,
+    "speaker": "SPEAKER_05",
+    "language": "de",
+    "text": "Dominus project, nobody can know about until you are finished.",
+    "confidence": 0.3669
+  },
+  {
+    "start": 1077.52,
+    "end": 1082.52,
+    "duration": 5.0,
+    "speaker": "SPEAKER_02",
+    "language": "de",
+    "text": "Basically Roy already knows.",
+    "confidence": 0.3669
+  },
+  {
+    "start": 1082.52,
+    "end": 1085.52,
+    "duration": 3.0,
+    "speaker": "SPEAKER_02",
+    "language": "de",
+    "text": "But it's a secret.",
+    "confidence": 0.3669
+  },
+  {
+    "start": 1085.52,
+    "end": 1088.52,
+    "duration": 3.0,
+    "speaker": "SPEAKER_05",
+    "language": "de",
+    "text": "I don't remember.",
+    "confidence": 0.3669
+  },
+  {
+    "start": 1088.52,
+    "end": 1092.52,
+    "duration": 4.0,
+    "speaker": "SPEAKER_05",
+    "language": "de",
+    "text": "He forgot everything.",
+    "confidence": 0.3669
+  },
+  {
+    "start": 1092.52,
+    "end": 1094.52,
+    "duration": 2.0,
+    "speaker": "SPEAKER_06",
+    "language": "de",
+    "text": "Yeah.",
+    "confidence": 0.3621
+  },
+  {
+    "start": 1094.52,
+    "end": 1097.52,
+    "duration": 3.0,
+    "speaker": "SPEAKER_06",
+    "language": "de",
+    "text": "Nothing new happening, I think so in Mannheim.",
+    "confidence": 0.3621
+  },
+  {
+    "start": 1097.52,
+    "end": 1104.52,
+    "duration": 7.0,
+    "speaker": "SPEAKER_06",
+    "language": "de",
+    "text": "I found out a nice website where you can find out all the events happening in your city.",
+    "confidence": 0.3621
+  },
+  {
+    "start": 1104.52,
+    "end": 1107.52,
+    "duration": 3.0,
+    "speaker": "SPEAKER_06",
+    "language": "de",
+    "text": "It's called rauzgegangen.de.",
+    "confidence": 0.3621
+  },
+  {
+    "start": 1107.52,
+    "end": 1111.52,
+    "duration": 4.0,
+    "speaker": "SPEAKER_06",
+    "language": "de",
+    "text": "And pretty cool.",
+    "confidence": 0.3621
+  },
+  {
+    "start": 1111.52,
+    "end": 1112.52,
+    "duration": 1.0,
+    "speaker": "SPEAKER_04",
+    "language": "de",
+    "text": "I sent you an event.",
+    "confidence": 0.3621
+  },
+  {
+    "start": 1112.52,
+    "end": 1114.52,
+    "duration": 2.0,
+    "speaker": "SPEAKER_04",
+    "language": "de",
+    "text": "Just sharing please.",
+    "confidence": 0.3621
+  },
+  {
+    "start": 1114.52,
+    "end": 1118.52,
+    "duration": 4.0,
+    "speaker": "SPEAKER_06",
+    "language": "de",
+    "text": "Yeah, so you can select your city, for example I say.",
+    "confidence": 0.3621
+  },
+  {
+    "start": 1122.52,
+    "end": 1133.52,
+    "duration": 11.0,
+    "speaker": "SPEAKER_06",
+    "language": "de",
+    "text": "Yeah, and it will at least give you what's all the events for the day.",
+    "confidence": 0.3386
+  },
+  {
+    "start": 1133.52,
+    "end": 1138.52,
+    "duration": 5.0,
+    "speaker": "SPEAKER_06",
+    "language": "de",
+    "text": "And also everything around Mannheim.",
+    "confidence": 0.3386
+  },
+  {
+    "start": 1138.52,
+    "end": 1146.52,
+    "duration": 8.0,
+    "speaker": "SPEAKER_06",
+    "language": "de",
+    "text": "So it's like markets, standups, comedy going on, music, second hand thrift stores, theater.",
+    "confidence": 0.3386
+  },
+  {
+    "start": 1146.52,
+    "end": 1148.52,
+    "duration": 2.0,
+    "speaker": "SPEAKER_06",
+    "language": "de",
+    "text": "Very nice.",
+    "confidence": 0.3386
+  },
+  {
+    "start": 1148.52,
+    "end": 1150.52,
+    "duration": 2.0,
+    "speaker": "SPEAKER_07",
+    "language": "de",
+    "text": "Nice.",
+    "confidence": 0.3386
+  },
+  {
+    "start": 1150.52,
+    "end": 1155.52,
+    "duration": 5.0,
+    "speaker": "SPEAKER_04",
+    "language": "de",
+    "text": "I also sent you a link on a concert on Sunday.",
+    "confidence": 0.3645
+  },
+  {
+    "start": 1155.52,
+    "end": 1158.52,
+    "duration": 3.0,
+    "speaker": "SPEAKER_06",
+    "language": "de",
+    "text": "This Sunday, okay.",
+    "confidence": 0.3645
+  },
+  {
+    "start": 1158.52,
+    "end": 1160.52,
+    "duration": 2.0,
+    "speaker": "SPEAKER_06",
+    "language": "de",
+    "text": "I'll check it out.",
+    "confidence": 0.3645
+  },
+  {
+    "start": 1160.52,
+    "end": 1163.52,
+    "duration": 3.0,
+    "speaker": "SPEAKER_06",
+    "language": "de",
+    "text": "I'll check the link.",
+    "confidence": 0.3645
+  },
+  {
+    "start": 1163.52,
+    "end": 1171.52,
+    "duration": 8.0,
+    "speaker": "SPEAKER_06",
+    "language": "de",
+    "text": "I'm not sure that they're in smaller towns, but main towns should be there.",
+    "confidence": 0.3645
+  },
+  {
+    "start": 1171.52,
+    "end": 1173.52,
+    "duration": 2.0,
+    "speaker": "SPEAKER_00",
+    "language": "de",
+    "text": "Thank you.",
+    "confidence": 0.3645
+  },
+  {
+    "start": 1173.52,
+    "end": 1180.52,
+    "duration": 7.0,
+    "speaker": "SPEAKER_08",
+    "language": "de",
+    "text": "Cool.",
+    "confidence": 0.3892
+  },
+  {
+    "start": 1180.52,
+    "end": 1182.52,
+    "duration": 2.0,
+    "speaker": "SPEAKER_08",
+    "language": "de",
+    "text": "How did you do this, Christian?",
+    "confidence": 0.3892
+  },
+  {
+    "start": 1182.52,
+    "end": 1184.52,
+    "duration": 2.0,
+    "speaker": "SPEAKER_08",
+    "language": "de",
+    "text": "It's like a time lapse, right?",
+    "confidence": 0.3892
+  },
+  {
+    "start": 1184.52,
+    "end": 1187.52,
+    "duration": 3.0,
+    "speaker": "SPEAKER_08",
+    "language": "de",
+    "text": "Kind of.",
+    "confidence": 0.3892
+  },
+  {
+    "start": 1187.52,
+    "end": 1192.52,
+    "duration": 5.0,
+    "speaker": "SPEAKER_05",
+    "language": "de",
+    "text": "So, 24 for a different image.",
+    "confidence": 0.3892
+  },
+  {
+    "start": 1192.52,
+    "end": 1195.52,
+    "duration": 3.0,
+    "speaker": "SPEAKER_05",
+    "language": "de",
+    "text": "And I just stitched them together.",
+    "confidence": 0.3892
+  },
+  {
+    "start": 1195.52,
+    "end": 1200.52,
+    "duration": 5.0,
+    "speaker": "SPEAKER_05",
+    "language": "de",
+    "text": "But the camera was in one place and I just waited for the moon to go on.",
+    "confidence": 0.3892
+  },
+  {
+    "start": 1200.52,
+    "end": 1202.52,
+    "duration": 2.0,
+    "speaker": "SPEAKER_05",
+    "language": "de",
+    "text": "Okay.",
+    "confidence": 0.3892
+  },
+  {
+    "start": 1202.52,
+    "end": 1204.52,
+    "duration": 2.0,
+    "speaker": "SPEAKER_02",
+    "language": "de",
+    "text": "Wohl.",
+    "confidence": 0.3332
+  },
+  {
+    "start": 1204.52,
+    "end": 1207.52,
+    "duration": 3.0,
+    "speaker": "SPEAKER_02",
+    "language": "de",
+    "text": "I just set on some support.",
+    "confidence": 0.3332
+  },
+  {
+    "start": 1207.52,
+    "end": 1209.52,
+    "duration": 2.0,
+    "speaker": "SPEAKER_02",
+    "language": "de",
+    "text": "And you just ...",
+    "confidence": 0.3332
+  },
+  {
+    "start": 1209.52,
+    "end": 1211.52,
+    "duration": 2.0,
+    "speaker": "SPEAKER_05",
+    "language": "de",
+    "text": "Okay.",
+    "confidence": 0.3332
+  },
+  {
+    "start": 1211.52,
+    "end": 1213.52,
+    "duration": 2.0,
+    "speaker": "SPEAKER_05",
+    "language": "de",
+    "text": "And then just waited.",
+    "confidence": 0.3332
+  },
+  {
+    "start": 1213.52,
+    "end": 1215.52,
+    "duration": 2.0,
+    "speaker": "SPEAKER_08",
+    "language": "de",
+    "text": "Looks very nice.",
+    "confidence": 0.3332
+  },
+  {
+    "start": 1215.52,
+    "end": 1223.52,
+    "duration": 8.0,
+    "speaker": "SPEAKER_05",
+    "language": "de",
+    "text": "We had a wonderful plan, the location where we set to look at this blood moon.",
+    "confidence": 0.3332
+  },
+  {
+    "start": 1223.52,
+    "end": 1229.52,
+    "duration": 6.0,
+    "speaker": "SPEAKER_05",
+    "language": "de",
+    "text": "It was just like, okay, technically the moon should rise just behind the castle.",
+    "confidence": 0.3332
+  },
+  {
+    "start": 1229.52,
+    "end": 1231.52,
+    "duration": 2.0,
+    "speaker": "SPEAKER_05",
+    "language": "de",
+    "text": "It would have been so nice.",
+    "confidence": 0.4286
+  },
+  {
+    "start": 1231.52,
+    "end": 1235.52,
+    "duration": 4.0,
+    "speaker": "SPEAKER_05",
+    "language": "de",
+    "text": "And then time came, no moon.",
+    "confidence": 0.4286
+  },
+  {
+    "start": 1235.52,
+    "end": 1239.52,
+    "duration": 4.0,
+    "speaker": "SPEAKER_05",
+    "language": "de",
+    "text": "The air was so kind of dizzy.",
+    "confidence": 0.4286
+  },
+  {
+    "start": 1239.52,
+    "end": 1245.52,
+    "duration": 6.0,
+    "speaker": "SPEAKER_05",
+    "language": "de",
+    "text": "It took like half an hour later and way higher in the sky.",
+    "confidence": 0.4286
+  },
+  {
+    "start": 1245.52,
+    "end": 1248.52,
+    "duration": 3.0,
+    "speaker": "SPEAKER_05",
+    "language": "de",
+    "text": "When someone said, hey, it's there.",
+    "confidence": 0.4286
+  },
+  {
+    "start": 1248.52,
+    "end": 1251.52,
+    "duration": 3.0,
+    "speaker": "SPEAKER_05",
+    "language": "de",
+    "text": "We did not find it before.",
+    "confidence": 0.4286
+  },
+  {
+    "start": 1251.52,
+    "end": 1254.52,
+    "duration": 3.0,
+    "speaker": "SPEAKER_05",
+    "language": "de",
+    "text": "But then it came out and everything was fine.",
+    "confidence": 0.4286
+  },
+  {
+    "start": 1254.52,
+    "end": 1256.52,
+    "duration": 2.0,
+    "speaker": "SPEAKER_05",
+    "language": "de",
+    "text": "Where's the moon?",
+    "confidence": 0.4286
+  },
+  {
+    "start": 1256.52,
+    "end": 1258.52,
+    "duration": 2.0,
+    "speaker": "SPEAKER_05",
+    "language": "de",
+    "text": "Oh, there's the moon.",
+    "confidence": 0.4286
+  },
+  {
+    "start": 1258.52,
+    "end": 1260.52,
+    "duration": 2.0,
+    "speaker": "SPEAKER_05",
+    "language": "de",
+    "text": "Yeah.",
+    "confidence": 0.3904
+  },
+  {
+    "start": 1260.52,
+    "end": 1264.52,
+    "duration": 4.0,
+    "speaker": "SPEAKER_05",
+    "language": "de",
+    "text": "Yeah, the first images you couldn't barely even make it.",
+    "confidence": 0.3904
+  },
+  {
+    "start": 1264.52,
+    "end": 1266.52,
+    "duration": 2.0,
+    "speaker": "SPEAKER_06",
+    "language": "de",
+    "text": "To see them.",
+    "confidence": 0.3904
+  },
+  {
+    "start": 1266.52,
+    "end": 1270.52,
+    "duration": 4.0,
+    "speaker": "SPEAKER_06",
+    "language": "de",
+    "text": "Yeah, it was not that red as it was meant to be, maybe.",
+    "confidence": 0.3904
+  },
+  {
+    "start": 1270.52,
+    "end": 1275.52,
+    "duration": 5.0,
+    "speaker": "SPEAKER_05",
+    "language": "de",
+    "text": "When it was the high point, here it was just too dizzy.",
+    "confidence": 0.3904
+  },
+  {
+    "start": 1275.52,
+    "end": 1277.52,
+    "duration": 2.0,
+    "speaker": "SPEAKER_05",
+    "language": "de",
+    "text": "You could not see anything.",
+    "confidence": 0.3904
+  },
+  {
+    "start": 1277.52,
+    "end": 1279.52,
+    "duration": 2.0,
+    "speaker": "SPEAKER_05",
+    "language": "de",
+    "text": "Right, right.",
+    "confidence": 0.3904
+  },
+  {
+    "start": 1279.52,
+    "end": 1282.52,
+    "duration": 3.0,
+    "speaker": "SPEAKER_05",
+    "language": "de",
+    "text": "In clear nights it would have been better.",
+    "confidence": 0.3904
+  },
+  {
+    "start": 1282.52,
+    "end": 1286.52,
+    "duration": 4.0,
+    "speaker": "SPEAKER_05",
+    "language": "de",
+    "text": "But next time is 20, 28, I guess.",
+    "confidence": 0.3904
+  },
+  {
+    "start": 1286.52,
+    "end": 1288.52,
+    "duration": 2.0,
+    "speaker": "SPEAKER_05",
+    "language": "de",
+    "text": "Oh, okay.",
+    "confidence": 0.3659
+  },
+  {
+    "start": 1288.52,
+    "end": 1294.52,
+    "duration": 6.0,
+    "speaker": "SPEAKER_05",
+    "language": "de",
+    "text": "For the next, what did we say, solar eclipse,",
+    "confidence": 0.3659
+  },
+  {
+    "start": 1294.52,
+    "end": 1297.52,
+    "duration": 3.0,
+    "speaker": "SPEAKER_05",
+    "language": "de",
+    "text": "that you can see it's 2081.",
+    "confidence": 0.3659
+  },
+  {
+    "start": 1297.52,
+    "end": 1299.52,
+    "duration": 2.0,
+    "speaker": "SPEAKER_05",
+    "language": "de",
+    "text": "So that takes some time.",
+    "confidence": 0.3659
+  },
+  {
+    "start": 1299.52,
+    "end": 1303.52,
+    "duration": 4.0,
+    "speaker": "SPEAKER_00",
+    "language": "de",
+    "text": "Cool.",
+    "confidence": 0.3659
+  },
+  {
+    "start": 1303.52,
+    "end": 1307.52,
+    "duration": 4.0,
+    "speaker": "SPEAKER_00",
+    "language": "de",
+    "text": "All right.",
+    "confidence": 0.3659
+  },
+  {
+    "start": 1307.52,
+    "end": 1313.52,
+    "duration": 6.0,
+    "speaker": "SPEAKER_00",
+    "language": "de",
+    "text": "19.",
+    "confidence": 0.3659
+  },
+  {
+    "start": 1313.52,
+    "end": 1316.52,
+    "duration": 3.0,
+    "speaker": "SPEAKER_00",
+    "language": "de",
+    "text": "Okay.",
+    "confidence": 0.3331
+  },
+  {
+    "start": 1316.52,
+    "end": 1321.52,
+    "duration": 5.0,
+    "speaker": "SPEAKER_06",
+    "language": "de",
+    "text": "I have a meeting at 4.30, so I will leave.",
+    "confidence": 0.3331
+  },
+  {
+    "start": 1321.52,
+    "end": 1324.52,
+    "duration": 3.0,
+    "speaker": "SPEAKER_06",
+    "language": "de",
+    "text": "Have a nice weekend.",
+    "confidence": 0.3331
+  },
+  {
+    "start": 1324.52,
+    "end": 1326.52,
+    "duration": 2.0,
+    "speaker": "SPEAKER_00",
+    "language": "de",
+    "text": "Have a nice weekend.",
+    "confidence": 0.3331
+  },
+  {
+    "start": 1343.52,
+    "end": 1346.52,
+    "duration": 3.0,
+    "speaker": "SPEAKER_00",
+    "language": "de",
+    "text": "Copyright WDR 2021",
+    "confidence": 0.2427
+  },
+  {
+    "start": 1373.52,
+    "end": 1376.52,
+    "duration": 3.0,
+    "speaker": "SPEAKER_00",
+    "language": "de",
+    "text": "Copyright WDR 2021",
+    "confidence": 0.354
+  }
+]

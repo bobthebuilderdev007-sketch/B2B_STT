@@ -1,0 +1,824 @@
+start,end,duration,speaker,language,text,confidence
+0.0,2.0,2.0,SPEAKER_00,de,Du schon wieder.,0.3239
+2.0,4.0,2.0,SPEAKER_00,de,Du schon wieder.,0.3239
+4.0,6.0,2.0,SPEAKER_00,de,"Hey, API-Request sind cool.",0.3239
+6.0,8.0,2.0,SPEAKER_00,de,Moin Leo.,0.3239
+8.0,10.0,2.0,SPEAKER_00,de,Morgen.,0.3239
+10.0,12.0,2.0,SPEAKER_00,de,Morgen.,0.3239
+12.0,14.0,2.0,SPEAKER_00,de,Guten Nachmittag Kasse.,0.3239
+14.0,16.0,2.0,SPEAKER_00,de,Moin hab ich gesagt.,0.3239
+16.0,18.0,2.0,SPEAKER_00,de,Moin.,0.3239
+18.0,20.0,2.0,SPEAKER_00,de,"Moin, darf ich den ganzen Tag sagen.",0.3239
+20.0,22.0,2.0,SPEAKER_02,de,Okay.,0.3239
+22.0,24.0,2.0,SPEAKER_02,de,Moin.,0.3239
+24.0,26.0,2.0,SPEAKER_02,de,Moin.,0.3239
+26.0,28.0,2.0,SPEAKER_02,de,Moin.,0.3239
+28.0,30.0,2.0,SPEAKER_02,de,Moin.,0.3858
+30.0,32.0,2.0,SPEAKER_00,de,Moin.,0.3858
+32.0,34.0,2.0,SPEAKER_00,de,Das kann es auch nach zum Zweisagen.,0.3858
+34.0,36.0,2.0,SPEAKER_00,de,Ja.,0.3858
+36.0,38.0,2.0,SPEAKER_00,de,Okay.,0.3858
+38.0,40.0,2.0,SPEAKER_00,de,Auch wieder dazu gelernt.,0.3858
+40.0,42.0,2.0,SPEAKER_00,de,Das ist gängig im Norden.,0.3858
+46.0,48.0,2.0,SPEAKER_00,de,Das Moin bei denen ist quasi wie so ein Hallo.,0.3858
+48.0,50.0,2.0,SPEAKER_00,de,"Ja, okay.",0.3858
+50.0,52.0,2.0,SPEAKER_00,de,Alles klar.,0.3858
+52.0,54.0,2.0,SPEAKER_00,de,Moin.,0.3858
+54.0,56.0,2.0,SPEAKER_00,de,Moin.,0.3858
+56.0,58.0,2.0,SPEAKER_03,de,Moin.,0.3935
+58.0,60.0,2.0,SPEAKER_03,de,Moin.,0.3935
+60.0,62.0,2.0,SPEAKER_03,de,Moin.,0.3935
+62.0,64.0,2.0,SPEAKER_03,de,Moin ist schon eine komplette Konversation in Hamburg.,0.3935
+64.0,66.0,2.0,SPEAKER_02,de,Hab ich gehört.,0.3935
+66.0,68.0,2.0,SPEAKER_02,de,"Nee, dann ein bisschen schnacker.",0.3935
+68.0,70.0,2.0,SPEAKER_02,de,Weil das ist zu viel.,0.3935
+70.0,72.0,2.0,SPEAKER_02,de,Ja.,0.3935
+72.0,74.0,2.0,SPEAKER_02,de,Jetzt kommt aber alles gleichzeitig.,0.3935
+74.0,76.0,2.0,SPEAKER_02,de,Genau.,0.3935
+76.0,78.0,2.0,SPEAKER_02,de,Gerade irgendwie 6 Layer,0.3935
+78.0,80.0,2.0,SPEAKER_02,de,mit E-Mail und Teams-Nachrichten,0.3935
+80.0,82.0,2.0,SPEAKER_02,de,übereinander.,0.3935
+82.0,84.0,2.0,SPEAKER_02,de,Kommst du hier da?,0.3935
+84.0,86.0,2.0,SPEAKER_03,de,Dann würde ich sagen,0.3481
+86.0,88.0,2.0,SPEAKER_03,de,Dominik hat geteilt.,0.3481
+88.0,90.0,2.0,SPEAKER_03,de,Leo darf gerne beginnen.,0.3481
+90.0,92.0,2.0,SPEAKER_03,de,"Also,",0.3481
+92.0,94.0,2.0,SPEAKER_01,de,ich starte auch rein.,0.3481
+94.0,96.0,2.0,SPEAKER_01,de,"Ich hatte vorgehabt,",0.3481
+96.0,98.0,2.0,SPEAKER_01,de,"dass ich den Plug-in,",0.3481
+98.0,100.0,2.0,SPEAKER_01,de,den ich vor meiner,0.3481
+100.0,102.0,2.0,SPEAKER_01,de,von meinem O-Lob,0.3481
+102.0,104.0,2.0,SPEAKER_01,de,bzw. Erkrankung,0.3481
+104.0,106.0,2.0,SPEAKER_01,de,dass ich das,0.3481
+106.0,108.0,2.0,SPEAKER_01,de,diese Woche auf Volley-Vertests setze,0.3481
+108.0,110.0,2.0,SPEAKER_01,de,dass es testbereit ist,0.3481
+110.0,112.0,2.0,SPEAKER_01,de,dass ich das anschauen kann.,0.3481
+112.0,114.0,2.0,SPEAKER_01,de,Das habe ich geschafft.,0.4203
+114.0,116.0,2.0,SPEAKER_01,de,Das ist dann,0.4203
+116.0,118.0,2.0,SPEAKER_01,de,von meiner Seite.,0.4203
+118.0,120.0,2.0,SPEAKER_01,de,Ich wollte dann noch weitere PRs,0.4203
+120.0,122.0,2.0,SPEAKER_01,de,2,0.4203
+122.0,124.0,2.0,SPEAKER_01,de,die wichtig sind,0.4203
+124.0,126.0,2.0,SPEAKER_01,de,die auch miteinander abhängen,0.4203
+126.0,128.0,2.0,SPEAKER_01,de,auch fertig werden.,0.4203
+128.0,130.0,2.0,SPEAKER_01,de,"Das hat jetzt nicht geklappt,",0.4203
+130.0,132.0,2.0,SPEAKER_01,de,weil ich eben noch,0.4203
+132.0,134.0,2.0,SPEAKER_01,de,mit Waldemar und mir den Plug-in angeschaut habe,0.4203
+134.0,136.0,2.0,SPEAKER_01,de,"und dann gemerkt haben,",0.4203
+136.0,138.0,2.0,SPEAKER_01,de,hier führen noch Infos,0.4203
+138.0,140.0,2.0,SPEAKER_01,de,von Designer.,0.4203
+140.0,142.0,2.0,SPEAKER_01,de,"Es geht darum,",0.4263
+142.0,144.0,2.0,SPEAKER_01,de,dass ich noch Infos brauche,0.4263
+144.0,146.0,2.0,SPEAKER_01,de,welche Felder gesetzt werden müssen,0.4263
+146.0,148.0,2.0,SPEAKER_01,de,bei einem Post,0.4263
+148.0,150.0,2.0,SPEAKER_01,de,die werden mit einer,0.4263
+150.0,152.0,2.0,SPEAKER_01,de,Hilfentität,0.4263
+152.0,154.0,2.0,SPEAKER_01,de,"gemacht, nicht mit dem Standard",0.4263
+154.0,156.0,2.0,SPEAKER_01,de,"New Post, sondern mit einem Post",0.4263
+156.0,158.0,2.0,SPEAKER_01,de,Editable.,0.4263
+158.0,160.0,2.0,SPEAKER_01,de,Das ist eine eigene Entität.,0.4263
+160.0,162.0,2.0,SPEAKER_01,de,Da haben wir eben Felder drauf,0.4263
+162.0,164.0,2.0,SPEAKER_01,de,und da habe ich kein Infos bekommen,0.4263
+164.0,166.0,2.0,SPEAKER_01,de,welche Felder gesetzt werden müssen.,0.4263
+166.0,168.0,2.0,SPEAKER_01,de,Da habe ich auch schon,0.4263
+168.0,170.0,2.0,SPEAKER_01,de,nachgefragt.,0.4091
+170.0,172.0,2.0,SPEAKER_01,de,Ich werde das mir mit,0.4091
+172.0,174.0,2.0,SPEAKER_01,de,Karin dann am Montag,0.4091
+174.0,176.0,2.0,SPEAKER_01,de,genauer anschauen und mit dir,0.4091
+176.0,178.0,2.0,SPEAKER_01,de,darüber sprechen.,0.4091
+178.0,180.0,2.0,SPEAKER_01,de,Das haben wir schon ausgemacht.,0.4091
+180.0,182.0,2.0,SPEAKER_01,de,Selly Uni Projekt,0.4091
+182.0,184.0,2.0,SPEAKER_01,de,da wollte ich diese Woche,0.4091
+184.0,186.0,2.0,SPEAKER_01,de,schon mal durchklingeln an Customers,0.4091
+186.0,188.0,2.0,SPEAKER_01,de,wegen,0.4091
+188.0,190.0,2.0,SPEAKER_01,de,einem Feedback an der Transkription,0.4091
+190.0,192.0,2.0,SPEAKER_01,de,was wir da eben verbessern können,0.4091
+192.0,194.0,2.0,SPEAKER_01,de,warum sie eben gegangen sind,0.4091
+194.0,196.0,2.0,SPEAKER_01,de,damit wir uns das anschauen können,0.4091
+196.0,198.0,2.0,SPEAKER_01,de,Ich habe schon mal nach dem Liste gefragt,0.4337
+198.0,200.0,2.0,SPEAKER_01,de,an Customers,0.4337
+200.0,202.0,2.0,SPEAKER_01,de,an Mario,0.4337
+202.0,204.0,2.0,SPEAKER_01,de,bin aber noch nicht dazu gekommen,0.4337
+204.0,206.0,2.0,SPEAKER_01,de,habe mir jetzt aber ein Timeslot,0.4337
+206.0,208.0,2.0,SPEAKER_01,de,für nächste Woche reingeschrieben,0.4337
+208.0,210.0,2.0,SPEAKER_01,de,und eben,0.4337
+210.0,212.0,2.0,SPEAKER_01,de,dann per 300,0.4337
+212.0,214.0,2.0,SPEAKER_01,de,3 Stunden habe ich,0.4337
+214.0,216.0,2.0,SPEAKER_01,de,diese Woche gemacht,0.4337
+216.0,218.0,2.0,SPEAKER_01,de,Ich habe mir jetzt das Ziel gesetzt,0.4337
+218.0,220.0,2.0,SPEAKER_01,de,dass ich mit dem Kurs,0.4337
+220.0,222.0,2.0,SPEAKER_01,de,Mitte Oktober fertig sein sollte,0.4337
+222.0,224.0,2.0,SPEAKER_01,de,und damit ich mit diesen,0.4337
+224.0,226.0,2.0,SPEAKER_01,de,Redendoms die Dominic,0.3976
+226.0,228.0,2.0,SPEAKER_01,de,Dominique schon mal reingeschickt hat,0.3976
+228.0,230.0,2.0,SPEAKER_01,de,damit dann auch noch mal üben kann,0.3976
+230.0,232.0,2.0,SPEAKER_01,de,schon mal ein paar Examen zu machen,0.3976
+232.0,234.0,2.0,SPEAKER_01,de,damit ich halt eben,0.3976
+234.0,236.0,2.0,SPEAKER_01,de,November Anfang eben noch mal,0.3976
+236.0,238.0,2.0,SPEAKER_01,de,ein Versuch starte,0.3976
+238.0,240.0,2.0,SPEAKER_01,de,die Prüfung zu schreiben,0.3976
+242.0,244.0,2.0,SPEAKER_01,de,Warum bin ich der Beste,0.3976
+244.0,246.0,2.0,SPEAKER_01,de,Ich habe letzte Woche einen schönen Urlaub gehabt,0.3976
+246.0,248.0,2.0,SPEAKER_01,de,Ich habe viel gesehen von Frankreich,0.3976
+248.0,250.0,2.0,SPEAKER_01,de,Ich habe sehr viel Motivation wieder mitgenommen,0.3976
+250.0,252.0,2.0,SPEAKER_01,de,Ich habe glaube ich,0.3976
+252.0,254.0,2.0,SPEAKER_01,de,noch nie an einem Ort,0.3967
+254.0,256.0,2.0,SPEAKER_01,de,beziehungsweise also,0.3967
+256.0,258.0,2.0,SPEAKER_01,de,in Monaco,0.3967
+258.0,260.0,2.0,SPEAKER_01,de,so viele Maibachs gesehen,0.3967
+260.0,262.0,2.0,SPEAKER_01,de,schon Traumwagen,0.3967
+262.0,264.0,2.0,SPEAKER_01,de,und da fällt,0.3967
+264.0,266.0,2.0,SPEAKER_01,de,dann also,0.3967
+266.0,268.0,2.0,SPEAKER_01,de,keine Ahnung da ist mir sehr großer Motivation,0.3967
+268.0,270.0,2.0,SPEAKER_01,de,sehr große Motivation,0.3967
+270.0,272.0,2.0,SPEAKER_01,de,in mir rausgesprungen,0.3967
+272.0,274.0,2.0,SPEAKER_01,de,so ey,0.3967
+274.0,276.0,2.0,SPEAKER_01,de,das muss doch auch erreichbar sein,0.3967
+276.0,278.0,2.0,SPEAKER_01,de,das ist erreichbar auf jeden Fall,0.3967
+278.0,280.0,2.0,SPEAKER_01,de,das ist nicht weit entfernt,0.3967
+280.0,282.0,2.0,SPEAKER_01,de,ich werde das auch hinkriegen,0.4076
+282.0,284.0,2.0,SPEAKER_01,de,und deswegen hatte ich eben,0.4076
+284.0,286.0,2.0,SPEAKER_01,de,noch mehr Bock als sie nach Hause geflogen sind,0.4076
+286.0,288.0,2.0,SPEAKER_01,de,und jetzt auf die Woche,0.4076
+288.0,290.0,2.0,SPEAKER_01,de,und jetzt auf die nächste Zeit hier,0.4076
+290.0,292.0,2.0,SPEAKER_01,de,deswegen ja auch immer wieder,0.4076
+292.0,294.0,2.0,SPEAKER_01,de,schön so Seiten zu sehen,0.4076
+294.0,296.0,2.0,SPEAKER_03,de,wichtig ist die Motivation,0.4076
+296.0,298.0,2.0,SPEAKER_03,de,beibehalten und diszipliniert befolgen,0.4076
+298.0,300.0,2.0,SPEAKER_03,de,ja Mutti,0.4076
+300.0,302.0,2.0,SPEAKER_03,de,Disziplin ist meistens das Thema,0.4076
+302.0,304.0,2.0,SPEAKER_01,de,woran es weiter hat,0.4076
+304.0,306.0,2.0,SPEAKER_01,de,genau ich habe ja auch so,0.4076
+306.0,308.0,2.0,SPEAKER_01,de,das nehme ich auch vom Sport mit,0.4076
+308.0,310.0,2.0,SPEAKER_01,de,Motivation ist gefühlt nichts,0.3862
+310.0,312.0,2.0,SPEAKER_01,de,die Disziplin ist die Sache die einen,0.3862
+312.0,314.0,2.0,SPEAKER_01,de,dann trägt,0.3862
+316.0,318.0,2.0,SPEAKER_01,de,das war es vor einer Seite,0.3862
+318.0,320.0,2.0,SPEAKER_00,de,ich gebe weiter Ansatz,0.3862
+320.0,322.0,2.0,SPEAKER_04,de,"Super, danke dir",0.3862
+322.0,324.0,2.0,SPEAKER_04,de,genau,0.3862
+324.0,326.0,2.0,SPEAKER_04,de,meine Woche,0.3862
+326.0,328.0,2.0,SPEAKER_04,de,erst mal bei Lichtblick hatte ich,0.3862
+328.0,330.0,2.0,SPEAKER_04,de,vor dieser Revocation Prozess zu finalizieren,0.3862
+330.0,332.0,2.0,SPEAKER_04,de,das Thema habe ich zusammen,0.3862
+332.0,334.0,2.0,SPEAKER_04,de,gestern mit Julian,0.3862
+334.0,336.0,2.0,SPEAKER_04,de,bin ich durchgegangen,0.3862
+336.0,338.0,2.0,SPEAKER_04,de,aber da fehlten wirklich viele,0.4375
+338.0,340.0,2.0,SPEAKER_04,de,viele technische Fragen,0.4375
+340.0,342.0,2.0,SPEAKER_04,de,die ich nicht bemerkt habe,0.4375
+342.0,344.0,2.0,SPEAKER_04,de,deswegen hat Julian das Thema,0.4375
+344.0,346.0,2.0,SPEAKER_04,de,erstmal übernommen,0.4375
+346.0,348.0,2.0,SPEAKER_04,de,erklärt das Thema mit den,0.4375
+348.0,350.0,2.0,SPEAKER_04,de,entsprechenden Leuten,0.4375
+350.0,352.0,2.0,SPEAKER_04,de,wie wir das getriggert,0.4375
+352.0,354.0,2.0,SPEAKER_04,de,werden und so weiter,0.4375
+354.0,356.0,2.0,SPEAKER_04,de,dann kommt,0.4375
+356.0,358.0,2.0,SPEAKER_04,de,das Thema wieder in,0.4375
+358.0,360.0,2.0,SPEAKER_04,de,die Umsetzung,0.4375
+360.0,362.0,2.0,SPEAKER_04,de,genau außerdem,0.4375
+362.0,364.0,2.0,SPEAKER_04,de,hatte ich auch vor diese,0.4375
+364.0,366.0,2.0,SPEAKER_04,de,Deployment Preparation zu machen,0.3847
+366.0,368.0,2.0,SPEAKER_04,de,genau vor unserem Meeting,0.3847
+368.0,370.0,2.0,SPEAKER_04,de,hatten wir eine Stunde Termin,0.3847
+370.0,372.0,2.0,SPEAKER_04,de,Preparation,0.3847
+372.0,374.0,2.0,SPEAKER_04,de,das ist durch,0.3847
+374.0,376.0,2.0,SPEAKER_04,de,am Sonntag,0.3847
+376.0,378.0,2.0,SPEAKER_04,de,ist diese Deployment geplant,0.3847
+378.0,380.0,2.0,SPEAKER_04,de,leider muss Julian das übernehmen,0.3847
+380.0,382.0,2.0,SPEAKER_04,de,weil er das angeboten hat,0.3847
+382.0,384.0,2.0,SPEAKER_04,de,und ja ich kann,0.3847
+384.0,386.0,2.0,SPEAKER_04,de,damit auch damit ihn unterstützen,0.3847
+386.0,388.0,2.0,SPEAKER_04,de,genau,0.3847
+388.0,390.0,2.0,SPEAKER_04,de,bei PIN,0.3847
+390.0,392.0,2.0,SPEAKER_04,de,kommt die 3 Code Tests,0.3847
+392.0,394.0,2.0,SPEAKER_04,de,alle 3 Code Tests haben wir auch,0.4079
+394.0,396.0,2.0,SPEAKER_04,de,eine Menge von Code Tests bekommen,0.4079
+396.0,398.0,2.0,SPEAKER_04,de,3 Tests habe ich soweit erledigt,0.4079
+398.0,400.0,2.0,SPEAKER_04,de,"2, 3 sind immer noch auf",0.4079
+400.0,402.0,2.0,SPEAKER_04,de,mache ich nächste Woche,0.4079
+402.0,404.0,2.0,SPEAKER_04,de,G Plus H,0.4079
+404.0,406.0,2.0,SPEAKER_04,de,mit dem neuen B.U. Integration,0.4079
+406.0,408.0,2.0,SPEAKER_04,de,hatte ich vor anzufangen,0.4079
+408.0,410.0,2.0,SPEAKER_04,de,aber die Woche war,0.4079
+410.0,412.0,2.0,SPEAKER_04,de,mit dem Lichtblick,0.4079
+412.0,414.0,2.0,SPEAKER_04,de,richtig beschäftigt deswegen,0.4079
+414.0,416.0,2.0,SPEAKER_04,de,kann ich leider nicht,0.4079
+416.0,418.0,2.0,SPEAKER_04,de,dazu mache ich,0.4079
+418.0,420.0,2.0,SPEAKER_04,de,diese Anfang nächste Woche,0.4079
+420.0,422.0,2.0,SPEAKER_04,de,warum bin ich der Beste dieser Woche,0.4241
+422.0,424.0,2.0,SPEAKER_04,de,ist,0.4241
+424.0,426.0,2.0,SPEAKER_04,de,eine gute Frage,0.4241
+426.0,428.0,2.0,SPEAKER_04,de,wahrscheinlich,0.4241
+428.0,430.0,2.0,SPEAKER_04,de,gute Production,0.4241
+430.0,432.0,2.0,SPEAKER_04,de,Preparation und alle diese,0.4241
+432.0,434.0,2.0,SPEAKER_04,de,Chaos was bei Lichtblick passiert war,0.4241
+434.0,436.0,2.0,SPEAKER_04,de,wegen dem Feld,0.4241
+436.0,438.0,2.0,SPEAKER_04,de,das haben wir irgendwie getagelt,0.4241
+438.0,440.0,2.0,SPEAKER_04,de,und ja,0.4241
+440.0,442.0,2.0,SPEAKER_04,de,dass die alle,0.4241
+442.0,444.0,2.0,SPEAKER_04,de,unsere Entwicklungen,0.4241
+444.0,446.0,2.0,SPEAKER_04,de,werden am Sonntag live gehen,0.4241
+446.0,448.0,2.0,SPEAKER_04,de,genau,0.4241
+448.0,450.0,2.0,SPEAKER_04,de,und ich bin auch der Beste dieser Woche,0.3483
+450.0,452.0,2.0,SPEAKER_04,de,weil ich auch diese Woche 3,0.3483
+452.0,454.0,2.0,SPEAKER_04,de,mal in Fitnessstudio war,0.3483
+454.0,456.0,2.0,SPEAKER_04,de,so,0.3483
+456.0,458.0,2.0,SPEAKER_04,de,das,0.3483
+458.0,460.0,2.0,SPEAKER_04,de,ist von mir,0.3483
+460.0,462.0,2.0,SPEAKER_04,de,Dominik magst du gerne weiter machen,0.3483
+462.0,464.0,2.0,SPEAKER_05,de,Danke dir sehr schön,0.3483
+464.0,466.0,2.0,SPEAKER_05,de,ja für mich die Woche,0.3483
+466.0,468.0,2.0,SPEAKER_05,de,bei TNI,0.3483
+468.0,470.0,2.0,SPEAKER_05,de,da hatten wir das besprochen,0.3483
+470.0,472.0,2.0,SPEAKER_05,de,weil er diese Archivierung,0.3483
+472.0,474.0,2.0,SPEAKER_05,de,Einrichtung übernimmt beziehungsweise die Kommunikation,0.3483
+474.0,476.0,2.0,SPEAKER_05,de,und da hieß es dann haben wir geklärt,0.3483
+476.0,478.0,2.0,SPEAKER_05,de,und Matthias das direkt absprechen,0.4261
+478.0,480.0,2.0,SPEAKER_05,de,da ich,0.4261
+480.0,482.0,2.0,SPEAKER_05,de,der Mittelsmann zwischen denen bin,0.4261
+482.0,484.0,2.0,SPEAKER_05,de,und da eine klare Kommunikation,0.4261
+484.0,486.0,2.0,SPEAKER_05,de,oder eine direkte Kommunikationsstrecke,0.4261
+486.0,488.0,2.0,SPEAKER_05,de,zwischen den beiden stattfinden soll,0.4261
+488.0,490.0,2.0,SPEAKER_05,de,bleibt weiterhin spannend,0.4261
+490.0,492.0,2.0,SPEAKER_05,de,ich habe heute nochmal mit,0.4261
+492.0,494.0,2.0,SPEAKER_05,de,Seher gesprochen gehabt,0.4261
+494.0,496.0,2.0,SPEAKER_05,de,und sie haben das so verstandener,0.4261
+496.0,498.0,2.0,SPEAKER_05,de,dass ich irgendwie Meeting einrichte,0.4261
+498.0,500.0,2.0,SPEAKER_05,de,und,0.4261
+500.0,502.0,2.0,SPEAKER_05,de,dass sie darauf gewartet haben,0.4261
+502.0,504.0,2.0,SPEAKER_05,de,jetzt nochmal klargestellt,0.4261
+504.0,506.0,2.0,SPEAKER_05,de,dass die Kommunikation,0.4173
+506.0,508.0,2.0,SPEAKER_05,de,zwischen den beiden stattfindet,0.4173
+508.0,510.0,2.0,SPEAKER_05,de,jetzt werden wir einen Channel dafür errichten,0.4173
+510.0,512.0,2.0,SPEAKER_05,de,also ein,0.4173
+512.0,514.0,2.0,SPEAKER_05,de,"Text, ein Chat dafür errichten",0.4173
+514.0,516.0,2.0,SPEAKER_05,de,wo alle drin sind,0.4173
+516.0,518.0,2.0,SPEAKER_05,de,und dann ein,0.4173
+518.0,520.0,2.0,SPEAKER_05,de,in schriftlicher Form das abgeklärt wird,0.4173
+520.0,522.0,2.0,SPEAKER_05,de,deswegen bin ich weiterhin gespannt wie das fortgeführt wird,0.4173
+522.0,524.0,2.0,SPEAKER_05,de,dann bei Lichtblick,0.4173
+524.0,526.0,2.0,SPEAKER_05,de,dann den Feinschliff der einzelnen Prozesse,0.4173
+526.0,528.0,2.0,SPEAKER_05,de,die Prozesse sind alle visualisiert,0.4173
+528.0,530.0,2.0,SPEAKER_05,de,das habe ich abgeschlossen,0.4173
+530.0,532.0,2.0,SPEAKER_05,de,wir hatten heute nochmal ein Besprechungsmeeting,0.4173
+532.0,534.0,2.0,SPEAKER_05,de,die Prozesse visualisiert sind,0.3919
+534.0,536.0,2.0,SPEAKER_05,de,da kamen nochmal einige Änderungen auf,0.3919
+536.0,538.0,2.0,SPEAKER_05,de,eher kleinere Änderungen,0.3919
+538.0,540.0,2.0,SPEAKER_05,de,die pass ich jetzt noch an,0.3919
+540.0,542.0,2.0,SPEAKER_05,de,das weiteren habe ich im Laufe der Woche,0.3919
+542.0,544.0,2.0,SPEAKER_05,de,noch drei weitere Tickets übernehmen und abgeschlossen gehabt,0.3919
+544.0,546.0,2.0,SPEAKER_05,de,bzw.,0.3919
+546.0,548.0,2.0,SPEAKER_05,de,im einen bin ich jetzt noch dran,0.3919
+548.0,550.0,2.0,SPEAKER_05,de,das ist eine tägliche Aufgabe das sind nochmal,0.3919
+550.0,552.0,2.0,SPEAKER_05,de,Plug-in Trace Logs,0.3919
+552.0,554.0,2.0,SPEAKER_05,de,zusammensammeln,0.3919
+554.0,556.0,2.0,SPEAKER_05,de,und dann daraus eine extra Tabelle erstellen,0.3919
+556.0,558.0,2.0,SPEAKER_05,de,das mache ich in der Woche Ende nochmal,0.3919
+558.0,560.0,2.0,SPEAKER_05,de,kurz PC an,0.3919
+560.0,562.0,2.0,SPEAKER_05,de,WebAPI,0.4052
+562.0,564.0,2.0,SPEAKER_05,de,kurz in Request,0.4052
+564.0,566.0,2.0,SPEAKER_05,de,die XML,0.4052
+566.0,568.0,2.0,SPEAKER_05,de,die JSON Datei speichern,0.4052
+568.0,570.0,2.0,SPEAKER_05,de,und am Montag zusammenfügen,0.4052
+570.0,572.0,2.0,SPEAKER_05,de,in die Excel Tabelle,0.4052
+572.0,574.0,2.0,SPEAKER_05,de,und das mache ich dann bis Donnerstag,0.4052
+574.0,576.0,2.0,SPEAKER_05,de,damit dann ausser schöner gute Liste hat,0.4052
+576.0,578.0,2.0,SPEAKER_05,de,für die Plug-in Trace Logs,0.4052
+578.0,580.0,2.0,SPEAKER_05,de,dass man die dann weiter analysieren kann,0.4052
+580.0,582.0,2.0,SPEAKER_05,de,dann bei ITNetX,0.4052
+582.0,584.0,2.0,SPEAKER_05,de,da habe ich die Templates abgeschlossen,0.4052
+584.0,586.0,2.0,SPEAKER_05,de,ich habe mich nochmal darum gekümmert,0.4052
+586.0,588.0,2.0,SPEAKER_05,de,dass die Trailversion zwei Wochen verlängert wird,0.4052
+588.0,590.0,2.0,SPEAKER_05,de,und noch am Laufen,0.4199
+590.0,592.0,2.0,SPEAKER_05,de,wenn der Markus dann,0.4199
+592.0,594.0,2.0,SPEAKER_05,de,über nächste Woche,0.4199
+594.0,596.0,2.0,SPEAKER_05,de,dann aus seinem Urlaub kommt,0.4199
+596.0,598.0,2.0,SPEAKER_05,de,wo wir das dann im Gemeinden noch testen können,0.4199
+598.0,600.0,2.0,SPEAKER_05,de,und für die PL-200,0.4199
+600.0,602.0,2.0,SPEAKER_05,de,da habe ich mir dann fünf Brandums vorgenommen,0.4199
+602.0,604.0,2.0,SPEAKER_05,de,also für jeden Tag eine,0.4199
+604.0,606.0,2.0,SPEAKER_05,de,da ich dann mit Fokus auf Prioritäten,0.4199
+606.0,608.0,2.0,SPEAKER_05,de,mehr Arbeit beim Kunden,0.4199
+608.0,610.0,2.0,SPEAKER_05,de,"verrichtet habe, da war es dann nur",0.4199
+610.0,612.0,2.0,SPEAKER_05,de,zwei von fünf bis jetzt abgeschlossen,0.4199
+612.0,614.0,2.0,SPEAKER_05,de,und meine dritte will ich dann heute Abend noch machen,0.4199
+614.0,616.0,2.0,SPEAKER_05,de,und dann reste dann am Wochenende,0.4199
+616.0,618.0,2.0,SPEAKER_05,de,warum bin ich der Beste diese Woche,0.3646
+618.0,620.0,2.0,SPEAKER_05,de,ich habe mir wieder viel meiner Freizeit vorgenommen,0.3646
+620.0,622.0,2.0,SPEAKER_05,de,ich war jetzt auch seit Monaten,0.3646
+622.0,624.0,2.0,SPEAKER_05,de,mal wieder im Gym,0.3646
+624.0,626.0,2.0,SPEAKER_05,de,konnte ich noch nicht mit dem Metall,0.3646
+626.0,628.0,2.0,SPEAKER_05,de,in Satzchen nur einmal die Woche,0.3646
+628.0,630.0,2.0,SPEAKER_05,de,aber es ist schon mal ein Riegen-Gol für mich,0.3646
+630.0,632.0,2.0,SPEAKER_05,de,Sachsophon war ich auch im Spiel,0.3646
+632.0,634.0,2.0,SPEAKER_05,de,und ich habe einen Kuchen gebacken,0.3646
+634.0,636.0,2.0,SPEAKER_05,de,wo auch wieder alle möglichen Leute dran happy waren,0.3646
+636.0,638.0,2.0,SPEAKER_05,de,und meiner Oma die habe ich auch geholfen,0.3646
+638.0,640.0,2.0,SPEAKER_05,de,in PC wieder einzurichten,0.3646
+640.0,642.0,2.0,SPEAKER_05,de,und auch mit der WebAPI,0.3646
+642.0,644.0,2.0,SPEAKER_05,de,fruflicherweise habe ich dann auch nochmal ein bisschen was gelernt,0.3646
+644.0,646.0,2.0,SPEAKER_05,de,Dynamics,0.324
+646.0,648.0,2.0,SPEAKER_05,de,WebAPI auch Sachen,0.324
+648.0,650.0,2.0,SPEAKER_05,de,"retrieven kann, sehr interessant",0.324
+650.0,652.0,2.0,SPEAKER_05,de,"ja, das war es von meiner Seite",0.324
+652.0,654.0,2.0,SPEAKER_05,de,dann gebe ich das Wort gerne weiter an Serge,0.324
+656.0,658.0,2.0,SPEAKER_05,de,Dominik,0.324
+658.0,660.0,2.0,SPEAKER_00,de,E,0.324
+660.0,662.0,2.0,SPEAKER_06,de,diese Woche,0.324
+662.0,664.0,2.0,SPEAKER_06,de,in den US,0.324
+664.0,666.0,2.0,SPEAKER_06,de,und FST,0.324
+666.0,668.0,2.0,SPEAKER_06,de,wir hatten,0.324
+668.0,670.0,2.0,SPEAKER_06,de,einen Deployement,0.324
+670.0,672.0,2.0,SPEAKER_06,de,zu Test und Produktion,0.324
+672.0,674.0,2.0,SPEAKER_06,de,und das war,0.2076
+674.0,676.0,2.0,SPEAKER_06,de,von der regularen Solution,0.2076
+676.0,678.0,2.0,SPEAKER_06,de,wir hatten,0.2076
+678.0,680.0,2.0,SPEAKER_06,de,zwei Azure Funktionen,0.2076
+680.0,682.0,2.0,SPEAKER_06,de,und zwei verschiedene Servers,0.2076
+682.0,684.0,2.0,SPEAKER_06,de,aber endlich war alles,0.2076
+684.0,686.0,2.0,SPEAKER_06,de,erfolgreich und es ist fertig,0.2076
+686.0,688.0,2.0,SPEAKER_06,de,auch ich,0.2076
+688.0,690.0,2.0,SPEAKER_06,de,verabschiedete 3 Tickets die ich für den Test,0.2076
+690.0,692.0,2.0,SPEAKER_06,de,verleichterte,0.2076
+692.0,694.0,2.0,SPEAKER_06,de,FST-Pollein,0.2076
+694.0,696.0,2.0,SPEAKER_06,de,ich war,0.2076
+696.0,698.0,2.0,SPEAKER_06,de,auf Datadistributions-Architektur,0.2076
+698.0,700.0,2.0,SPEAKER_06,de,auch,0.2076
+700.0,702.0,2.0,SPEAKER_06,de,in den letzten Wochen,0.2737
+702.0,704.0,2.0,SPEAKER_06,de,ich hatte nicht Zeit,0.2737
+704.0,706.0,2.0,SPEAKER_06,de,um es zu arbeiten,0.2737
+706.0,708.0,2.0,SPEAKER_06,de,aber es war in meiner Hälfte,0.2737
+708.0,710.0,2.0,SPEAKER_06,de,diese Session,0.2737
+710.0,712.0,2.0,SPEAKER_06,de,ich hatte es immer in meiner Hälfte,0.2737
+712.0,714.0,2.0,SPEAKER_06,de,und endlich,0.2737
+714.0,716.0,2.0,SPEAKER_06,de,habe ich gute Ideen,0.2737
+716.0,718.0,2.0,SPEAKER_06,de,und ich habe einen guten Prozess,0.2737
+718.0,720.0,2.0,SPEAKER_06,de,ich habe alle meine,0.2737
+720.0,722.0,2.0,SPEAKER_06,de,Träume und alle meine Solutionen dokumentiert,0.2737
+722.0,724.0,2.0,SPEAKER_06,de,also,0.2737
+724.0,726.0,2.0,SPEAKER_06,de,das ist also,0.2737
+726.0,728.0,2.0,SPEAKER_06,de,"auch fertig, es war ein gutes Prozess",0.2737
+730.0,732.0,2.0,SPEAKER_06,de,mit den Azure Fundamentals,0.2169
+732.0,734.0,2.0,SPEAKER_06,de,ich,0.2169
+734.0,736.0,2.0,SPEAKER_06,de,habe,0.2169
+736.0,738.0,2.0,SPEAKER_06,de,fast 3 Stunden,0.2169
+738.0,740.0,2.0,SPEAKER_06,de,den Test,0.2169
+740.0,742.0,2.0,SPEAKER_06,de,studiert,0.2169
+742.0,744.0,2.0,SPEAKER_06,de,und,0.2169
+744.0,746.0,2.0,SPEAKER_06,de,die Unterstützung war nicht,0.2169
+746.0,748.0,2.0,SPEAKER_06,de,verabschiedet,0.2169
+748.0,750.0,2.0,SPEAKER_06,de,das ist es,0.2169
+750.0,752.0,2.0,SPEAKER_06,de,ich bin der beste dieser Woche,0.2169
+752.0,754.0,2.0,SPEAKER_06,de,das erste Grund ist,0.2169
+754.0,756.0,2.0,SPEAKER_06,de,dass ich,0.2169
+756.0,758.0,2.0,SPEAKER_06,de,eine sehr unerwartete Issue,0.2169
+758.0,760.0,2.0,SPEAKER_06,de,habe,0.2249
+760.0,762.0,2.0,SPEAKER_06,de,wir hatten,0.2249
+762.0,764.0,2.0,SPEAKER_06,de,eine Schad-Solution,0.2249
+764.0,766.0,2.0,SPEAKER_06,de,und nach,0.2249
+766.0,768.0,2.0,SPEAKER_06,de,neuen Code-Rules,0.2249
+768.0,770.0,2.0,SPEAKER_06,de,waren sie geplant,0.2249
+770.0,772.0,2.0,SPEAKER_06,de,da waren,0.2249
+772.0,774.0,2.0,SPEAKER_06,de,100 Warnungen,0.2249
+774.0,776.0,2.0,SPEAKER_06,de,die waren,0.2249
+776.0,778.0,2.0,SPEAKER_06,de,in jedem Projekt sehr unerwartet,0.2249
+778.0,780.0,2.0,SPEAKER_06,de,ihr habt,0.2249
+780.0,782.0,2.0,SPEAKER_06,de,100 Warnungen,0.2249
+782.0,784.0,2.0,SPEAKER_06,de,ich habe es für jeden,0.2249
+784.0,786.0,2.0,SPEAKER_06,de,Entwickler,0.2249
+786.0,788.0,2.0,SPEAKER_06,de,die mit diesem,0.2817
+788.0,790.0,2.0,SPEAKER_06,de,Repport,0.2817
+790.0,792.0,2.0,SPEAKER_06,de,arbeiten,0.2817
+792.0,794.0,2.0,SPEAKER_06,de,alle Warnungen,0.2817
+794.0,796.0,2.0,SPEAKER_06,de,zumindest in Schad-Solution,0.2817
+796.0,798.0,2.0,SPEAKER_06,de,sind solved,0.2817
+798.0,800.0,2.0,SPEAKER_06,de,eine andere,0.2817
+800.0,802.0,2.0,SPEAKER_06,de,Grund,0.2817
+802.0,804.0,2.0,SPEAKER_06,de,ich habe es,0.2817
+804.0,806.0,2.0,SPEAKER_06,de,schon gesagt,0.2817
+806.0,808.0,2.0,SPEAKER_06,de,dass ich einen sehr guten Prozess,0.2817
+808.0,810.0,2.0,SPEAKER_06,de,in,0.2817
+810.0,812.0,2.0,SPEAKER_06,de,Datadistributionen,0.2817
+812.0,814.0,2.0,SPEAKER_06,de,designen,0.2817
+814.0,816.0,2.0,SPEAKER_06,de,weil,0.2378
+816.0,818.0,2.0,SPEAKER_06,de,ich,0.2378
+818.0,820.0,2.0,SPEAKER_06,de,die letzten Wochen nicht bereit war,0.2378
+820.0,822.0,2.0,SPEAKER_06,de,um,0.2378
+822.0,824.0,2.0,SPEAKER_06,de,alles zu documentieren,0.2378
+824.0,826.0,2.0,SPEAKER_06,de,weil ich keine Solutionen hatte,0.2378
+826.0,828.0,2.0,SPEAKER_06,de,aber,0.2378
+828.0,830.0,2.0,SPEAKER_06,de,jetzt habe ich einen guten Prozess,0.2378
+830.0,832.0,2.0,SPEAKER_06,de,von meinem,0.2378
+832.0,834.0,2.0,SPEAKER_06,de,Seite,0.2378
+834.0,836.0,2.0,SPEAKER_06,de,und ich bin über 2 Euro,0.2378
+836.0,838.0,2.0,SPEAKER_07,de,danke,0.2378
+838.0,840.0,2.0,SPEAKER_07,de,mein Warnung,0.2378
+840.0,842.0,2.0,SPEAKER_07,de,ist ein Warnung,0.2378
+842.0,844.0,2.0,SPEAKER_07,de,bei Casino hatte ich,0.3633
+844.0,846.0,2.0,SPEAKER_07,de,ein paar pending Tasks,0.3633
+846.0,848.0,2.0,SPEAKER_07,de,ich habe 2 Tasks,0.3633
+848.0,850.0,2.0,SPEAKER_07,de,geschafft,0.3633
+850.0,852.0,2.0,SPEAKER_07,de,und 2 Tasks,0.3633
+852.0,854.0,2.0,SPEAKER_07,de,sind pending,0.3633
+854.0,856.0,2.0,SPEAKER_07,de,das mag ich nächste Woche,0.3633
+856.0,858.0,2.0,SPEAKER_07,de,weil,0.3633
+858.0,860.0,2.0,SPEAKER_07,de,ich bei Listpligi-Mobilität,0.3633
+860.0,862.0,2.0,SPEAKER_07,de,mehr Zeit,0.3633
+862.0,864.0,2.0,SPEAKER_07,de,vorgenommen,0.3633
+864.0,866.0,2.0,SPEAKER_07,de,investiert,0.3633
+866.0,868.0,2.0,SPEAKER_07,de,dann bei PIN,0.3633
+868.0,870.0,2.0,SPEAKER_07,de,die Tasks,0.3633
+870.0,872.0,2.0,SPEAKER_07,de,die USCASE 1,0.369
+872.0,874.0,2.0,SPEAKER_07,de,mit Customer Voice,0.369
+874.0,876.0,2.0,SPEAKER_07,de,ist,0.369
+876.0,878.0,2.0,SPEAKER_07,de,und auch die Customer,0.369
+878.0,880.0,2.0,SPEAKER_07,de,mit dem Customer hatte ich,0.369
+880.0,882.0,2.0,SPEAKER_07,de,gestern getestet,0.369
+882.0,884.0,2.0,SPEAKER_07,de,alle sind,0.369
+884.0,886.0,2.0,SPEAKER_07,de,super,0.369
+886.0,888.0,2.0,SPEAKER_07,de,läuft gut,0.369
+888.0,890.0,2.0,SPEAKER_07,de,und,0.369
+890.0,892.0,2.0,SPEAKER_07,de,dann nächste Woche mache ich,0.369
+892.0,894.0,2.0,SPEAKER_07,de,die nächste USCASE von PIN,0.369
+894.0,896.0,2.0,SPEAKER_07,de,mit Customer Voice,0.369
+896.0,898.0,2.0,SPEAKER_07,de,dann bei Lupis Alpha,0.369
+898.0,900.0,2.0,SPEAKER_07,de,ein paar Kleinigkeiten,0.3917
+900.0,902.0,2.0,SPEAKER_07,de,kleinen Tasks,0.3917
+902.0,904.0,2.0,SPEAKER_07,de,das ist auch dann,0.3917
+904.0,906.0,2.0,SPEAKER_07,de,und das ist bei Listpligi-Mobilität,0.3917
+906.0,908.0,2.0,SPEAKER_07,de,Refinement,0.3917
+908.0,910.0,2.0,SPEAKER_07,de,2 Tasks das habe ich auch geschafft,0.3917
+910.0,912.0,2.0,SPEAKER_07,de,und additional Tasks sind auch,0.3917
+912.0,914.0,2.0,SPEAKER_07,de,completed,0.3917
+914.0,916.0,2.0,SPEAKER_07,de,warum ich die beste diese Woche,0.3917
+916.0,918.0,2.0,SPEAKER_07,de,bin,0.3917
+918.0,920.0,2.0,SPEAKER_07,de,ich beschäftige mich,0.3917
+920.0,922.0,2.0,SPEAKER_07,de,mehr mit dem Solution Design,0.3917
+922.0,924.0,2.0,SPEAKER_07,de,in Listpligi-Mobilität,0.3917
+924.0,926.0,2.0,SPEAKER_07,de,und,0.3917
+926.0,928.0,2.0,SPEAKER_07,de,die Herausforderungen,0.26
+928.0,930.0,2.0,SPEAKER_07,de,ich mag die Herausforderungen,0.26
+930.0,932.0,2.0,SPEAKER_07,de,und,0.26
+932.0,934.0,2.0,SPEAKER_07,de,ich denke ich werde die Technik,0.26
+934.0,936.0,2.0,SPEAKER_07,de,verbessern,0.26
+936.0,938.0,2.0,SPEAKER_07,de,und,0.26
+940.0,942.0,2.0,SPEAKER_07,de,ich habe noch keine Zeit,0.26
+942.0,944.0,2.0,SPEAKER_07,de,diese Woche,0.26
+944.0,946.0,2.0,SPEAKER_07,de,ich habe ein Studierter,0.26
+946.0,948.0,2.0,SPEAKER_07,de,für meine Autoführerschein-Profung,0.26
+948.0,950.0,2.0,SPEAKER_07,de,ja das war's,0.26
+950.0,952.0,2.0,SPEAKER_02,de,Christian,0.26
+952.0,954.0,2.0,SPEAKER_02,de,"ja, danke dir",0.26
+954.0,956.0,2.0,SPEAKER_02,de,"Lichtblick, 3 Tickets geplant",0.4451
+956.0,958.0,2.0,SPEAKER_02,de,2 sind's geworden,0.4451
+958.0,960.0,2.0,SPEAKER_02,de,plus noch Sachen,0.4451
+960.0,962.0,2.0,SPEAKER_02,de,drum herum,0.4451
+962.0,964.0,2.0,SPEAKER_02,de,teilweise Sachen nicht ganz abgeschlossen,0.4451
+964.0,966.0,2.0,SPEAKER_02,de,aber 2 stehen fest im Buch,0.4451
+966.0,968.0,2.0,SPEAKER_02,de,FST,0.4451
+968.0,970.0,2.0,SPEAKER_02,de,die Azure Function endlich fertig kriegen,0.4451
+970.0,972.0,2.0,SPEAKER_02,de,habe ich die Zeit die ich dafür haben wollte,0.4451
+972.0,974.0,2.0,SPEAKER_02,de,nicht wirklich investieren können,0.4451
+974.0,976.0,2.0,SPEAKER_02,de,weil einfach andere Dinge dazwischen noch waren,0.4451
+976.0,978.0,2.0,SPEAKER_02,de,Opportunity Turnover,0.4451
+978.0,980.0,2.0,SPEAKER_02,de,den PR fertig machen,0.4451
+980.0,982.0,2.0,SPEAKER_02,de,ich bin jetzt so gut wie fertig,0.4451
+982.0,984.0,2.0,SPEAKER_02,de,gerade wo ich keine,0.4021
+984.0,986.0,2.0,SPEAKER_02,de,nicht diese blöde,0.4021
+986.0,988.0,2.0,SPEAKER_02,de,virtuelle Maschine brauchte,0.4021
+988.0,990.0,2.0,SPEAKER_02,de,"Fabi, wir müssen am Montag mal",0.4021
+990.0,992.0,2.0,SPEAKER_02,de,"gucken, weil",0.4021
+992.0,994.0,2.0,SPEAKER_02,de,das ist dann der,0.4021
+994.0,996.0,2.0,SPEAKER_02,de,Abschluss von dem Thema,0.4021
+996.0,998.0,2.0,SPEAKER_02,de,viel ist es aber nicht mehr,0.4021
+998.0,1000.0,2.0,SPEAKER_02,de,Lupus Alpha war noch,0.4021
+1000.0,1002.0,2.0,SPEAKER_02,de,offene Themen mit fehlenden,0.4021
+1002.0,1004.0,2.0,SPEAKER_02,de,ja hauptsächlich fehlenden,0.4021
+1004.0,1006.0,2.0,SPEAKER_02,de,Konsens und Performance-Problem,0.4021
+1006.0,1008.0,2.0,SPEAKER_02,de,da habe ich angefangen,0.4021
+1008.0,1010.0,2.0,SPEAKER_02,de,also ich habe die Analyse soweit durch,0.4021
+1010.0,1012.0,2.0,SPEAKER_02,de,oder großteils durch,0.4341
+1012.0,1014.0,2.0,SPEAKER_02,de,zumindest was unsere Seite angeht,0.4341
+1014.0,1016.0,2.0,SPEAKER_02,de,Code von anderen Herstellern,0.4341
+1016.0,1018.0,2.0,SPEAKER_02,de,kann man halt immer nur sehr schwierig,0.4341
+1018.0,1020.0,2.0,SPEAKER_02,de,irgendwie performancemäßig beurteilen,0.4341
+1022.0,1024.0,2.0,SPEAKER_02,de,ich habe angefangen,0.4341
+1024.0,1026.0,2.0,SPEAKER_02,de,Dinge für die,0.4341
+1026.0,1028.0,2.0,SPEAKER_02,de,fehlenden Konsens zu implementieren,0.4341
+1028.0,1030.0,2.0,SPEAKER_02,de,weil sie da auch ein sehr ausgeklügeltes,0.4341
+1030.0,1032.0,2.0,SPEAKER_02,de,"Modell haben, wer da dann am Ende drinstehen darf",0.4341
+1032.0,1034.0,2.0,SPEAKER_02,de,wer das Ganze zugestimmt,0.4341
+1034.0,1036.0,2.0,SPEAKER_02,de,und abgelehnt hat,0.4341
+1036.0,1038.0,2.0,SPEAKER_02,de,"da sind sie etwas speziell, wirklich behaupten",0.4341
+1038.0,1040.0,2.0,SPEAKER_02,de,und ich habe das,0.4149
+1040.0,1042.0,2.0,SPEAKER_02,de,Performance-Upgrade,0.4149
+1042.0,1044.0,2.0,SPEAKER_02,de,für Lupus Alpha,0.4149
+1044.0,1046.0,2.0,SPEAKER_02,de,ich würde mal überhaupt 95% durch,0.4149
+1048.0,1050.0,2.0,SPEAKER_02,de,die Sachen die Walde mal da vorgeschlagen,0.4149
+1050.0,1052.0,2.0,SPEAKER_02,de,"hatte, die sind",0.4149
+1052.0,1054.0,2.0,SPEAKER_02,de,"alle schön und gut, die funktionieren auch",0.4149
+1054.0,1056.0,2.0,SPEAKER_02,de,Lupus Alpha ist mit Marketing,0.4149
+1056.0,1058.0,2.0,SPEAKER_02,de,allerdings der Edge Case,0.4149
+1058.0,1060.0,2.0,SPEAKER_02,de,und wir haben so viele Dinge gefunden,0.4149
+1060.0,1062.0,2.0,SPEAKER_02,de,die einfach noch nicht direkt,0.4149
+1062.0,1064.0,2.0,SPEAKER_02,de,perfekt funktioniert haben,0.4149
+1064.0,1066.0,2.0,SPEAKER_02,de,da habe ich auch Walde mal noch viel gelernt,0.4149
+1066.0,1068.0,2.0,SPEAKER_02,de,da habe ich sehr viel gelernt,0.442
+1068.0,1070.0,2.0,SPEAKER_02,de,da sind aber so weit,0.442
+1070.0,1072.0,2.0,SPEAKER_02,de,so weit,0.442
+1072.0,1074.0,2.0,SPEAKER_02,de,ist das bei Lupus Alpha,0.442
+1074.0,1076.0,2.0,SPEAKER_02,de,"fast durch, ich glaube auf dem Kontakt sind",0.442
+1076.0,1078.0,2.0,SPEAKER_02,de,noch 2,0.442
+1078.0,1080.0,2.0,SPEAKER_02,de,oder 3 kleinere Services die ich noch umbauen,0.442
+1080.0,1082.0,2.0,SPEAKER_02,de,"muss, die habe ich jetzt vom Meeting nicht mehr geschafft",0.442
+1082.0,1084.0,2.0,SPEAKER_02,de,und zusätzlich,0.442
+1084.0,1086.0,2.0,SPEAKER_02,de,für Casino das Performance-Upgrade,0.442
+1086.0,1088.0,2.0,SPEAKER_02,de,habe ich komplett durch,0.442
+1088.0,1090.0,2.0,SPEAKER_02,de,ist ja auch wieder Marketing,0.442
+1092.0,1094.0,2.0,SPEAKER_02,de,Sonderlocken,0.442
+1094.0,1096.0,2.0,SPEAKER_02,de,und zusätzlich noch ein Ticket,0.4083
+1096.0,1098.0,2.0,SPEAKER_02,de,ich habe es jetzt nicht aufgeschrieben aber ein Ticket ist da noch fertig geworden,0.4083
+1100.0,1102.0,2.0,SPEAKER_02,de,der beste die Woche bin ich,0.4083
+1102.0,1104.0,2.0,SPEAKER_02,de,weil die Performance-Upgrades,0.4083
+1104.0,1106.0,2.0,SPEAKER_02,de,einfach dann doch,0.4083
+1106.0,1108.0,2.0,SPEAKER_02,de,wenn man einmal drin ist sehr sauber runter zu schreiben,0.4083
+1108.0,1110.0,2.0,SPEAKER_02,de,sind,0.4083
+1110.0,1112.0,2.0,SPEAKER_02,de,gerade bei Casino noch so ein Gesamtrefect-Dring,0.4083
+1112.0,1114.0,2.0,SPEAKER_02,de,mit durchgezogen habe,0.4083
+1116.0,1118.0,2.0,SPEAKER_02,de,und ich bin der beste,0.4083
+1118.0,1120.0,2.0,SPEAKER_02,de,weil ich am Montagabend,0.4083
+1120.0,1122.0,2.0,SPEAKER_02,de,so aus dem privaten heraus,0.4083
+1122.0,1124.0,2.0,SPEAKER_02,de,eine Planung gemacht habe,0.4333
+1124.0,1126.0,2.0,SPEAKER_02,de,für einen Fortbildungstag Mitte Oktober,0.4333
+1126.0,1128.0,2.0,SPEAKER_02,de,wo wir für knapp,0.4333
+1128.0,1130.0,2.0,SPEAKER_02,de,60 Leute,0.4333
+1130.0,1132.0,2.0,SPEAKER_02,de,eine ganz tägliche,0.4333
+1132.0,1134.0,2.0,SPEAKER_02,de,Rettungsdienst Fortbildung anbieten,0.4333
+1134.0,1136.0,2.0,SPEAKER_02,de,inklusive Verpflegung und allem,0.4333
+1136.0,1138.0,2.0,SPEAKER_02,de,und da ist eine ganze Menge Zeug zu bedenken,0.4333
+1138.0,1140.0,2.0,SPEAKER_02,de,wenn man so viele Leute irgendwie unterbringen möchte,0.4333
+1144.0,1146.0,2.0,SPEAKER_02,de,"genau, so mehr habe ich nicht zu erzählen",0.4333
+1146.0,1148.0,2.0,SPEAKER_02,de,"außer Fabi, du bist",0.4333
+1148.0,1150.0,2.0,SPEAKER_03,de,Danke dir Christian,0.4333
+1150.0,1152.0,2.0,SPEAKER_03,de,du hast noch eine schöne Geschenke vom Kunden bekommen,0.3397
+1154.0,1156.0,2.0,SPEAKER_02,de,"Ja, liegt auch hier",0.3397
+1156.0,1158.0,2.0,SPEAKER_02,de,das ist ein,0.3397
+1158.0,1160.0,2.0,SPEAKER_02,de,ein Buch,0.3397
+1160.0,1162.0,2.0,SPEAKER_02,de,also das ganze gab es jetzt zum,0.3397
+1162.0,1164.0,2.0,SPEAKER_02,de,25 jährigen Bestehen,0.3397
+1164.0,1166.0,2.0,SPEAKER_02,de,von Lupus Alpha,0.3397
+1166.0,1168.0,2.0,SPEAKER_02,de,und das ist eine Sammlung,0.3397
+1168.0,1170.0,2.0,SPEAKER_02,de,von Podcast,0.3397
+1170.0,1172.0,2.0,SPEAKER_02,de,oder er hauptsächlich Podcast-Vorschlägen,0.3397
+1172.0,1174.0,2.0,SPEAKER_02,de,von den Mitarbeitern,0.3397
+1174.0,1176.0,2.0,SPEAKER_02,de,bei Lupus Alpha,0.3397
+1176.0,1178.0,2.0,SPEAKER_02,de,so aus allem Möglichen heraus,0.3397
+1178.0,1180.0,2.0,SPEAKER_02,de,und Fußball Podcasts bei,0.3926
+1180.0,1182.0,2.0,SPEAKER_02,de,da sind,0.3926
+1182.0,1184.0,2.0,SPEAKER_02,de,True Crime Podcasts bei,0.3926
+1184.0,1186.0,2.0,SPEAKER_02,de,"da ist Wissenschaft, da ist Reise, da ist von allem was dabei",0.3926
+1186.0,1188.0,2.0,SPEAKER_02,de,also ich,0.3926
+1188.0,1190.0,2.0,SPEAKER_02,de,"ich habe mal durchgeguckt, da sind ein paar sehr interessante Sachen bei",0.3926
+1190.0,1192.0,2.0,SPEAKER_02,de,auch einige so was ich noch,0.3926
+1192.0,1194.0,2.0,SPEAKER_02,de,noch gar nicht kannte,0.3926
+1194.0,1196.0,2.0,SPEAKER_02,de,"aus Bereichen wo ich sage, ja da bin ich sonst schon irgendwie",0.3926
+1196.0,1198.0,2.0,SPEAKER_02,de,erfing,0.3926
+1198.0,1200.0,2.0,SPEAKER_02,de,ist sehr interessant zu sehen,0.3926
+1200.0,1202.0,2.0,SPEAKER_02,de,die Leute mit denen man es zu tun hat,0.3926
+1202.0,1204.0,2.0,SPEAKER_02,de,wofür die sich sonst so interessieren,0.3926
+1204.0,1206.0,2.0,SPEAKER_02,de,ich bring das am Montag nochmal mit,0.3926
+1206.0,1208.0,2.0,SPEAKER_02,de,und können durchgucken,0.4042
+1208.0,1210.0,2.0,SPEAKER_02,de,sind ein paar nette Sachen bei,0.4042
+1210.0,1212.0,2.0,SPEAKER_03,de,ja mega,0.4042
+1212.0,1214.0,2.0,SPEAKER_03,de,zeigt aber auch einfach die Wertschätzung,0.4042
+1214.0,1216.0,2.0,SPEAKER_02,de,ich habe da absolut nicht mehr gerechnet,0.4042
+1216.0,1218.0,2.0,SPEAKER_02,de,ich habe also,0.4042
+1218.0,1220.0,2.0,SPEAKER_02,de,ich muss ja am Montag,0.4042
+1220.0,1222.0,2.0,SPEAKER_02,de,muss ich mal gucken,0.4042
+1222.0,1224.0,2.0,SPEAKER_02,de,dass ich den,0.4042
+1224.0,1226.0,2.0,SPEAKER_02,de,das kam jetzt vom Herrn Gewalt,0.4042
+1226.0,1228.0,2.0,SPEAKER_02,de,den müssen wir mal in die E-Mail schreiben,0.4042
+1228.0,1230.0,2.0,SPEAKER_03,de,der Herr Gewalt,0.4042
+1230.0,1232.0,2.0,SPEAKER_03,de,wenn es um die Weihnachtsgeschenke geht,0.4042
+1232.0,1234.0,2.0,SPEAKER_03,de,auf jeden Fall auch mir mal den Namen schreiben,0.4042
+1234.0,1236.0,2.0,SPEAKER_03,de,dann füge ich,0.373
+1236.0,1238.0,2.0,SPEAKER_03,de,die Lupus Alphanen,0.373
+1238.0,1240.0,2.0,SPEAKER_03,de,auch mit hin zu,0.373
+1240.0,1242.0,2.0,SPEAKER_03,de,mit denen jetzt zusammenarbeitet,0.373
+1242.0,1244.0,2.0,SPEAKER_02,de,super,0.373
+1244.0,1246.0,2.0,SPEAKER_02,de,aber jetzt Bobby,0.373
+1246.0,1248.0,2.0,SPEAKER_03,de,let's go,0.373
+1248.0,1250.0,2.0,SPEAKER_03,de,FPM erstmal wieder einfinden,0.373
+1250.0,1252.0,2.0,SPEAKER_03,de,nach meiner Woche,0.373
+1252.0,1254.0,2.0,SPEAKER_03,de,beziehungsweise sieben Tage Urlaub,0.373
+1254.0,1256.0,2.0,SPEAKER_03,de,wir gehen nächste Woche Dienstag,0.373
+1256.0,1258.0,2.0,SPEAKER_03,de,in die ersten Trainings wegen dem Kleinmanagement,0.373
+1258.0,1260.0,2.0,SPEAKER_03,de,und Business hat sich entschieden,0.373
+1260.0,1262.0,2.0,SPEAKER_03,de,jetzt letzte Woche mit dem Testing,0.373
+1262.0,1264.0,2.0,SPEAKER_03,de,um die Anpassung anzufangen,0.4025
+1264.0,1266.0,2.0,SPEAKER_03,de,das Features,0.4025
+1266.0,1268.0,2.0,SPEAKER_03,de,da kamen natürlich ein paar Kleinigkeiten,0.4025
+1268.0,1270.0,2.0,SPEAKER_03,de,raus und die ich mich diese Woche gekümmert habe,0.4025
+1270.0,1272.0,2.0,SPEAKER_03,de,unter anderem,0.4025
+1272.0,1274.0,2.0,SPEAKER_03,de,wir erzeugten so einen 8D Report,0.4025
+1274.0,1276.0,2.0,SPEAKER_03,de,der musste überarbeitet werden,0.4025
+1276.0,1278.0,2.0,SPEAKER_03,de,es kam jetzt alles Stück für Stück,0.4025
+1278.0,1280.0,2.0,SPEAKER_03,de,einfach die letzten Tage es war eben,0.4025
+1280.0,1282.0,2.0,SPEAKER_03,de,Anpassung auf Abruf,0.4025
+1282.0,1284.0,2.0,SPEAKER_03,de,kostet immer Zeit,0.4025
+1284.0,1286.0,2.0,SPEAKER_03,de,weil man das teilweise dann live in den Terminen macht,0.4025
+1286.0,1288.0,2.0,SPEAKER_03,de,und dann haben wir noch die virtuelle Maschine,0.4025
+1288.0,1290.0,2.0,SPEAKER_03,de,bei FPM,0.4025
+1290.0,1292.0,2.0,SPEAKER_03,de,so easy machen,0.4259
+1292.0,1294.0,2.0,SPEAKER_03,de,ist ein bisschen herausfordernd,0.4259
+1294.0,1296.0,2.0,SPEAKER_03,de,gerade wenn man dann plötzlich den DCP Klein,0.4259
+1296.0,1298.0,2.0,SPEAKER_03,de,wenn man den,0.4259
+1298.0,1300.0,2.0,SPEAKER_03,de,installieren muss und das dann natürlich nicht geht,0.4259
+1300.0,1302.0,2.0,SPEAKER_03,de,weil man keine Änderungen machen darf,0.4259
+1302.0,1304.0,2.0,SPEAKER_03,de,auf der virtuellen Maschine aber hat funktioniert,0.4259
+1304.0,1306.0,2.0,SPEAKER_03,de,wir sind ready für Dienstag,0.4259
+1306.0,1308.0,2.0,SPEAKER_03,de,wahrscheinlich kommen am Montag noch ein paar Änderungen,0.4259
+1308.0,1310.0,2.0,SPEAKER_03,de,aber das passt schon,0.4259
+1310.0,1312.0,2.0,SPEAKER_03,de,sonst bei FPM einige Test- und Brottdipläumen,0.4259
+1312.0,1314.0,2.0,SPEAKER_03,de,weil ich die Änderungen natürlich immer direkt,0.4259
+1314.0,1316.0,2.0,SPEAKER_03,de,mit in die Zielsysteme,0.4259
+1316.0,1318.0,2.0,SPEAKER_03,de,nehmen musste,0.4259
+1318.0,1320.0,2.0,SPEAKER_03,de,Plansee,0.4057
+1320.0,1322.0,2.0,SPEAKER_03,de,hatten wir das erste Feedback,0.4057
+1322.0,1324.0,2.0,SPEAKER_03,de,der Forms,0.4057
+1324.0,1326.0,2.0,SPEAKER_03,de,"danke auch dir Satschinder, hast du direkt geholfen",0.4057
+1326.0,1328.0,2.0,SPEAKER_03,de,waren ein paar Styling-Themen,0.4057
+1328.0,1330.0,2.0,SPEAKER_03,de,die wir zu beachten hatten,0.4057
+1330.0,1332.0,2.0,SPEAKER_03,de,der Recapture Text,0.4057
+1332.0,1334.0,2.0,SPEAKER_03,de,der unten drauf hinweist,0.4057
+1334.0,1336.0,2.0,SPEAKER_03,de,dass eben Recapture genutzt wird,0.4057
+1336.0,1338.0,2.0,SPEAKER_03,de,der wurde bisher,0.4057
+1338.0,1340.0,2.0,SPEAKER_03,de,Herr Frontendscript eingeblendet,0.4057
+1340.0,1342.0,2.0,SPEAKER_03,de,war aber nicht so sichtbar,0.4057
+1342.0,1344.0,2.0,SPEAKER_03,de,in den Markettoformularen,0.4057
+1344.0,1346.0,2.0,SPEAKER_03,de,das haben wir gemacht gleichzeitig,0.4057
+1346.0,1348.0,2.0,SPEAKER_03,de,wir haben ein,0.3886
+1350.0,1352.0,2.0,SPEAKER_03,de,hatten wir Solution Design,0.3886
+1352.0,1354.0,2.0,SPEAKER_03,de,zu einer Alertfunktion,0.3886
+1354.0,1356.0,2.0,SPEAKER_03,de,und hat Alertcenter bei Formsubmissions,0.3886
+1356.0,1358.0,2.0,SPEAKER_03,de,Werder was informiert werden muss,0.3886
+1358.0,1360.0,2.0,SPEAKER_03,de,wenn ein bestimmtes,0.3886
+1360.0,1362.0,2.0,SPEAKER_03,de,Form submittet wird,0.3886
+1362.0,1364.0,2.0,SPEAKER_03,de,bis,0.3886
+1364.0,1366.0,2.0,SPEAKER_03,de,"nächste Woche von mir umgesetzt, wir haben es designed",0.3886
+1366.0,1368.0,2.0,SPEAKER_03,de,und die Aufgaben definiert,0.3886
+1368.0,1370.0,2.0,SPEAKER_03,de,zusätzlich zu dem was ich jetzt hier aufgeschrieben,0.3886
+1370.0,1372.0,2.0,SPEAKER_03,de,"habe, gab es natürlich nur ein paar Aliro-Themen",0.3886
+1372.0,1374.0,2.0,SPEAKER_03,de,wir Switchen,0.3886
+1374.0,1376.0,2.0,SPEAKER_03,de,wir haben eine Sellerie von Leads,0.3876
+1376.0,1378.0,2.0,SPEAKER_03,de,auf Kontakte und Accounts,0.3876
+1378.0,1380.0,2.0,SPEAKER_03,de,das musste gemacht werden,0.3876
+1380.0,1382.0,2.0,SPEAKER_03,de,da habe ich gleich ja noch ein Diploment,0.3876
+1382.0,1384.0,2.0,SPEAKER_03,de,deswegen der Hinweis ab 17 Uhr,0.3876
+1384.0,1386.0,2.0,SPEAKER_03,de,"kann es sein, dass es im System Probleme gibt",0.3876
+1386.0,1388.0,2.0,SPEAKER_03,de,das bedeutet die Leute,0.3876
+1388.0,1390.0,2.0,SPEAKER_03,de,die irgendwie Time-Trackings erstellen sollten,0.3876
+1390.0,1392.0,2.0,SPEAKER_03,de,und Probleme haben,0.3876
+1392.0,1394.0,2.0,SPEAKER_03,de,bitte einfach mir schreiben,0.3876
+1396.0,1398.0,2.0,SPEAKER_03,de,die sollten ja auch möglichst schon erstellt worden sein,0.3876
+1398.0,1400.0,2.0,SPEAKER_03,de,sonst,0.3876
+1400.0,1402.0,2.0,SPEAKER_03,de,"FST, bahn sich ein neues Projekt an",0.3876
+1402.0,1404.0,2.0,SPEAKER_03,de,mit dem Sublideshain,0.3845
+1404.0,1406.0,2.0,SPEAKER_03,de,da bin ich am Estimaten-Diensteig,0.3845
+1406.0,1408.0,2.0,SPEAKER_03,de,da habe ich den Follow-up-Termin mit dem,0.3845
+1408.0,1410.0,2.0,SPEAKER_03,de,Projektleiter,0.3845
+1410.0,1412.0,2.0,SPEAKER_03,de,"sieht ganz interessant aus, wird wahrscheinlich",0.3845
+1412.0,1414.0,2.0,SPEAKER_03,de,ein kleineres Projekt 20-25 Tage,0.3845
+1414.0,1416.0,2.0,SPEAKER_03,de,mit einem Supportvertrag hin und dran,0.3845
+1416.0,1418.0,2.0,SPEAKER_03,de,"genau, sonst gibt es",0.3845
+1418.0,1420.0,2.0,SPEAKER_03,de,"sehr, sehr viele potenzielle Projektanfragen",0.3845
+1420.0,1422.0,2.0,SPEAKER_03,de,die wir aussortieren,0.3845
+1422.0,1424.0,2.0,SPEAKER_03,de,und eben,0.3845
+1424.0,1426.0,2.0,SPEAKER_03,de,"da arbeiten, bisher noch nichts extrem",0.3845
+1426.0,1428.0,2.0,SPEAKER_03,de,"interessantes, wo wirklich mal 2-3",0.3845
+1428.0,1430.0,2.0,SPEAKER_03,de,von uns wieder untergebracht werden können,0.3845
+1430.0,1432.0,2.0,SPEAKER_03,de,"man sieht, der Markt erholt sich",0.4152
+1432.0,1434.0,2.0,SPEAKER_03,de,es gibt,0.4152
+1434.0,1436.0,2.0,SPEAKER_03,de,viel mehr Anfragen als vor 2-3 Monaten,0.4152
+1438.0,1440.0,2.0,SPEAKER_03,de,"sonst, machen wir nicht der Beste",0.4152
+1440.0,1442.0,2.0,SPEAKER_03,de,ich hatte einen sehr geilen Urlaub,0.4152
+1442.0,1444.0,2.0,SPEAKER_03,de,habe super viele Tiere gesehen,0.4152
+1444.0,1446.0,2.0,SPEAKER_03,de,wurde nicht,0.4152
+1446.0,1448.0,2.0,SPEAKER_03,de,gegessen oder gefressen,0.4152
+1450.0,1452.0,2.0,SPEAKER_03,de,macht mich relativ glücklich,0.4152
+1452.0,1454.0,2.0,SPEAKER_03,de,kann ich nur empfehlen,0.4152
+1454.0,1456.0,2.0,SPEAKER_03,de,macht mich relativ glücklich,0.4152
+1456.0,1458.0,2.0,SPEAKER_03,de,ich glaube es gibt dann noch schlimmer Dinge,0.4152
+1458.0,1460.0,2.0,SPEAKER_03,de,als,0.3979
+1460.0,1462.0,2.0,SPEAKER_03,de,"ne epischer Tod, ne Spaß",0.3979
+1462.0,1464.0,2.0,SPEAKER_03,de,war gut,0.3979
+1464.0,1466.0,2.0,SPEAKER_03,de,"sonst, ich bin auch wieder im Trainings-Modus",0.3979
+1466.0,1468.0,2.0,SPEAKER_03,de,war diese Woche 2-mal,0.3979
+1468.0,1470.0,2.0,SPEAKER_03,de,Arbeit kam ich,0.3979
+1470.0,1472.0,2.0,SPEAKER_03,de,"sehr, sehr gut rein diese Woche",0.3979
+1474.0,1476.0,2.0,SPEAKER_00,de,bin einfach,0.3979
+1476.0,1478.0,2.0,SPEAKER_00,de,bin zufrieden,0.3979
+1480.0,1482.0,2.0,SPEAKER_00,de,weitere Themen von eurer Seite aus,0.3979
+1482.0,1484.0,2.0,SPEAKER_00,de,die diese Woche aufgefallen sind,0.3979
+1484.0,1486.0,2.0,SPEAKER_00,de,lasst dieses Alert Center,0.3856
+1486.0,1488.0,2.0,SPEAKER_02,de,bitte nicht Lupus Alpha sehen,0.3856
+1488.0,1490.0,2.0,SPEAKER_02,de,die würden sich da bestimmt auch drüber freuen,0.3856
+1490.0,1492.0,2.0,SPEAKER_02,de,das wird dann aber doch der Jochen,0.3856
+1492.0,1494.0,2.0,SPEAKER_02,de,kommunizieren oder,0.3856
+1494.0,1496.0,2.0,SPEAKER_03,de,"ah verdammt, das ist ja",0.3856
+1496.0,1498.0,2.0,SPEAKER_03,de,ja ok,0.3856
+1498.0,1500.0,2.0,SPEAKER_03,de,es ist,0.3856
+1500.0,1502.0,2.0,SPEAKER_02,de,relativ unkompliziert,0.3856
+1502.0,1504.0,2.0,SPEAKER_03,de,aber,0.3856
+1504.0,1506.0,2.0,SPEAKER_03,de,wenn es Jochen gefällt,0.3856
+1506.0,1508.0,2.0,SPEAKER_03,de,dann wird es wahrscheinlich bei Lupus,0.3856
+1508.0,1510.0,2.0,SPEAKER_03,de,auch vorschlagen und dann bedeutet es aber,0.3856
+1510.0,1512.0,2.0,SPEAKER_03,de,"auch für uns, dass wir wieder ein bisschen",0.3856
+1512.0,1514.0,2.0,SPEAKER_03,de,Arbeit haben also,0.4253
+1514.0,1516.0,2.0,SPEAKER_03,de,why not,0.4253
+1516.0,1518.0,2.0,SPEAKER_03,de,genau,0.4253
+1518.0,1520.0,2.0,SPEAKER_03,de,"da habe ich tatsächlich auch, ich weiß nicht",0.4253
+1520.0,1522.0,2.0,SPEAKER_03,de,"Christian, wie ihr das gemacht habt",0.4253
+1522.0,1524.0,2.0,SPEAKER_03,de,mit Topics und Purposes bei Lupus Alpha,0.4253
+1524.0,1526.0,2.0,SPEAKER_03,de,gerade wenn ein Topic geupdatet,0.4253
+1526.0,1528.0,2.0,SPEAKER_03,de,"wird, dass dann der Purpose dazu noch",0.4253
+1528.0,1530.0,2.0,SPEAKER_03,de,also der Consent dahinter geupdatet,0.4253
+1530.0,1532.0,2.0,SPEAKER_03,de,"wird, habt ihr da eine Logik?",0.4253
+1532.0,1534.0,2.0,SPEAKER_02,de,"was, wenn du den",0.4253
+1534.0,1536.0,2.0,SPEAKER_02,de,Topic update hast,0.4253
+1536.0,1538.0,2.0,SPEAKER_03,de,"genau, du hast den Topics",0.4253
+1538.0,1540.0,2.0,SPEAKER_03,de,Consent,0.4253
+1542.0,1544.0,2.0,SPEAKER_02,de,"du hast den Consent an sich, den Contact",0.422
+1544.0,1546.0,2.0,SPEAKER_02,de,"Point Consent, der hängt",0.422
+1546.0,1548.0,2.0,SPEAKER_02,de,an den Topic und den Purpose,0.422
+1548.0,1550.0,2.0,SPEAKER_02,de,"dran, also zumindest an den Purpose",0.422
+1550.0,1552.0,2.0,SPEAKER_02,de,gerne auch an einem Topic,0.422
+1552.0,1554.0,2.0,SPEAKER_02,de,und der ist das,0.422
+1554.0,1556.0,2.0,SPEAKER_02,de,was im Preference Center geändert,0.422
+1556.0,1558.0,2.0,SPEAKER_02,de,wird,0.422
+1558.0,1560.0,2.0,SPEAKER_02,de,die Topics packst du ja an sich,0.422
+1560.0,1562.0,2.0,SPEAKER_02,de,nicht an,0.422
+1562.0,1564.0,2.0,SPEAKER_03,de,wir schon,0.422
+1564.0,1566.0,2.0,SPEAKER_03,de,unsere User,0.422
+1566.0,1568.0,2.0,SPEAKER_03,de,unsere User können dazu sagen,0.422
+1568.0,1570.0,2.0,SPEAKER_03,de,die Topic ist der deutsche,0.422
+1570.0,1572.0,2.0,SPEAKER_03,de,Newsletter beispielsweise,0.4372
+1572.0,1574.0,2.0,SPEAKER_03,de,weil es leider nicht anders geht,0.4372
+1574.0,1576.0,2.0,SPEAKER_03,de,"das Problem ist, wenn der User beim",0.4372
+1576.0,1578.0,2.0,SPEAKER_03,de,"Topic sagt, ja ich gebe den Consent",0.4372
+1578.0,1580.0,2.0,SPEAKER_03,de,wird nicht automatisch der Purpose Consent,0.4372
+1580.0,1582.0,2.0,SPEAKER_02,de,also die haben wir,0.4372
+1582.0,1584.0,2.0,SPEAKER_02,de,jetzt lasst mich überlegen,0.4372
+1584.0,1586.0,2.0,SPEAKER_02,de,bei Lupus haben,0.4372
+1586.0,1588.0,2.0,SPEAKER_02,de,wir sie glaube ich pauschal erstellt,0.4372
+1588.0,1590.0,2.0,SPEAKER_02,de,bei,0.4372
+1590.0,1592.0,2.0,SPEAKER_02,de,Casino,0.4372
+1592.0,1594.0,2.0,SPEAKER_02,de,sorge ich dafür,0.4372
+1594.0,1596.0,2.0,SPEAKER_02,de,dass sobald,0.4372
+1596.0,1598.0,2.0,SPEAKER_02,de,der erste Newsletter Consent,0.4372
+1598.0,1600.0,2.0,SPEAKER_02,de,kommt,0.394
+1600.0,1602.0,2.0,SPEAKER_02,de,kommt doch der erste Topic Consent,0.394
+1602.0,1604.0,2.0,SPEAKER_02,de,kommt doch der Purpose Consent dafür,0.394
+1604.0,1606.0,2.0,SPEAKER_03,de,ja so mache ich es jetzt gerade mit einem Flow,0.394
+1606.0,1608.0,2.0,SPEAKER_03,de,aber den werden wir wahrscheinlich nächste Woche,0.394
+1608.0,1610.0,2.0,SPEAKER_02,de,ablösen,0.394
+1610.0,1612.0,2.0,SPEAKER_02,de,könnte ich aber,0.394
+1612.0,1614.0,2.0,SPEAKER_02,de,relativ unproblematisch,0.394
+1614.0,1616.0,2.0,SPEAKER_02,de,gut für Bereitstellen,0.394
+1616.0,1618.0,2.0,SPEAKER_02,de,"ja, wenn du da was bauchst",0.394
+1618.0,1620.0,2.0,SPEAKER_03,de,dann lass uns dann nächste Woche nochmal,0.394
+1620.0,1622.0,2.0,SPEAKER_02,de,darüber sprechen,0.394
+1622.0,1624.0,2.0,SPEAKER_02,de,"ist leider ein leidiges Thema, also für die die es nicht wissen",0.394
+1624.0,1626.0,2.0,SPEAKER_02,de,man hat hier,0.394
+1626.0,1628.0,2.0,SPEAKER_02,de,wenn du sagst du meldst dich für den Newsletter an,0.4294
+1628.0,1630.0,2.0,SPEAKER_02,de,dann wird standardmäßig für diesen Newsletter,0.4294
+1630.0,1632.0,2.0,SPEAKER_02,de,einen Consent erstellt,0.4294
+1632.0,1634.0,2.0,SPEAKER_02,de,und der besteht aus einem Thema,0.4294
+1634.0,1636.0,2.0,SPEAKER_02,de,und einem Zweck,0.4294
+1636.0,1638.0,2.0,SPEAKER_02,de,und der,0.4294
+1638.0,1640.0,2.0,SPEAKER_02,de,Themen Consent,0.4294
+1640.0,1642.0,2.0,SPEAKER_02,de,wird zugestimmt,0.4294
+1642.0,1644.0,2.0,SPEAKER_02,de,in dem Moment,0.4294
+1644.0,1646.0,2.0,SPEAKER_02,de,Dynamics braucht allerdings auch einen Consent,0.4294
+1646.0,1648.0,2.0,SPEAKER_02,de,für diesen Zweck oder Purpose,0.4294
+1648.0,1650.0,2.0,SPEAKER_02,de,"alleine, weil wenn der nicht da ist",0.4294
+1650.0,1652.0,2.0,SPEAKER_02,de,dann schickt er trotzdem keine Mails raus,0.4294
+1652.0,1654.0,2.0,SPEAKER_02,de,Dynamics ist da ein bisschen arg restriktiv,0.4294
+1654.0,1656.0,2.0,SPEAKER_02,de,man kann halt nicht sagen,0.3851
+1656.0,1658.0,2.0,SPEAKER_02,de,hey gib mir grundsätzlich,0.3851
+1658.0,1660.0,2.0,SPEAKER_02,de,Zustimmung für,0.3851
+1660.0,1662.0,2.0,SPEAKER_02,de,"Newsletter, sondern nur für diesen speziellen",0.3851
+1662.0,1664.0,2.0,SPEAKER_02,de,"Newsletter, es ist sehr",0.3851
+1664.0,1666.0,2.0,SPEAKER_02,de,ärgerlich,0.3851
+1666.0,1668.0,2.0,SPEAKER_02,de,wie sie es implementiert haben,0.3851
+1668.0,1670.0,2.0,SPEAKER_03,de,"aber gut, lass uns da gerne",0.3851
+1670.0,1672.0,2.0,SPEAKER_03,de,dann nächste Woche nochmal darüber sprechen,0.3851
+1672.0,1674.0,2.0,SPEAKER_02,de,wir müssen noch darüber reden,0.3851
+1674.0,1676.0,2.0,SPEAKER_02,de,es ist ein leidiges Thema,0.3851
+1676.0,1678.0,2.0,SPEAKER_02,de,"aber kein schwieriges, sagen wir es so",0.3851
+1678.0,1680.0,2.0,SPEAKER_03,de,das stimmt,0.3851
+1680.0,1682.0,2.0,SPEAKER_03,de,"gut, dann wünsche ich allen schönes Wochenende schon mal",0.3851
+1682.0,1684.0,2.0,SPEAKER_03,de,"danke, ich freu es",0.1682
+1684.0,1686.0,2.0,SPEAKER_02,de,ich freu es,0.1682
+1686.0,1688.0,2.0,SPEAKER_03,de,ich freu es,0.1682
+1688.0,1690.0,2.0,SPEAKER_00,de,tschüss,0.1682

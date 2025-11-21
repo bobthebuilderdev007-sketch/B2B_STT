@@ -1,0 +1,82 @@
+[
+  {
+    "success": true,
+    "audio_path": "data\\audio\\30cef132-38cc-4c05-bc9d-2309a8ad7da8.wav",
+    "audio_duration": 1383.5604375,
+    "processing_time": 1211.56127,
+    "num_segments": 317,
+    "num_speakers": 9,
+    "output_json": "C:\\Users\\dell\\Downloads\\asr-project\\outputs\\merged\\30cef132-38cc-4c05-bc9d-2309a8ad7da8_transcript.json",
+    "output_csv": "C:\\Users\\dell\\Downloads\\asr-project\\outputs\\merged\\30cef132-38cc-4c05-bc9d-2309a8ad7da8_transcript.csv"
+  },
+  {
+    "success": true,
+    "audio_path": "data\\audio\\94c70cb1-7ddb-45b9-a50f-33c835a22d84.wav",
+    "audio_duration": 1747.0189375,
+    "processing_time": 1457.162463,
+    "num_segments": 823,
+    "num_speakers": 8,
+    "output_json": "C:\\Users\\dell\\Downloads\\asr-project\\outputs\\merged\\94c70cb1-7ddb-45b9-a50f-33c835a22d84_transcript.json",
+    "output_csv": "C:\\Users\\dell\\Downloads\\asr-project\\outputs\\merged\\94c70cb1-7ddb-45b9-a50f-33c835a22d84_transcript.csv"
+  },
+  {
+    "success": true,
+    "audio_path": "data\\audio\\a46a5521-05ab-4ae0-a67f-afac45ee43ed.wav",
+    "audio_duration": 1341.7173125,
+    "processing_time": 1122.423897,
+    "num_segments": 384,
+    "num_speakers": 7,
+    "output_json": "C:\\Users\\dell\\Downloads\\asr-project\\outputs\\merged\\a46a5521-05ab-4ae0-a67f-afac45ee43ed_transcript.json",
+    "output_csv": "C:\\Users\\dell\\Downloads\\asr-project\\outputs\\merged\\a46a5521-05ab-4ae0-a67f-afac45ee43ed_transcript.csv"
+  },
+  {
+    "success": true,
+    "audio_path": "data\\audio\\e4b8fddb-449c-4956-a9f9-64521b39ae43.wav",
+    "audio_duration": 2001.6239375,
+    "processing_time": 1668.477534,
+    "num_segments": 549,
+    "num_speakers": 10,
+    "output_json": "C:\\Users\\dell\\Downloads\\asr-project\\outputs\\merged\\e4b8fddb-449c-4956-a9f9-64521b39ae43_transcript.json",
+    "output_csv": "C:\\Users\\dell\\Downloads\\asr-project\\outputs\\merged\\e4b8fddb-449c-4956-a9f9-64521b39ae43_transcript.csv"
+  },
+  {
+    "success": true,
+    "audio_path": "C:\\Users\\dell\\Downloads\\asr-project\\outputs\\extracted_audio\\1a299b78-6707-4fa3-afae-d4df5625bcbe.wav",
+    "audio_duration": 745.42,
+    "processing_time": 623.545718,
+    "num_segments": 213,
+    "num_speakers": 8,
+    "output_json": "C:\\Users\\dell\\Downloads\\asr-project\\outputs\\merged\\1a299b78-6707-4fa3-afae-d4df5625bcbe_transcript.json",
+    "output_csv": "C:\\Users\\dell\\Downloads\\asr-project\\outputs\\merged\\1a299b78-6707-4fa3-afae-d4df5625bcbe_transcript.csv"
+  },
+  {
+    "success": true,
+    "audio_path": "C:\\Users\\dell\\Downloads\\asr-project\\outputs\\extracted_audio\\586135d7-d111-418a-af7d-5b830d146e9e.wav",
+    "audio_duration": 1015.05,
+    "processing_time": 887.264314,
+    "num_segments": 338,
+    "num_speakers": 7,
+    "output_json": "C:\\Users\\dell\\Downloads\\asr-project\\outputs\\merged\\586135d7-d111-418a-af7d-5b830d146e9e_transcript.json",
+    "output_csv": "C:\\Users\\dell\\Downloads\\asr-project\\outputs\\merged\\586135d7-d111-418a-af7d-5b830d146e9e_transcript.csv"
+  },
+  {
+    "success": true,
+    "audio_path": "C:\\Users\\dell\\Downloads\\asr-project\\outputs\\extracted_audio\\7cb9c5c0-08b8-44a3-9f4d-15e4b6c7614d.wav",
+    "audio_duration": 1663.22,
+    "processing_time": 1402.473075,
+    "num_segments": 294,
+    "num_speakers": 9,
+    "output_json": "C:\\Users\\dell\\Downloads\\asr-project\\outputs\\merged\\7cb9c5c0-08b8-44a3-9f4d-15e4b6c7614d_transcript.json",
+    "output_csv": "C:\\Users\\dell\\Downloads\\asr-project\\outputs\\merged\\7cb9c5c0-08b8-44a3-9f4d-15e4b6c7614d_transcript.csv"
+  },
+  {
+    "success": true,
+    "audio_path": "C:\\Users\\dell\\Downloads\\asr-project\\outputs\\extracted_audio\\8e916041-0b6d-4ff1-9328-c46f4a7fd550.wav",
+    "audio_duration": 1687.52,
+    "processing_time": 1433.520717,
+    "num_segments": 454,
+    "num_speakers": 10,
+    "output_json": "C:\\Users\\dell\\Downloads\\asr-project\\outputs\\merged\\8e916041-0b6d-4ff1-9328-c46f4a7fd550_transcript.json",
+    "output_csv": "C:\\Users\\dell\\Downloads\\asr-project\\outputs\\merged\\8e916041-0b6d-4ff1-9328-c46f4a7fd550_transcript.csv"
+  }
+]
