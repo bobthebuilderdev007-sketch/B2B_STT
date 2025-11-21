@@ -1,0 +1,479 @@
+[
+  {
+    "AudioFilePath": "Files/e4b8fddb-449c-4956-a9f9-64521b39ae43.wav",
+    "Text": "Erster kann man so machen.",
+    "Speaker": "Speaker 1",
+    "Language": "de-de",
+    "Duration": 16.0000,
+    "StartTime": 2.4800,
+    "EndTime": 18.4800
+  },
+  {
+    "AudioFilePath": "Files/e4b8fddb-449c-4956-a9f9-64521b39ae43.wav",
+    "Text": "Vor allem ich gerade so, vielleicht kann ich drunter.",
+    "Speaker": "Speaker 2",
+    "Language": "de-de",
+    "Duration": 3.4800,
+    "StartTime": 28.0900,
+    "EndTime": 31.5700
+  },
+  {
+    "AudioFilePath": "Files/e4b8fddb-449c-4956-a9f9-64521b39ae43.wav",
+    "Text": "Gucken und sei Guys, can you hear me now we can.",
+    "Speaker": "Speaker 1",
+    "Language": "de-de",
+    "Duration": 12.8400,
+    "StartTime": 31.5700,
+    "EndTime": 44.4100
+  },
+  {
+    "AudioFilePath": "Files/e4b8fddb-449c-4956-a9f9-64521b39ae43.wav",
+    "Text": "Okay, great.",
+    "Speaker": "Speaker 3",
+    "Language": "de-de",
+    "Duration": 1.1200,
+    "StartTime": 44.8900,
+    "EndTime": 46.0100
+  },
+  {
+    "AudioFilePath": "Files/e4b8fddb-449c-4956-a9f9-64521b39ae43.wav",
+    "Text": "Hello North.",
+    "Speaker": "Speaker 1",
+    "Language": "de-de",
+    "Duration": 1.4400,
+    "StartTime": 46.9700,
+    "EndTime": 48.4100
+  },
+  {
+    "AudioFilePath": "Files/e4b8fddb-449c-4956-a9f9-64521b39ae43.wav",
+    "Text": "Hall\u00F6chen.",
+    "Speaker": "Speaker 4",
+    "Language": "de-de",
+    "Duration": 0.7200,
+    "StartTime": 50.4100,
+    "EndTime": 51.1300
+  },
+  {
+    "AudioFilePath": "Files/e4b8fddb-449c-4956-a9f9-64521b39ae43.wav",
+    "Text": "So.",
+    "Speaker": "Speaker 1",
+    "Language": "de-de",
+    "Duration": 0.2400,
+    "StartTime": 54.5000,
+    "EndTime": 54.7400
+  },
+  {
+    "AudioFilePath": "Files/e4b8fddb-449c-4956-a9f9-64521b39ae43.wav",
+    "Text": "Ich zeige euch mein Screen. Leo.",
+    "Speaker": "Speaker 4",
+    "Language": "de-de",
+    "Duration": 4.2400,
+    "StartTime": 58.3400,
+    "EndTime": 62.5800
+  },
+  {
+    "AudioFilePath": "Files/e4b8fddb-449c-4956-a9f9-64521b39ae43.wav",
+    "Text": "Ich w\u00FCsste auch nicht, wie wir sonst anfangen sollten. Ich hoffe, es passt von der Gr\u00F6\u00DFe. Dann Leo, starte mal.",
+    "Speaker": "Speaker 5",
+    "Language": "de-de",
+    "Duration": 14.8110,
+    "StartTime": 67.6190,
+    "EndTime": 82.4300
+  },
+  {
+    "AudioFilePath": "Files/e4b8fddb-449c-4956-a9f9-64521b39ae43.wav",
+    "Text": "Also FST Finish Content Plugin Transport Ready ist noch in PR bzw. Ist gestern Abend in PR gekommen. Da gab es halt noch mehrere Probleme. Wegen dem Associate muss ich eine neue L\u00F6sung finden, wie wir das genau abbilden k\u00F6nnen. Dann habe ich es auch noch mal zur\u00FCckbekommen, habe ich eine andere Testungsarzt bekommen. Also da hat es mal anders getestet und da gab es dann auch noch mal Probleme. Auf jeden Fall da auch Props an sie, dass sie es in verschiedenen Arten getestet hat. Das fand ich auch sehr nice und dadurch konnte ich halt auch andere Fehler und bzw. Falsche Angehensweisen korrigieren und auch Neues lernen von Waldemar, da bin ich auch der Beste. Da hatte ich erstmal noch Mittwochabend nur noch eine kleine Session mit ihm bez\u00FCglich den neuen Standards, die wir letztens auch aufgenommen hatten, wie wir mit dem Selector eben arbeiten, dass wir jetzt nicht mehr richtige Link Queries machen, sondern das mit den Methoden machen und das war sehr hilfreich und sehr, sehr geil. Ja, jetzt ist es halt noch ein PR, aber da werde ich auch noch heute es so weitgehend wie m\u00F6glich fertig bringen. Get Role Assignments to the Testing Phase, da konnte ich nicht weiterarbeiten, weil es noch geblockt war von Amalia, glaube ich. Kurz und knackig kann ich nicht dran weiterarbeiten und one more task on the board, wenn ich mal Freizeit hatte. Also was hei\u00DFt Freizeit? Wenn ich nicht gerade im Content Plugin gearbeitet habe, habe ich mit einem anderen Plugin angefangen. Bei der Quote ging es halt einfach, dass ein Feld gef\u00FCllt werden soll, abh\u00E4ngig vom Account, was f\u00FCr eine Rolle der Account hat in der Crowd. Und damit habe ich schon angefangen und m\u00F6chte das n\u00E4chste Woche dann auch fertig kriegen.",
+    "Speaker": "Speaker 6",
+    "Language": "de-de",
+    "Duration": 121.3700,
+    "StartTime": 84.6700,
+    "EndTime": 206.0400
+  },
+  {
+    "AudioFilePath": "Files/e4b8fddb-449c-4956-a9f9-64521b39ae43.wav",
+    "Text": "Du wei\u00DFt aber, wann du informiert wirst wegen dem Assign Plugin, oder?",
+    "Speaker": "Speaker 5",
+    "Language": "de-de",
+    "Duration": 4.4000,
+    "StartTime": 206.2000,
+    "EndTime": 210.6000
+  },
+  {
+    "AudioFilePath": "Files/e4b8fddb-449c-4956-a9f9-64521b39ae43.wav",
+    "Text": "Ja, genau. Ich habe auch mit dir schon gesprochen.",
+    "Speaker": "Speaker 6",
+    "Language": "de-de",
+    "Duration": 2.3200,
+    "StartTime": 210.6800,
+    "EndTime": 213.0000
+  },
+  {
+    "AudioFilePath": "Files/e4b8fddb-449c-4956-a9f9-64521b39ae43.wav",
+    "Text": "Weil du gesagt hast, glaubst du.",
+    "Speaker": "Speaker 5",
+    "Language": "de-de",
+    "Duration": 1.3600,
+    "StartTime": 214.1200,
+    "EndTime": 215.4800
+  },
+  {
+    "AudioFilePath": "Files/e4b8fddb-449c-4956-a9f9-64521b39ae43.wav",
+    "Text": "Glaubst.",
+    "Speaker": "Speaker 6",
+    "Language": "de-de",
+    "Duration": 0.2000,
+    "StartTime": 218.0200,
+    "EndTime": 218.2200
+  },
+  {
+    "AudioFilePath": "Files/e4b8fddb-449c-4956-a9f9-64521b39ae43.wav",
+    "Text": "Du es oder wei\u00DFt du es?",
+    "Speaker": "Speaker 5",
+    "Language": "de-de",
+    "Duration": 1.0800,
+    "StartTime": 218.2200,
+    "EndTime": 219.3000
+  },
+  {
+    "AudioFilePath": "Files/e4b8fddb-449c-4956-a9f9-64521b39ae43.wav",
+    "Text": "Ich wei\u00DF es. Guter Hinweis. Auch immer wieder mich informieren, wenn ich auch eigentlich benutze oder wie auch immer. Sally, da wollte ich diese Woche Transcriptions senden von Kunden, die bei uns abgesprungen sind wegen der Transcription. Da habe ich auf Mario schon mehrere Leads r\u00FCbergeschickt. Wir hatten es so abgesprochen mit Julian, dass Mario die Leads anrufen soll und da hat auch die Info bekommen, dass es einfach noch nicht geklappt hat mit den Anrufen bzw. Er hat angerufen und dass alle nicht reingegangen sind. Da gehe ich n\u00E4chste Woche noch mal durch. Ich habe auch das auch schon Bescheid gegeben, dass es diese Woche einfach noch nicht geklappt hat und ich mich dann n\u00E4chste Woche drum k\u00FCmmern werde pl\u00F6tzlich. Ich denke, das ist jetzt wirklich ein. Ich denke ein bis zwei Stunden habe ich diese Woche gemacht, einfach weil ich jetzt auch nicht wirklich die Zeit richtig blocken konnte oder eher gesagt meine Blogs durchgehen konnte wegen den Plugins. Ich habe immer wieder so ein Hop Off, also hin und her gemacht. Also wenn ich gerade Leerlaufphase habe, dass ich dann einfach reingesprungen bin und ein bisschen an den Videos weitergearbeitet habe, werde ich diese Woche wieder am Wochenende nachgehen m\u00FCssen, damit ich das noch zumindest Oktober durchkriege und dann November mit den Brandoms anfangen kann. So einen Punkt habe ich schon gesagt, warum ich der Beste bin. Zweiter Punkt ist wegen dem Content Plugin, da habe ich mich schon etwas schwer getan. Ich finde es geil, dass es jetzt endlich durch ist von meiner Seite, dass das Testing gut geklappt hat jetzt und andere Sache Sport weiterhin Gas geben. Hab jetzt auch einen kleinen R\u00FCckschritt. Ich habe jetzt 0,5 Kilo abgenommen wieder, aber das h\u00E4lt mich nicht auf. Ich k\u00E4mpfe weiter und das wird auf jeden Fall. Das war\u0027s von mir. Ich gebe weiter an Sachin.",
+    "Speaker": "Speaker 6",
+    "Language": "de-de",
+    "Duration": 131.4400,
+    "StartTime": 219.9400,
+    "EndTime": 351.3800
+  },
+  {
+    "AudioFilePath": "Files/e4b8fddb-449c-4956-a9f9-64521b39ae43.wav",
+    "Text": "Danke dir. Genau meine Woche, was ich vorhatte, erstmal bei Lichtblick diese CRT Creation Logic ausdefinieren und implementieren. Okay, das Ticket ist nicht dann zumindest das Thema ist nur diese kleine Plugin Anpassung bleibt auf. Aber diese andere Thema, was ich vorhatte, diese Schlichtung Testdata vorzubereiten, das war ein bisschen kompliziert, als ich dachte, weil sie wollten, die haben mir sechs, sieben E Mails gegeben, die richtig aus Kunde Seite kam und sie wollten genau die E Mail, die im Outlook sehen in Dynamics im Testsystem sind. Aber wenn ich zum Beispiel diese E Mail weiterleite, dann bin ich Absender da. Ich habe rumprobiert und direkt Absender zu \u00E4ndern, das ginge leider nicht, weil da sind ein bisschen Restrictions. Aber zum Gl\u00FCck haben wir vor einiger Zeit ein Custom Action aufgebaut, was erstmal Kunde \u00E4ndert im Ticket und basierend auf Kunde, was auch immer auf dem Ticket ist, wird diese Aktivit\u00E4tsparteien auch ge\u00E4ndert. Ich hatte Gl\u00FCck. Ja, das habe ich geschafft. Training war heute, sie waren zufrieden mit Test Cases und ja, gute Feedback bekommen. Genau, bei G hatte ich vor, diese neue BU Integration zu finalisieren. Das Thema bleibt offen. Ja, wird n\u00E4chste Woche live gehen. Danke dir Fabi, danke Jonas, dass ihr mir hier unterst\u00FCtzt habt und ja, falls ihr von mir was braucht, dann sagt gerne Bescheid. Und genau, bei Aliru diese Ticket Automation und E Mail Processing, das habe ich wirklich geschafft, bin ich sehr stolz, habe vier, f\u00FCnf Plugins geschrieben, E Mail Token Generation Setting Regarding Field based on Email Token Ticket Creation und Eingangsbest\u00E4tigung und noch eine Sache habe ich vergessen. Ja, der Prozess ist sauber eingeschaltet erstmal PR bleibt immer noch auf, wenn Wall Zeit hat, dann wahrscheinlich wird er das Review. Warum bin ich der Beste diese Woche? Wie gesagt, erstes Mal habe ich direkt nacheinander 5 Plugins geschrieben, die waren keine kleine Plugins, sondern ziemlich komplexer f\u00FCr mich besonders, aber ja, habe ich geschafft. Danke Sergi und Christian, dass ihr mich hier unterst\u00FCtzt habt und ja, warum? Zweiter Grund, warum bin ich der Beste? Weil ich heute in den Urlaub gehe, kann ich auch nicht warten.",
+    "Speaker": "Speaker 4",
+    "Language": "de-de",
+    "Duration": 189.4490,
+    "StartTime": 353.3100,
+    "EndTime": 542.7590
+  },
+  {
+    "AudioFilePath": "Files/e4b8fddb-449c-4956-a9f9-64521b39ae43.wav",
+    "Text": "Gute Erholung auf jeden Fall, Komm wieder.",
+    "Speaker": "Speaker 5",
+    "Language": "de-de",
+    "Duration": 2.0800,
+    "StartTime": 545.0790,
+    "EndTime": 547.1590
+  },
+  {
+    "AudioFilePath": "Files/e4b8fddb-449c-4956-a9f9-64521b39ae43.wav",
+    "Text": "Gut zur\u00FCck, das mache ich auf jeden Fall. Genau, dann gebe ich das Wort direkt weiter an. Jo.",
+    "Speaker": "Speaker 4",
+    "Language": "de-de",
+    "Duration": 7.3810,
+    "StartTime": 547.1590,
+    "EndTime": 554.5400
+  },
+  {
+    "AudioFilePath": "Files/e4b8fddb-449c-4956-a9f9-64521b39ae43.wav",
+    "Text": "Ja, ich habe leider vergessen heute meine Ziele, die ich gehabt habe aufzuschreiben, aber ich sage es schnell, es waren eh nicht so arg viele in Anf\u00FChrungszeichen. Ich habe die ersten drei Tickets abgeschlossen tats\u00E4chlich, habe heute meinen ersten PR in Teams geschoben, bin mal gespannt, wie er verl\u00E4uft. Ich habe mich ein bisschen dann wieder mit dem Git verst\u00E4ndigt, weil ich da doch relativ lange raus war und ich mir da ein bisschen wieder Wissen zugepackt habe. Das war es eigentlich schon, die drei Plugins, die ich gemacht hab. Hoffe sie laufen gut f\u00FCr G H und danke an Sachin und Fabian f\u00FCr die Unterst\u00FCtzung nat\u00FCrlich, dass ich da ein bisschen besser und schneller reinkomme. Warum ich der Beste bin diese Woche. Mein erster PR finde ich gut nach zwei Wochen und hoffe das geht in dem Tempo weiter und ich habe letzte Woche daheim tats\u00E4chlich mal geschafft mein Herbstputz zu machen und alle Fenster zu putzen, was auch ein sch\u00F6ner Arbeitstag war.",
+    "Speaker": "Speaker 7",
+    "Language": "de-de",
+    "Duration": 71.0500,
+    "StartTime": 556.1400,
+    "EndTime": 627.1900
+  },
+  {
+    "AudioFilePath": "Files/e4b8fddb-449c-4956-a9f9-64521b39ae43.wav",
+    "Text": "Egal.",
+    "Speaker": "Speaker 4",
+    "Language": "de-de",
+    "Duration": 0.4400,
+    "StartTime": 630.3100,
+    "EndTime": 630.7500
+  },
+  {
+    "AudioFilePath": "Files/e4b8fddb-449c-4956-a9f9-64521b39ae43.wav",
+    "Text": "Also Meilenstein schon fr\u00FCh erreicht, sehr gut.",
+    "Speaker": "Speaker 5",
+    "Language": "de-de",
+    "Duration": 4.9200,
+    "StartTime": 630.7500,
+    "EndTime": 635.6700
+  },
+  {
+    "AudioFilePath": "Files/e4b8fddb-449c-4956-a9f9-64521b39ae43.wav",
+    "Text": "Mit dem Tempo gucken wir dann, wenn es jetzt wieder zwei Wochen f\u00FCr den n\u00E4chsten PR dauert.",
+    "Speaker": "Speaker 1",
+    "Language": "de-de",
+    "Duration": 4.0400,
+    "StartTime": 637.5900,
+    "EndTime": 641.6300
+  },
+  {
+    "AudioFilePath": "Files/e4b8fddb-449c-4956-a9f9-64521b39ae43.wav",
+    "Text": "Das wird schwierig jetzt.",
+    "Speaker": "Speaker 5",
+    "Language": "de-de",
+    "Duration": 1.4800,
+    "StartTime": 641.6300,
+    "EndTime": 643.1100
+  },
+  {
+    "AudioFilePath": "Files/e4b8fddb-449c-4956-a9f9-64521b39ae43.wav",
+    "Text": "Immerhin musste ich ein Onboarding auch noch hinter mich bringen. Dann gebe ich weiter an Dominik.",
+    "Speaker": "Speaker 7",
+    "Language": "de-de",
+    "Duration": 7.2800,
+    "StartTime": 644.9500,
+    "EndTime": 652.2300
+  },
+  {
+    "AudioFilePath": "Files/e4b8fddb-449c-4956-a9f9-64521b39ae43.wav",
+    "Text": "Genau, f\u00FCr mich die Woche bei den Templates, da fehlt noch das kleine Feintuning, die sind soweit durch. Was noch fehlt, ist der richtige Seitenabstand, aber wenn das jetzt heute nach dem Meeting noch funktioniert, dann kriege ich das im besten Fall heute noch hin. Dann bei Lichtblick das Test Deployment, das ist erfolgreich durchgelaufen. Dann auch die Button Dependencies mit den falschen JS Files. Das Thema ist auch erledigt, genauso wie die Permission zu restricten auf der neuen Entit\u00E4t, da habe ich das dann auch eingepasst. Genau, dann ist noch das Thema offen f\u00FCr n\u00E4chste Woche, dass wir dann nach dem Deployment in der Temp Solution die ganzen unmanaged Layers und Funktionen dort wieder entfernen, damit das aufger\u00E4umt ist. Was jetzt gerade noch im Ongoing ist, ist das Plugin und die Funktion dessen zu checken. Da soll die Arc Flows abgel\u00F6st werden von einem Plugin und zu dem Thema komme ich dann sp\u00E4ter auch noch mal, aber das ist noch in progress. Die Analyse ist noch am Laufen. T I war die Woche dann soweit. Was ist die? Moment, unser Weekly ist darauf hinausgelaufen, dass TN eine neue Ressource br\u00E4uchte f\u00FCr das Canvas App Projekt. Da bin ich aber noch nicht so ganz informiert, wie weit das jetzt fortgeschritten ist, ob wir da eine Ressource zur Verf\u00FCgung stellen oder nicht. Und bei itnetx, da war der Markus leider gestern erkrankt zum Meetingtag, deswegen haben wir unser Meeting auf Montag verschoben. Bei der PL 200 bin ich bei zwei Braindumps gewesen und das dritte ist kein offizielles Braindump gewesen, sondern die ganzen Fehler mal aufgerollt und wiederholt, was ich alles falsch hatte, um da auch Fortschritt zu kriegen und auf den wunden Punkt zu dr\u00FCcken. Warum bin ich die Woche der Beste? Ich bin das erste Mal in einer Zertifizierungspr\u00FCfung bei den Braindums bestanden bei \u00FCber 90 Prozent. Das zweite ist, ich habe ein Auto zerlegt, habe festgestellt, was die Ursache ist, warum es kaputt ist und die Ersatzteile kommen und ich hoffe noch dieses Wochenende, dass ich wieder reparieren k\u00F6nnte. Andernfalls warte ich da bis n\u00E4chste Woche. Und der dritte Ich habe eine saugeile Excel Liste erstellt, die so generisch ist und so dynamisch, um diese Fehler zu dokumentieren. Und dieser Effort sieht man eventuell nicht, weil das vieles in den Power Query steckt, in den Funktionen, die hinten dran stecken. Aber da ist das f\u00FCr mich auch ein Riesenstolz, weil ich da sehr, sehr viel wieder gelernt habe und automatisieren haben k\u00F6nnen, wo ich gestern meinen ganzen Abend damit verbracht habe, da wieder sehr, sehr tief in Excel und Funktionen zu lernen. Ja, das war es zu meiner Seite. Dann gebe ich das Wort weiter an Sergej.",
+    "Speaker": "Speaker 2",
+    "Language": "de-de",
+    "Duration": 179.8900,
+    "StartTime": 656.7100,
+    "EndTime": 836.6000
+  },
+  {
+    "AudioFilePath": "Files/e4b8fddb-449c-4956-a9f9-64521b39ae43.wav",
+    "Text": "Thank you Dom. So my week, my first goal was to complete three Tickets and two PRs. And basically I\u0027ve completed these two PRs. But on Monday meeting I\u0027ve been told by customers they expect from me, I migrate the solution to the new code style and performance improvement, which means I have to rewrite all the linku statements. So I moved my focus on it and basically in general I\u0027ve completed this task. Now we are in PR Ping Pong with Waldemar. My second goal was to complete an architecture design this for the Polyne data distribution. And this week I had a meeting with Julian. I presented my vision and my solutions in general everything is approved and accepted, but I have to clarify investigate some stuff, so I will contact Sasha Ridler because I need his support. So after I will done this workaround, I can start next one AZ nine hundred. I made a good progress in it and basically I did some practice with Azure portal so for me. For now I do not afraid it so much as it was before, so I think it was a good week from this perspective and support on request, as Sachin already mentioned, I supported him. We had a very nice investigation basically. That\u0027s it why I\u0027m the best this week. The first reason is, as I already mentioned, I immigrated the project to the new style and we had a very great discussions with Waldemar. It seems that the code is already approved and it\u0027s already in dev, but we still improve our solutions. We still find better way how to make code better and nice, so I\u0027m happy with that. The second reason I worked on my project at home, I hoped to finish it this week. Unfortunately I found that I have lack of materials, so I\u0027ve made some more orders and basically hopefully on next week I can share it with you. That\u0027s it. I\u0027m handing over.",
+    "Speaker": "Speaker 3",
+    "Language": "de-de",
+    "Duration": 220.9600,
+    "StartTime": 837.3200,
+    "EndTime": 1058.2800
+  },
+  {
+    "AudioFilePath": "Files/e4b8fddb-449c-4956-a9f9-64521b39ae43.wav",
+    "Text": "Yes, Royston, do you need a project.",
+    "Speaker": "Speaker 8",
+    "Language": "de-de",
+    "Duration": 3.0400,
+    "StartTime": 1058.6000,
+    "EndTime": 1061.6400
+  },
+  {
+    "AudioFilePath": "Files/e4b8fddb-449c-4956-a9f9-64521b39ae43.wav",
+    "Text": "Manager.",
+    "Speaker": "Speaker 5",
+    "Language": "de-de",
+    "Duration": 0.4000,
+    "StartTime": 1061.6400,
+    "EndTime": 1062.0400
+  },
+  {
+    "AudioFilePath": "Files/e4b8fddb-449c-4956-a9f9-64521b39ae43.wav",
+    "Text": "Unable to plan. Resources.",
+    "Speaker": "Speaker 8",
+    "Language": "de-de",
+    "Duration": 1.2800,
+    "StartTime": 1069.9300,
+    "EndTime": 1071.2100
+  },
+  {
+    "AudioFilePath": "Files/e4b8fddb-449c-4956-a9f9-64521b39ae43.wav",
+    "Text": "I can ask for your help when I move in my project from one place to another. Yes, that\u0027s it. Can you know what you wrote two.",
+    "Speaker": "Speaker 3",
+    "Language": "de-de",
+    "Duration": 13.3600,
+    "StartTime": 1073.3700,
+    "EndTime": 1086.7300
+  },
+  {
+    "AudioFilePath": "Files/e4b8fddb-449c-4956-a9f9-64521b39ae43.wav",
+    "Text": "Topics before starting Sergi I\u0027ve also received good feedback from the discussion with Julian. Basically he was really happy about the way the discussion went and I want to reflect that to you. And second thing is I think Sasha Riedler is basically off for a few weeks because he\u0027s on vacation. Maybe you can clarify that with Waldemar because maybe he\u0027s four weeks or something like that away.",
+    "Speaker": "Speaker 5",
+    "Language": "de-de",
+    "Duration": 25.6700,
+    "StartTime": 1086.7300,
+    "EndTime": 1112.4000
+  },
+  {
+    "AudioFilePath": "Files/e4b8fddb-449c-4956-a9f9-64521b39ae43.wav",
+    "Text": "Then I will contact Nadia because basically what I need I need some IP addresses and credentials to their on premise database. That\u0027s what I need. Waldemar won\u0027t help me with that.",
+    "Speaker": "Speaker 3",
+    "Language": "de-de",
+    "Duration": 16.5900,
+    "StartTime": 1114.5600,
+    "EndTime": 1131.1500
+  },
+  {
+    "AudioFilePath": "Files/e4b8fddb-449c-4956-a9f9-64521b39ae43.wav",
+    "Text": "Okay, thank you. So meine Worker ist bei Casino. Ich muss ehrlich sein, Das ist nicht 100 Prozent done. Die HTML auf dem Forms habe ich selbst ge\u00E4ndert, aber ein Sack fehlt noch. Das habe ich Ist die HTML weiter \u00FCberpr\u00FCfen nach Malia Amalia help me for this completion. So Danak Nestovoka, Ismus D scripts, the Fear Formular scripts, Naked web developer senden and testing by PIN go live support. So gestern ist gestern, ja Thursday Gestern haben wir die Use case for Customer voice. Es ist live in production und nicht mehr Support Tasks bis jetzt. So Just Hypercare in case und bei Lisprig E Mobility neuer Sprint ist diese Worker angefangen und habe zwei Tickets beides Tickets ist in progress und auch habe ich diese Walker Fielder ad hoc Task erhalten und mache ich die Refinement und auch Distribution auf diesen Tasks. Bei Lupus Alpha Complete two tasks for Power BI. Einen habe ich gemacht und andere ist noch pending, weil auch bei Lupus Alpha habe ich viel ad hoc Aufgabe erhalten for testing in UAT und so weiter. Deswegen PL habe ich zwei drunter gemacht und mag ich mehr diese Walke. Warum Ich bin die beste Walker bei Lispic E Mobility. Ich beteilige mich verstarkt an technische Diskussion, auch wenn ich vieles noch nicht verstanden habe, mache ich notice und lese mich ein. Das f\u00FCr mich sehr hilfreich die Synchronization Integration zu verstanden und Waldemar hilft auch sehr viel nach einem Diese Woche habe ich jeden Tag trainiert und habe sehr viel Motivierung motiviert. Das war\u0027s an Christian, danke dir.",
+    "Speaker": "Speaker 8",
+    "Language": "de-de",
+    "Duration": 164.8400,
+    "StartTime": 1135.2300,
+    "EndTime": 1300.0700
+  },
+  {
+    "AudioFilePath": "Files/e4b8fddb-449c-4956-a9f9-64521b39ae43.wav",
+    "Text": "So overall ich bin wieder da hat man vielleicht gemerkt Lupus Alpha Performance upgrade es ist mostly dann Code ist umgebaut, wir sind im Testing. PR kommt noch. Da haben sich einfach immer wieder Dinge gefunden, immer wieder so kleine Detailsachen, die dann doch irgendwie noch mal wieder anders m\u00FCssen. Genau, Lichtblick, drei Tickets habe ich aufgeschrieben, zwei sind es geworden. Ich habe daf\u00FCr, ich wei\u00DF nicht wie viele Tickets jetzt gerade noch von Sachin auf der Liste. Also n\u00E4chste Woche, n\u00E4chste Woche wird Lichtblick Woche, denke ich. FPM, die Turnover. Themenm\u00E4ssig bin ich jetzt glaube ich durch. Wenn da jetzt nicht von Fabi doch noch was kommt, gut, Daumen hoch, danke. Ich habe jetzt noch kleine \u00C4nderungen im Codestyle, dann geht das Ganze auch in den PR. Bei Plansee sieht es im Endeffekt \u00E4hnlich aus. Du hattest angedeutet, Fabi, da kommt noch was.",
+    "Speaker": "Speaker 1",
+    "Language": "de-de",
+    "Duration": 60.4700,
+    "StartTime": 1300.8700,
+    "EndTime": 1361.3400
+  },
+  {
+    "AudioFilePath": "Files/e4b8fddb-449c-4956-a9f9-64521b39ae43.wav",
+    "Text": "Da war aktuell eher hinten angeschoben. Also kommt n\u00E4chste Woche, aber jetzt erstmal nicht.",
+    "Speaker": "Speaker 5",
+    "Language": "de-de",
+    "Duration": 7.1200,
+    "StartTime": 1363.1000,
+    "EndTime": 1370.2200
+  },
+  {
+    "AudioFilePath": "Files/e4b8fddb-449c-4956-a9f9-64521b39ae43.wav",
+    "Text": "Ja, wenn wir da vielleicht demn\u00E4chst mal gucken k\u00F6nnten, dass der ganze Code auch mal durchgegangen wird und dass das Ganze wirklich mal eine Art PR. Ich wei\u00DF, die machen keine, aber irgendwie.",
+    "Speaker": "Speaker 1",
+    "Language": "de-de",
+    "Duration": 13.1000,
+    "StartTime": 1370.4600,
+    "EndTime": 1383.5600
+  },
+  {
+    "AudioFilePath": "Files/e4b8fddb-449c-4956-a9f9-64521b39ae43.wav",
+    "Text": "Deren Serben ist gerade aktuell, die haben 0,0 Zeit. Ich hoffe, dass n\u00E4chste Woche besser wird. Wenn nicht, geht so durch.",
+    "Speaker": "Speaker 5",
+    "Language": "de-de",
+    "Duration": 6.7200,
+    "StartTime": 1385.0000,
+    "EndTime": 1391.7200
+  },
+  {
+    "AudioFilePath": "Files/e4b8fddb-449c-4956-a9f9-64521b39ae43.wav",
+    "Text": "Kann ich auch mitleben, m\u00F6chte ich nicht, aber kann ich. Und habe ich Mittwoch, Mittwochmittag von Mittwoch oder Donnerstag, Mittwoch, Mittwochnachmittag habe ich noch Themen von Julian bekommen f\u00FCr das Lead Assignment, Reassignment, wie auch immer. Das waren jetzt 3 Plugins bzw. Ein Plugins bei Custom Action. Die habe ich jetzt heute Morgen. Ich hatte es vorhin gesagt, bis Stunde Nachmittag will ich fertig werden. Ich habe mit R\u00FCckfrage habe ich leider Stunde 15 gebraucht, aber war dann durch. Gut, warum? Der Beste diese Woche Woche war produktiv. Ich bin wieder da, ich habe total Bock. Ich finde es immer noch schade, dass Sachin jetzt drei Wochen weg ist. Ich werde das irgendwie vermissen, aber die Zeit kriegen wir auch so gut rum. Und ansonsten, weil wir jetzt die Planung abgeschlossen haben und morgen veranstalten wir bei uns im Ort einen Lehrgang mit \u00FCber 70 Teilnehmern, der irgendwie gro\u00DFteils auf meinen Schultern mit liegt, was die Orga angeht. Also ich bin gespannt. Gut so, Norton, ich habe dich erw\u00E4hnt, jetzt bist du auch dran.",
+    "Speaker": "Speaker 1",
+    "Language": "de-de",
+    "Duration": 73.5500,
+    "StartTime": 1393.9600,
+    "EndTime": 1467.5100
+  },
+  {
+    "AudioFilePath": "Files/e4b8fddb-449c-4956-a9f9-64521b39ae43.wav",
+    "Text": "Wunderbar, danke dir. Meine Woche, wir haben die Panel Discussion fertiggestellt und auch durchgef\u00FChrt. Die ging tats\u00E4chlich noch bis, also es war ein langer Abend an dem Montag. Ich sag mal so, sie lief erfolgreich, allerdings jetzt nicht so sch\u00F6n, wie wir es erwartet hatten. Wir hatten ein bisschen mehr erhofft. Die Ergebnisse waren Semi, aber es waren auf jeden Fall einige Learnings bei f\u00FCrs n\u00E4chste Mal und das war sehr sinnvoll. Ansonsten die BAF Akkreditierung, daf\u00FCr kamen jetzt alle Unterschriften rein. Ich habe das schon mal auf Done gesetzt, weil ich das in den n\u00E4chsten Minuten dann haben werde. Also ich Lead gerade die Unterlagen alle hoch und dann, was das ISO Zertifikat betrifft, habe ich angefangen die Checkliste jetzt zu erstellen. Ich habe mit GPT jetzt einen Raum, einen Expertenraum entwickelt, so dass ich da entsprechend alle Ma\u00DFnahmen einmal ansprechen kann. Es geht vor allem darum, dass ich halt zu jeder Ma\u00DFnahme genau wei\u00DF, was wir brauchen, warum wir das machen, was brauchen wir davon und so weiter und so fort. Genau, da bin ich jetzt quasi in den Startl\u00F6chern, um das dann auch entsprechend anzugehen. Ansonsten gab es noch ein paar HR Thema Reason, Done und warum bin ich der Beste? Ich bin einerseits der Beste, weil ich im Recruiting noch mal reflektiert habe, einfach \u00FCber bisherige Bewerbergespr\u00E4che etc. Um zu schauen, was kann ich verbessern, was k\u00F6nnte f\u00FCr die Zukunft sinnvoll sein, das umzustellen, andere Fragen zu stellen etc. Und ich habe da einfach einige Punkte gefunden, an denen ich gut schrauben kann und da auch entsprechend R\u00FCcksprache gehalten. Also das ist auf jeden Fall schon mal sehr, sehr sinnvoll und damit verbunden bin ich der Beste, weil ich jetzt heute Abend auch noch mal den Recruiting Kurs, ich habe doch auch online so einen Recruiting Kurs, \u00E4hnlich wie ihr die Fortbildungskurse habt, den ebenfalls vervollst\u00E4ndigen werde und den auch schon unter der Woche weitergemacht habe. Genau, also das werde ich entsprechend auch abschlie\u00DFen, um im Recruiting noch mal ein anderes Level anzusetzen. Genau, so viel zu mir und dann gebe ich weiter an Fabi.",
+    "Speaker": "Speaker 9",
+    "Language": "de-de",
+    "Duration": 127.2000,
+    "StartTime": 1468.4700,
+    "EndTime": 1595.6700
+  },
+  {
+    "AudioFilePath": "Files/e4b8fddb-449c-4956-a9f9-64521b39ae43.wav",
+    "Text": "Sehr cool auf jeden Fall. Danke Norton, auch wegen meinem zweiten Punkt. Das bedeutet, ich kann hier auf dann setzen, weil du daf\u00FCr gesorgt hast, dass der zweite Kunde auch unterschrieben hat. Geht nicht auf meine Kappe, ich fange unten an. Aliru. Mein Ziel war es, zwei Kunden Feedbackb\u00F6gen zu vergangenen Projekten unterschreiben zu lassen. Lichtblick hatte da noch ein bisschen auf sich warten lassen. Norton ist da hinterher und hat die Unterschriften eingesammelt vom CTO, glaube ich. Das ist ganz cool von Lichtblick, was unterschrieben zu haben. Sonst AVV Prozess hatte ich bewusst mit should be live markiert, weil da ist gar nichts gegangen, einfach durch so viele Ad Hoc Themen auf allen Seiten, zu denen ich auch noch kommen werde. Was eine gute Nachricht. Ich bin den Projekten nachgegangen, die offen waren und dieses Projekt mit dem Schweizer Hersteller, das ist unterschrieben. Das bedeutet, da geht es los. Das sind erstmal 30 Tage, wo man evaluiert, wie ist der ist Prozess und wie k\u00F6nnte ein Prozess in Dynamics aussehen. Das ist sehr, sehr cool, weil es auch darin m\u00FCnden k\u00F6nnte, dass wir das Ganze umsetzen. Customer Service Implementation bei einem Unternehmen, das 1600 Mitarbeiter hat, also kein kleines Projekt hoffentlich. Hat mich froh gemacht diese Woche, weil wie gesagt, das zweite Ziel AVV, habe ich dadurch irgendwie einfach keinen Fokus drauf bekommen. Bei Plansee war mein Ziel, die Website Exchange Liste f\u00FCr die Formulare fertig zu bekommen. Da hat sich ergeben, dass einfach ein paar Formulare noch gefehlt haben. Die habe ich nachgezogen. Da habe ich auch Unterst\u00FCtzung von einer internen.",
+    "Speaker": "Speaker 5",
+    "Language": "de-de",
+    "Duration": 111.5000,
+    "StartTime": 1597.5900,
+    "EndTime": 1709.0900
+  },
+  {
+    "AudioFilePath": "Files/e4b8fddb-449c-4956-a9f9-64521b39ae43.wav",
+    "Text": "Frage.",
+    "Speaker": "Speaker 9",
+    "Language": "de-de",
+    "Duration": 0.5200,
+    "StartTime": 1711.5700,
+    "EndTime": 1712.0900
+  },
+  {
+    "AudioFilePath": "Files/e4b8fddb-449c-4956-a9f9-64521b39ae43.wav",
+    "Text": "Ja, zu dem Kunden noch ist es der, wo ich die Trial Version gemacht, also dieser Bankkunde.",
+    "Speaker": "Speaker 2",
+    "Language": "de-de",
+    "Duration": 6.2800,
+    "StartTime": 1712.0900,
+    "EndTime": 1718.3700
+  },
+  {
+    "AudioFilePath": "Files/e4b8fddb-449c-4956-a9f9-64521b39ae43.wav",
+    "Text": "Da m\u00FCssten wir dann Julian fragen, wie da der Stand ist. Genau, Sigvaris hei\u00DFen die tats\u00E4chlich Sigvaris Group aus der Schweiz. Sie stellen medizinische St\u00FCtzstr\u00FCmpfe her f\u00FCr alle. Also falls wir die irgendwann mal brauchen, haben wir die hoffentlich als Kunde. You never know. Alles was gesund ist. Genau, auf jeden Fall planen Sie Thema da Formulare. Da wurde ich unterst\u00FCtzt von einer internen Werkstudentin, die mir geholfen hat, diese mittlerweile 150 Formulare anzupassen und abzugleichen mit dem, weil es insgesamt 1200 Stellen gibt, wo diese Formulare embedded werden. Sonst gutes Feedback bei Plansee bekommen. Wir haben in zwei Wochen die Trainings. Jochen hat Trainingsunterlagen erstellt mit mir zusammen. Da haben wir gestern einfach im Revview noch mal gutes Feedback vom Kunden bekommen, dass sie zufrieden sind mit dem Projekt und wie es l\u00E4uft und mit uns. Das macht einen nat\u00FCrlich auch vor. Ist auch ein Grund, warum ich der Beste bin. Bei FPM habe ich die Environments gecleant, gleichzeitig den PR leider auch nicht abgeschlossen, weil es weitere Change Requests gab auf Basis von einem Solution Design, das am Montag stattgefunden hat, wo sie eine Funktion, die wir entwickelt haben, erstmal wieder rausnehmen wollen, weil sie keine User \u00FCberfordern wollen mit zu vielen \u00C4nderungen auf einmal. Verst\u00E4ndlich, aber auch irgendwie traurig, weil wir dadurch langsamer vorankommen. Dadurch kommt der Kunde langsamer voran. Kleiner Downer, aber nicht schlimm Warum bin ich der Beste? Ich habe die Woche durchgehalten, gerade kickt so ein bisschen die Erk\u00E4ltung. Das bedeutet, ich gehe gleich nach Hause, bin zufrieden mit meiner Leistung und gl\u00FCcklich, dass beide Kunden unterschrieben haben und wir es alle geschafft haben, die Woche zu verstehen. Themen von eurer Seite.",
+    "Speaker": "Speaker 5",
+    "Language": "de-de",
+    "Duration": 119.0800,
+    "StartTime": 1720.2100,
+    "EndTime": 1839.2900
+  },
+  {
+    "AudioFilePath": "Files/e4b8fddb-449c-4956-a9f9-64521b39ae43.wav",
+    "Text": "Eher noch ein Interesse. Was ist da eigentlich passiert mit dem Sally, mit dem Directory, was wir hatten.",
+    "Speaker": "Speaker 2",
+    "Language": "de-de",
+    "Duration": 8.6400,
+    "StartTime": 1842.5700,
+    "EndTime": 1851.2100
+  },
+  {
+    "AudioFilePath": "Files/e4b8fddb-449c-4956-a9f9-64521b39ae43.wav",
+    "Text": "Das m\u00FCssten wir Julian und Mario fragen. Ich nehme an, dass es irgendwie aufgrund von einer Migration, was auch immer, ich wei\u00DF nicht, was geupdatet wurde, irgendwie, dass Directory die Konnexion zu den Usern verloren hat. Irgendwas so in die Richtung kann ich nicht sagen. M\u00FCssen wir auch mal Julian fragen oder Mario. Aber mittlerweile habt ihr alle wieder, Also die, die Zugriff haben sollten, habt ihr mal \u00FCberpr\u00FCft, ob ihr wieder Zugriff habt.",
+    "Speaker": "Speaker 5",
+    "Language": "de-de",
+    "Duration": 30.1500,
+    "StartTime": 1852.9700,
+    "EndTime": 1883.1200
+  },
+  {
+    "AudioFilePath": "Files/e4b8fddb-449c-4956-a9f9-64521b39ae43.wav",
+    "Text": "Ja, das passt bei mir.",
+    "Speaker": "Speaker 2",
+    "Language": "de-de",
+    "Duration": 2.5600,
+    "StartTime": 1883.7500,
+    "EndTime": 1886.3100
+  },
+  {
+    "AudioFilePath": "Files/e4b8fddb-449c-4956-a9f9-64521b39ae43.wav",
+    "Text": "Genau.",
+    "Speaker": "Speaker 1",
+    "Language": "de-de",
+    "Duration": 0.3600,
+    "StartTime": 1888.6300,
+    "EndTime": 1888.9900
+  },
+  {
+    "AudioFilePath": "Files/e4b8fddb-449c-4956-a9f9-64521b39ae43.wav",
+    "Text": "Julian hat mich geupdatet. Sally hat 2000 Kunden \u00FCbersprungen, vielleicht auch nicht. Auch ein gro\u00DFer Meilenstein. 2000 Kunden ist schon eine gute Zahl. Da k\u00F6nnen wir stolz auf das Team Sally sein. Auf jeden Fall. Da geht sehr, sehr gut voran. Dann sa Wohlverdienter Urlaub, erhol dich gut, komm wieder gut heim. Vor allem hierher zur\u00FCck ins B\u00FCro.",
+    "Speaker": "Speaker 5",
+    "Language": "de-de",
+    "Duration": 30.2900,
+    "StartTime": 1888.9900,
+    "EndTime": 1919.2800
+  },
+  {
+    "AudioFilePath": "Files/e4b8fddb-449c-4956-a9f9-64521b39ae43.wav",
+    "Text": "Das werde ich auf jeden Fall vermissen.",
+    "Speaker": "Speaker 4",
+    "Language": "de-de",
+    "Duration": 1.8400,
+    "StartTime": 1922.8800,
+    "EndTime": 1924.7200
+  },
+  {
+    "AudioFilePath": "Files/e4b8fddb-449c-4956-a9f9-64521b39ae43.wav",
+    "Text": "Weiter geht\u0027s.",
+    "Speaker": "Speaker 5",
+    "Language": "de-de",
+    "Duration": 0.8800,
+    "StartTime": 1930.8800,
+    "EndTime": 1931.7600
+  },
+  {
+    "AudioFilePath": "Files/e4b8fddb-449c-4956-a9f9-64521b39ae43.wav",
+    "Text": "Sch\u00F6nes Wochenende.",
+    "Speaker": "Speaker 8",
+    "Language": "de-de",
+    "Duration": 1.1200,
+    "StartTime": 1932.4000,
+    "EndTime": 1933.5200
+  },
+  {
+    "AudioFilePath": "Files/e4b8fddb-449c-4956-a9f9-64521b39ae43.wav",
+    "Text": "Bye bye.",
+    "Speaker": "Speaker 4",
+    "Language": "de-de",
+    "Duration": 0.5600,
+    "StartTime": 1937.9200,
+    "EndTime": 1938.4800
+  }
+]

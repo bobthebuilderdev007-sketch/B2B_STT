@@ -1,0 +1,803 @@
+[
+  {
+    "AudioFilePath": "Files/30cef132-38cc-4c05-bc9d-2309a8ad7da8.wav",
+    "Text": "Hello.",
+    "Speaker": "Roystan Dsouza",
+    "Language": "en-us",
+    "Duration": 0.3200,
+    "StartTime": 8.2400,
+    "EndTime": 8.5600
+  },
+  {
+    "AudioFilePath": "Files/30cef132-38cc-4c05-bc9d-2309a8ad7da8.wav",
+    "Text": "Hi.",
+    "Speaker": "Christian Claa\u00DFen",
+    "Language": "en-us",
+    "Duration": 0.4800,
+    "StartTime": 10.7200,
+    "EndTime": 11.2000
+  },
+  {
+    "AudioFilePath": "Files/30cef132-38cc-4c05-bc9d-2309a8ad7da8.wav",
+    "Text": "Hi.",
+    "Speaker": "Roystan Dsouza",
+    "Language": "en-us",
+    "Duration": 0.3200,
+    "StartTime": 30.3300,
+    "EndTime": 30.6500
+  },
+  {
+    "AudioFilePath": "Files/30cef132-38cc-4c05-bc9d-2309a8ad7da8.wav",
+    "Text": "Hi Sachin.",
+    "Speaker": "Sergiy Kharchenko",
+    "Language": "en-us",
+    "Duration": 0.9600,
+    "StartTime": 31.9300,
+    "EndTime": 32.8900
+  },
+  {
+    "AudioFilePath": "Files/30cef132-38cc-4c05-bc9d-2309a8ad7da8.wav",
+    "Text": "So Dominic is in meeting. He\u0027s coming probably after the meeting.",
+    "Speaker": "Sachin Shukla",
+    "Language": "en-us",
+    "Duration": 6.3200,
+    "StartTime": 34.6500,
+    "EndTime": 40.9700
+  },
+  {
+    "AudioFilePath": "Files/30cef132-38cc-4c05-bc9d-2309a8ad7da8.wav",
+    "Text": "Sounds reasonable.",
+    "Speaker": "Christian Claa\u00DFen",
+    "Language": "en-us",
+    "Duration": 1.1200,
+    "StartTime": 44.8100,
+    "EndTime": 45.9300
+  },
+  {
+    "AudioFilePath": "Files/30cef132-38cc-4c05-bc9d-2309a8ad7da8.wav",
+    "Text": "Okay. And yeah.",
+    "Speaker": "Roystan Dsouza",
+    "Language": "en-us",
+    "Duration": 2.2300,
+    "StartTime": 50.4100,
+    "EndTime": 52.6400
+  },
+  {
+    "AudioFilePath": "Files/30cef132-38cc-4c05-bc9d-2309a8ad7da8.wav",
+    "Text": "How are you doing Sergiy?",
+    "Speaker": "Sachin Shukla",
+    "Language": "en-us",
+    "Duration": 1.2800,
+    "StartTime": 54.0000,
+    "EndTime": 55.2800
+  },
+  {
+    "AudioFilePath": "Files/30cef132-38cc-4c05-bc9d-2309a8ad7da8.wav",
+    "Text": "Basically I\u0027m fine. Just my voice. I already used to do filler like that. But it should get better. It should. After I will complete my sessions.",
+    "Speaker": "Sergiy Kharchenko",
+    "Language": "en-us",
+    "Duration": 14.9600,
+    "StartTime": 56.8000,
+    "EndTime": 71.7600
+  },
+  {
+    "AudioFilePath": "Files/30cef132-38cc-4c05-bc9d-2309a8ad7da8.wav",
+    "Text": "That is good to hear. Can\u0027t wait for you to be here.",
+    "Speaker": "Sachin Shukla",
+    "Language": "en-us",
+    "Duration": 5.1600,
+    "StartTime": 75.2000,
+    "EndTime": 80.3600
+  },
+  {
+    "AudioFilePath": "Files/30cef132-38cc-4c05-bc9d-2309a8ad7da8.wav",
+    "Text": "I think it\u0027s next week. I have three more sessions and I guess a week after next week I will come.",
+    "Speaker": "Sergiy Kharchenko",
+    "Language": "en-us",
+    "Duration": 10.1600,
+    "StartTime": 82.1200,
+    "EndTime": 92.2800
+  },
+  {
+    "AudioFilePath": "Files/30cef132-38cc-4c05-bc9d-2309a8ad7da8.wav",
+    "Text": "Hello.",
+    "Speaker": "Dominique Lohmann",
+    "Language": "en-us",
+    "Duration": 0.4800,
+    "StartTime": 93.4800,
+    "EndTime": 93.9600
+  },
+  {
+    "AudioFilePath": "Files/30cef132-38cc-4c05-bc9d-2309a8ad7da8.wav",
+    "Text": "Forward to it. Hi.",
+    "Speaker": "Sachin Shukla",
+    "Language": "en-us",
+    "Duration": 2.2400,
+    "StartTime": 94.1200,
+    "EndTime": 96.3600
+  },
+  {
+    "AudioFilePath": "Files/30cef132-38cc-4c05-bc9d-2309a8ad7da8.wav",
+    "Text": "Hi Dominic.",
+    "Speaker": "Sergiy Kharchenko",
+    "Language": "en-us",
+    "Duration": 0.8800,
+    "StartTime": 97.8000,
+    "EndTime": 98.6800
+  },
+  {
+    "AudioFilePath": "Files/30cef132-38cc-4c05-bc9d-2309a8ad7da8.wav",
+    "Text": "How are you feeling?",
+    "Speaker": "Dominique Lohmann",
+    "Language": "en-us",
+    "Duration": 0.8000,
+    "StartTime": 98.6800,
+    "EndTime": 99.4800
+  },
+  {
+    "AudioFilePath": "Files/30cef132-38cc-4c05-bc9d-2309a8ad7da8.wav",
+    "Text": "Great. Especially next day. Yes.",
+    "Speaker": "Sergiy Kharchenko",
+    "Language": "en-us",
+    "Duration": 2.5600,
+    "StartTime": 100.3600,
+    "EndTime": 102.9200
+  },
+  {
+    "AudioFilePath": "Files/30cef132-38cc-4c05-bc9d-2309a8ad7da8.wav",
+    "Text": "Even if you fault. Never mind. It was a little scratch. I don\u0027t give a. Stand up and drive again. I Christian you didn\u0027t know that Zaggy was a crazy head yesterday. Never, never was on a Segway before and after five minutes was like he was born on it. And even, even so crazy on it that the. The boss of the company comes out and say hey, don\u0027t so crazy if you do this twice times more you. You fall off this thing and get some injuries and say. He was like what is holding to me? I don\u0027t know. I didn\u0027t only understand English and this was quite a good face. And half hour later SEGA lands on the ground. But it was good. It was great. And Sergey, don\u0027t hurt anything. That\u0027s perfectly fine.",
+    "Speaker": "Dominique Lohmann",
+    "Language": "en-us",
+    "Duration": 64.7100,
+    "StartTime": 105.8200,
+    "EndTime": 170.5300
+  },
+  {
+    "AudioFilePath": "Files/30cef132-38cc-4c05-bc9d-2309a8ad7da8.wav",
+    "Text": "Yeah, I\u0027m absolutely fine. I just.",
+    "Speaker": "Sergiy Kharchenko",
+    "Language": "en-us",
+    "Duration": 2.6400,
+    "StartTime": 171.0900,
+    "EndTime": 173.7300
+  },
+  {
+    "AudioFilePath": "Files/30cef132-38cc-4c05-bc9d-2309a8ad7da8.wav",
+    "Text": "The.",
+    "Speaker": "Roystan Dsouza",
+    "Language": "en-us",
+    "Duration": 0.3200,
+    "StartTime": 174.2100,
+    "EndTime": 174.5300
+  },
+  {
+    "AudioFilePath": "Files/30cef132-38cc-4c05-bc9d-2309a8ad7da8.wav",
+    "Text": "The speed was quite low.",
+    "Speaker": "Sergiy Kharchenko",
+    "Language": "en-us",
+    "Duration": 2.0800,
+    "StartTime": 174.5300,
+    "EndTime": 176.6100
+  },
+  {
+    "AudioFilePath": "Files/30cef132-38cc-4c05-bc9d-2309a8ad7da8.wav",
+    "Text": "Yeah.",
+    "Speaker": "Dominique Lohmann",
+    "Language": "en-us",
+    "Duration": 0.4000,
+    "StartTime": 177.0100,
+    "EndTime": 177.4100
+  },
+  {
+    "AudioFilePath": "Files/30cef132-38cc-4c05-bc9d-2309a8ad7da8.wav",
+    "Text": "Then just. I just lose my control over the round. That\u0027s it.",
+    "Speaker": "Sergiy Kharchenko",
+    "Language": "en-us",
+    "Duration": 6.5600,
+    "StartTime": 177.4100,
+    "EndTime": 183.9700
+  },
+  {
+    "AudioFilePath": "Files/30cef132-38cc-4c05-bc9d-2309a8ad7da8.wav",
+    "Text": "Yeah. Catch the rock.",
+    "Speaker": "Dominique Lohmann",
+    "Language": "en-us",
+    "Duration": 1.4400,
+    "StartTime": 184.9000,
+    "EndTime": 186.3400
+  },
+  {
+    "AudioFilePath": "Files/30cef132-38cc-4c05-bc9d-2309a8ad7da8.wav",
+    "Text": "So no. No high impact trauma.",
+    "Speaker": "Christian Claa\u00DFen",
+    "Language": "en-us",
+    "Duration": 2.1600,
+    "StartTime": 187.6200,
+    "EndTime": 189.7800
+  },
+  {
+    "AudioFilePath": "Files/30cef132-38cc-4c05-bc9d-2309a8ad7da8.wav",
+    "Text": "No.",
+    "Speaker": "Dominique Lohmann",
+    "Language": "en-us",
+    "Duration": 0.4000,
+    "StartTime": 190.5000,
+    "EndTime": 190.9000
+  },
+  {
+    "AudioFilePath": "Files/30cef132-38cc-4c05-bc9d-2309a8ad7da8.wav",
+    "Text": "But this is a quite new experience for me and I love it very much.",
+    "Speaker": "Sergiy Kharchenko",
+    "Language": "en-us",
+    "Duration": 4.5600,
+    "StartTime": 192.1800,
+    "EndTime": 196.7400
+  },
+  {
+    "AudioFilePath": "Files/30cef132-38cc-4c05-bc9d-2309a8ad7da8.wav",
+    "Text": "Great.",
+    "Speaker": "Dominique Lohmann",
+    "Language": "en-us",
+    "Duration": 0.4000,
+    "StartTime": 197.8600,
+    "EndTime": 198.2600
+  },
+  {
+    "AudioFilePath": "Files/30cef132-38cc-4c05-bc9d-2309a8ad7da8.wav",
+    "Text": "I can really imagine him driving this thing in the office, hunting Ellie up and down the hallway.",
+    "Speaker": "Christian Claa\u00DFen",
+    "Language": "en-us",
+    "Duration": 10.1600,
+    "StartTime": 199.6200,
+    "EndTime": 209.7800
+  },
+  {
+    "AudioFilePath": "Files/30cef132-38cc-4c05-bc9d-2309a8ad7da8.wav",
+    "Text": "We look forward how much is called cost. It\u0027s really quite expensive. 4 or 5k.",
+    "Speaker": "Dominique Lohmann",
+    "Language": "en-us",
+    "Duration": 4.7600,
+    "StartTime": 210.1000,
+    "EndTime": 214.8600
+  },
+  {
+    "AudioFilePath": "Files/30cef132-38cc-4c05-bc9d-2309a8ad7da8.wav",
+    "Text": "Cheaper. Much more cheaper.",
+    "Speaker": "Sergiy Kharchenko",
+    "Language": "en-us",
+    "Duration": 1.4800,
+    "StartTime": 218.3000,
+    "EndTime": 219.7800
+  },
+  {
+    "AudioFilePath": "Files/30cef132-38cc-4c05-bc9d-2309a8ad7da8.wav",
+    "Text": "But no, we were talking about using that and coming to the office and, and. And on the way you know you can show a middle finger to everyone and. And then if. And then we improvise the joke saying that if they show you a middle finger back we can show both once because it will go without holding.",
+    "Speaker": "Roystan Dsouza",
+    "Language": "en-us",
+    "Duration": 20.4300,
+    "StartTime": 219.7800,
+    "EndTime": 240.2100
+  },
+  {
+    "AudioFilePath": "Files/30cef132-38cc-4c05-bc9d-2309a8ad7da8.wav",
+    "Text": "Make sure to only flip people off who are on bikes.",
+    "Speaker": "Sachin Shukla",
+    "Language": "en-us",
+    "Duration": 2.9600,
+    "StartTime": 245.0900,
+    "EndTime": 248.0500
+  },
+  {
+    "AudioFilePath": "Files/30cef132-38cc-4c05-bc9d-2309a8ad7da8.wav",
+    "Text": "So that lose no time. And Sachin, will you start?",
+    "Speaker": "Dominique Lohmann",
+    "Language": "en-us",
+    "Duration": 2.8800,
+    "StartTime": 250.9300,
+    "EndTime": 253.8100
+  },
+  {
+    "AudioFilePath": "Files/30cef132-38cc-4c05-bc9d-2309a8ad7da8.wav",
+    "Text": "Absolutely.",
+    "Speaker": "Sachin Shukla",
+    "Language": "en-us",
+    "Duration": 0.8800,
+    "StartTime": 255.1700,
+    "EndTime": 256.0500
+  },
+  {
+    "AudioFilePath": "Files/30cef132-38cc-4c05-bc9d-2309a8ad7da8.wav",
+    "Text": "Thank you.",
+    "Speaker": "Roystan Dsouza",
+    "Language": "en-us",
+    "Duration": 0.6400,
+    "StartTime": 256.3700,
+    "EndTime": 257.0100
+  },
+  {
+    "AudioFilePath": "Files/30cef132-38cc-4c05-bc9d-2309a8ad7da8.wav",
+    "Text": "Right, so my week I had quite a few things to basically do. First I\u0027ll start with Lichtblick. I wanted to define this revocation process and check for pending tasks because I came from vacation this week. As far as revocation process is concerned, it\u0027s not completely defined. It\u0027s basically 50% defined I\u0027d say it\u0027s quite a complex process believe you me because there are quite a few systems that are involved in it Dynamics Power Cloud Sync and then Power Cloud Handler and then Event Handler and then again Dynamics so it\u0027ll take like probably next whole week for me to define the process and yeah apart from that other tasks were done and yeah by pin I had taken up like all the pending tasks to be to be to be done and that I was able to do all the PRs were completed comments were resolved and yeah it was good week for pen this plugin has not been through yet hence I could not customize the canvas app and the outer numbering plugin sorry out numbering flow that I wanted to shift from flow to plugin the definition is on the way so yeah that is all from my side why am I the best this week because came from vacation quite fresh yeah don\u0027t need many reasons.",
+    "Speaker": "Sachin Shukla",
+    "Language": "en-us",
+    "Duration": 120.2200,
+    "StartTime": 259.6500,
+    "EndTime": 379.8700
+  },
+  {
+    "AudioFilePath": "Files/30cef132-38cc-4c05-bc9d-2309a8ad7da8.wav",
+    "Text": "This.",
+    "Speaker": "Roystan Dsouza",
+    "Language": "en-us",
+    "Duration": 0.3600,
+    "StartTime": 382.0300,
+    "EndTime": 382.3900
+  },
+  {
+    "AudioFilePath": "Files/30cef132-38cc-4c05-bc9d-2309a8ad7da8.wav",
+    "Text": "Week yeah so that will be all from my side I hand it over to Dominic thank you Satchin for this.",
+    "Speaker": "Sachin Shukla",
+    "Language": "en-us",
+    "Duration": 8.5200,
+    "StartTime": 382.3900,
+    "EndTime": 390.9100
+  },
+  {
+    "AudioFilePath": "Files/30cef132-38cc-4c05-bc9d-2309a8ad7da8.wav",
+    "Text": "Week I want document copack to install by IT net X I waiting a long time to he has improved the tickets and move forward to ready for dev so today was my first start to start with some complications so I will say I will continue this task in the next week then it net TNI we have a Tuesday meeting about the conditions because of the finite integration and the object storage there we moved a little step forward then the other things that have to be clear cleared that I need Martin Matthias Madder for it and he is on training this week so on Monday I will catch him and discuss this integration I\u0027ll be I I said three tickets I\u0027m I am done with four tickets and also discussed with Sachin that you are back why the queues are configured as it is and yeah I\u0027m smarter now thank you for that and PL200 I said I want to brain dump every day I only get three or five but the day is long enough to do the other twos after our meeting so then I get the 5 from 5 brain dumps why I\u0027m the best this week yeah I have a good bicycle tour yesterday was really fun and also I do my brain dumps and learnings for the PL200 to succeed this certificate yeah then I will hand over to.",
+    "Speaker": "Dominique Lohmann",
+    "Language": "en-us",
+    "Duration": 116.0000,
+    "StartTime": 390.9100,
+    "EndTime": 506.9100
+  },
+  {
+    "AudioFilePath": "Files/30cef132-38cc-4c05-bc9d-2309a8ad7da8.wav",
+    "Text": "Sergey thank you Dominic My week the first item test and production solution deployment it was went like charm this was the easiest part of my week release three tickets I have done the one ticket only and I also in progress with another ticket because it takes time longer than I thought before because we have to discuss with a customer possible solutions and to be honest this week is very how to say intensive complicated for me because I worked on many items simultaneously so this. This item is not completed Next one find a solution for entity self auto triggering issue. I have produced a solution for the customer and we also are in discussion I I explained how we can resolve it and they took a time out to discuss it internally. I wait for the decision support on request and pin a get ticket I have completed this ticket for for Royston and also I I worked on the FPM SAP integration for Fabi because we\u0027ve migrated from one solution to another one and it takes much time to resolve all the issues of the bugs I bring during the immigration but hopefully we resolved it because before Fabi has his revocation I\u0027m the best this week. I don\u0027t have any updates on my crafts because honestly I I feel myself like a hamster in a will this week completely like tight knot and that\u0027s why don\u0027t. That\u0027s why I don\u0027t have news regarding that but I will I want to go back to our yesterday event that was very nice and this was my new experience. I\u0027m happy that I had this lesson of driving.",
+    "Speaker": "Sergiy Kharchenko",
+    "Language": "en-us",
+    "Duration": 194.5300,
+    "StartTime": 506.9100,
+    "EndTime": 701.4400
+  },
+  {
+    "AudioFilePath": "Files/30cef132-38cc-4c05-bc9d-2309a8ad7da8.wav",
+    "Text": "And.",
+    "Speaker": "Dominique Lohmann",
+    "Language": "en-us",
+    "Duration": 0.4000,
+    "StartTime": 703.3600,
+    "EndTime": 703.7600
+  },
+  {
+    "AudioFilePath": "Files/30cef132-38cc-4c05-bc9d-2309a8ad7da8.wav",
+    "Text": "That\u0027S why I\u0027m the best this week. Christian, your turn.",
+    "Speaker": "Sergiy Kharchenko",
+    "Language": "en-us",
+    "Duration": 5.9400,
+    "StartTime": 706.0000,
+    "EndTime": 711.9400
+  },
+  {
+    "AudioFilePath": "Files/30cef132-38cc-4c05-bc9d-2309a8ad7da8.wav",
+    "Text": "Yep. Thank you. Okay. Licht Lick three tickets open issues resolved done I guess even saved the deployment from just failing FST the Azure function finished not quite yet 90% maybe 95 I\u0027m not sure but not yet completely done. Lupus Alpha task creation issue I investigated I did not find anything. I just said them hey, maybe it\u0027s a user error they never came back to me so. Oh no. And for FBM the opportunity forecasting to overhaul the code I started and then yeah this weird you have to work on a on a remote machine Segi you know the pains I did not get any more time in and for the PL203 to 5 hours per plant I got two in happy to even have those two but yeah the best this week I got stuff done and on last Sunday we had a lunar eclipse and I took some photos maybe when I just put one photo in the chat and now it\u0027s too big I did a little montage so some of you want to have a new wallpaper.",
+    "Speaker": "Christian Claa\u00DFen",
+    "Language": "en-us",
+    "Duration": 100.6500,
+    "StartTime": 712.4200,
+    "EndTime": 813.0700
+  },
+  {
+    "AudioFilePath": "Files/30cef132-38cc-4c05-bc9d-2309a8ad7da8.wav",
+    "Text": "Nice photo.",
+    "Speaker": "Dominique Lohmann",
+    "Language": "en-us",
+    "Duration": 0.8800,
+    "StartTime": 818.0300,
+    "EndTime": 818.9100
+  },
+  {
+    "AudioFilePath": "Files/30cef132-38cc-4c05-bc9d-2309a8ad7da8.wav",
+    "Text": "Yep. Okay. So that was my week and next to me is Royston. Yep.",
+    "Speaker": "Christian Claa\u00DFen",
+    "Language": "en-us",
+    "Duration": 8.6800,
+    "StartTime": 819.8800,
+    "EndTime": 828.5600
+  },
+  {
+    "AudioFilePath": "Files/30cef132-38cc-4c05-bc9d-2309a8ad7da8.wav",
+    "Text": "Thank you. So my tasks from Casino so the starting with the production testing Was postponed for next week because of some pending tasks in the test environment. However, we did the remaining tests for the forms on the test environment and also some bounce bounce data flows. So I think so from the next week we will be dedicating the next two weeks for the prod Regarding Lisp mobility. These tasks are done. I also have finished two new tasks that were given ad hoc and yeah, there\u0027s mainly nothing much this week in terms of new sprints. So that probably will come up next week. Finn, continue with customer voice use case that is completed thanks to Sergey. Also successfully tested with client on Thursday. Have some improvements, but nothing regarding development for you Sergey. It\u0027s just customizations for my set. Yeah, PL200 Prep 4 is not done. Seriously need to really block that and take that, you know, start doing that from next week. Addition to that I had some tasks for handing over tasks for gats. Oh, I think so. We have. I\u0027ve completed all the handovers. Also had some technical meetings yesterday for the new with the new project team there and yeah, mainly that was it. I\u0027m the best this week. I\u0027m happy that I had good progress with the Pinagi customer voice issues. I have learned much more from what I\u0027ve understood and you know, got to do a lot of workarounds which are working. Thankfully. The other reason is this week was not that easy mentally for me, as some of you would have known that. Yeah, I had my grandmother passed away this Tuesday, so coming back to work was a little difficult. But I kept telling myself that life goes on, we have to to the things that we have to do. So yeah, that way I consider it was. Yeah, I was positive enough to come back the next day and start with my tasks. That\u0027s all. Thank you. Fabian. Fabian is on leave. Sergey, if you don\u0027t know, he\u0027s fighting. So for around 10 days leave. He\u0027ll come 23rd of this month back to office.",
+    "Speaker": "Roystan Dsouza",
+    "Language": "en-us",
+    "Duration": 182.1200,
+    "StartTime": 828.5600,
+    "EndTime": 1010.6800
+  },
+  {
+    "AudioFilePath": "Files/30cef132-38cc-4c05-bc9d-2309a8ad7da8.wav",
+    "Text": "I know, but I thought he has vocation next week.",
+    "Speaker": "Sergiy Kharchenko",
+    "Language": "en-us",
+    "Duration": 4.4000,
+    "StartTime": 1011.6400,
+    "EndTime": 1016.0400
+  },
+  {
+    "AudioFilePath": "Files/30cef132-38cc-4c05-bc9d-2309a8ad7da8.wav",
+    "Text": "He went from. Yeah, he\u0027s off from today.",
+    "Speaker": "Roystan Dsouza",
+    "Language": "en-us",
+    "Duration": 2.8000,
+    "StartTime": 1018.6000,
+    "EndTime": 1021.4000
+  },
+  {
+    "AudioFilePath": "Files/30cef132-38cc-4c05-bc9d-2309a8ad7da8.wav",
+    "Text": "Yesterday evening his flight went. So he\u0027s no longer in the country. He fled the country. He fled the country. Oh, Sally is here. I have to. To be careful what I say.",
+    "Speaker": "Christian Claa\u00DFen",
+    "Language": "en-us",
+    "Duration": 14.5190,
+    "StartTime": 1025.5600,
+    "EndTime": 1040.0790
+  },
+  {
+    "AudioFilePath": "Files/30cef132-38cc-4c05-bc9d-2309a8ad7da8.wav",
+    "Text": "Listen, your photo is amazing. This is my domain. I like this stuff very much.",
+    "Speaker": "Sergiy Kharchenko",
+    "Language": "en-us",
+    "Duration": 5.6800,
+    "StartTime": 1041.9990,
+    "EndTime": 1047.6790
+  },
+  {
+    "AudioFilePath": "Files/30cef132-38cc-4c05-bc9d-2309a8ad7da8.wav",
+    "Text": "Impressive stuff.",
+    "Speaker": "Dominique Lohmann",
+    "Language": "en-us",
+    "Duration": 1.5200,
+    "StartTime": 1049.2790,
+    "EndTime": 1050.7990
+  },
+  {
+    "AudioFilePath": "Files/30cef132-38cc-4c05-bc9d-2309a8ad7da8.wav",
+    "Text": "Nice.",
+    "Speaker": "Sachin Shukla",
+    "Language": "en-us",
+    "Duration": 0.4800,
+    "StartTime": 1051.4390,
+    "EndTime": 1051.9190
+  },
+  {
+    "AudioFilePath": "Files/30cef132-38cc-4c05-bc9d-2309a8ad7da8.wav",
+    "Text": "Yeah. Cool. What\u0027s planned then guys for the weekend? Anything special?",
+    "Speaker": "Roystan Dsouza",
+    "Language": "en-us",
+    "Duration": 7.7710,
+    "StartTime": 1052.4790,
+    "EndTime": 1060.2500
+  },
+  {
+    "AudioFilePath": "Files/30cef132-38cc-4c05-bc9d-2309a8ad7da8.wav",
+    "Text": "Not really nothing special, but I want to continue my work on my project.",
+    "Speaker": "Sergiy Kharchenko",
+    "Language": "en-us",
+    "Duration": 7.5200,
+    "StartTime": 1062.8900,
+    "EndTime": 1070.4100
+  },
+  {
+    "AudioFilePath": "Files/30cef132-38cc-4c05-bc9d-2309a8ad7da8.wav",
+    "Text": "Nice.",
+    "Speaker": "Sachin Shukla",
+    "Language": "en-us",
+    "Duration": 0.4800,
+    "StartTime": 1071.2900,
+    "EndTime": 1071.7700
+  },
+  {
+    "AudioFilePath": "Files/30cef132-38cc-4c05-bc9d-2309a8ad7da8.wav",
+    "Text": "Domino\u0027s project. Nobody can can know about until you\u0027re finished. Yeah, basically.",
+    "Speaker": "Christian Claa\u00DFen",
+    "Language": "en-us",
+    "Duration": 6.8800,
+    "StartTime": 1072.1700,
+    "EndTime": 1079.0500
+  },
+  {
+    "AudioFilePath": "Files/30cef132-38cc-4c05-bc9d-2309a8ad7da8.wav",
+    "Text": "Basically Roy already knows.",
+    "Speaker": "Sergiy Kharchenko",
+    "Language": "en-us",
+    "Duration": 2.4800,
+    "StartTime": 1079.0500,
+    "EndTime": 1081.5300
+  },
+  {
+    "AudioFilePath": "Files/30cef132-38cc-4c05-bc9d-2309a8ad7da8.wav",
+    "Text": "But It\u0027s a secret.",
+    "Speaker": "Christian Claa\u00DFen",
+    "Language": "en-us",
+    "Duration": 1.1200,
+    "StartTime": 1083.2900,
+    "EndTime": 1084.4100
+  },
+  {
+    "AudioFilePath": "Files/30cef132-38cc-4c05-bc9d-2309a8ad7da8.wav",
+    "Text": "It\u0027s a secret.",
+    "Speaker": "Sergiy Kharchenko",
+    "Language": "en-us",
+    "Duration": 0.7200,
+    "StartTime": 1084.7300,
+    "EndTime": 1085.4500
+  },
+  {
+    "AudioFilePath": "Files/30cef132-38cc-4c05-bc9d-2309a8ad7da8.wav",
+    "Text": "I don\u0027t remember.",
+    "Speaker": "Roystan Dsouza",
+    "Language": "en-us",
+    "Duration": 0.8800,
+    "StartTime": 1086.1700,
+    "EndTime": 1087.0500
+  },
+  {
+    "AudioFilePath": "Files/30cef132-38cc-4c05-bc9d-2309a8ad7da8.wav",
+    "Text": "He forgot everything.",
+    "Speaker": "Christian Claa\u00DFen",
+    "Language": "en-us",
+    "Duration": 0.8800,
+    "StartTime": 1089.1400,
+    "EndTime": 1090.0200
+  },
+  {
+    "AudioFilePath": "Files/30cef132-38cc-4c05-bc9d-2309a8ad7da8.wav",
+    "Text": "Yeah. Nothing new happening? I think so in Mannheim. I. I found out a nice website where you can find out all the events happening in your city. It\u0027s called Rauskegangan Dea and. Pretty cool.",
+    "Speaker": "Roystan Dsouza",
+    "Language": "en-us",
+    "Duration": 18.2400,
+    "StartTime": 1092.4200,
+    "EndTime": 1110.6600
+  },
+  {
+    "AudioFilePath": "Files/30cef132-38cc-4c05-bc9d-2309a8ad7da8.wav",
+    "Text": "I sent you an event.",
+    "Speaker": "Dominique Lohmann",
+    "Language": "en-us",
+    "Duration": 1.0400,
+    "StartTime": 1111.4600,
+    "EndTime": 1112.5000
+  },
+  {
+    "AudioFilePath": "Files/30cef132-38cc-4c05-bc9d-2309a8ad7da8.wav",
+    "Text": "Just share it please.",
+    "Speaker": "Sergiy Kharchenko",
+    "Language": "en-us",
+    "Duration": 1.2800,
+    "StartTime": 1112.8200,
+    "EndTime": 1114.1000
+  },
+  {
+    "AudioFilePath": "Files/30cef132-38cc-4c05-bc9d-2309a8ad7da8.wav",
+    "Text": "So you can select your city, for example, I say network. Yeah. And it will. It will at least give you what\u0027s. What are the events for the day and also everything around Mannheim. So it\u0027s like markets, stand ups, comedy going on, music, secondhand thrift stores, theater. So. Very nice.",
+    "Speaker": "Roystan Dsouza",
+    "Language": "en-us",
+    "Duration": 32.8700,
+    "StartTime": 1115.2200,
+    "EndTime": 1148.0900
+  },
+  {
+    "AudioFilePath": "Files/30cef132-38cc-4c05-bc9d-2309a8ad7da8.wav",
+    "Text": "Oh, nice, nice, nice. I also sent you a link on a concert on Sunday.",
+    "Speaker": "Dominique Lohmann",
+    "Language": "en-us",
+    "Duration": 7.2000,
+    "StartTime": 1148.0900,
+    "EndTime": 1155.2900
+  },
+  {
+    "AudioFilePath": "Files/30cef132-38cc-4c05-bc9d-2309a8ad7da8.wav",
+    "Text": "This Sunday. Okay. Yeah, I\u0027ll check it out. Yeah, I\u0027ll share the link. I\u0027m not sure that\u0027s there in small, smaller towns, but yeah, main towns should be there. All right, cool. How did you do this, Christian? It\u0027s like a time lapse, right?",
+    "Speaker": "Roystan Dsouza",
+    "Language": "en-us",
+    "Duration": 27.4400,
+    "StartTime": 1156.3300,
+    "EndTime": 1183.7700
+  },
+  {
+    "AudioFilePath": "Files/30cef132-38cc-4c05-bc9d-2309a8ad7da8.wav",
+    "Text": "Kind of. So there are many. Four different images. And I just stitched them together. But the camera was in one place and I just waited for the moon to go on.",
+    "Speaker": "Christian Claa\u00DFen",
+    "Language": "en-us",
+    "Duration": 13.9300,
+    "StartTime": 1186.0900,
+    "EndTime": 1200.0200
+  },
+  {
+    "AudioFilePath": "Files/30cef132-38cc-4c05-bc9d-2309a8ad7da8.wav",
+    "Text": "Okay.",
+    "Speaker": "Roystan Dsouza",
+    "Language": "en-us",
+    "Duration": 0.5600,
+    "StartTime": 1200.5000,
+    "EndTime": 1201.0600
+  },
+  {
+    "AudioFilePath": "Files/30cef132-38cc-4c05-bc9d-2309a8ad7da8.wav",
+    "Text": "I just sat on some. I don\u0027t know, on support. And you just tripod.",
+    "Speaker": "Sergiy Kharchenko",
+    "Language": "en-us",
+    "Duration": 5.4000,
+    "StartTime": 1203.5400,
+    "EndTime": 1208.9400
+  },
+  {
+    "AudioFilePath": "Files/30cef132-38cc-4c05-bc9d-2309a8ad7da8.wav",
+    "Text": "Yeah.",
+    "Speaker": "Roystan Dsouza",
+    "Language": "en-us",
+    "Duration": 0.5200,
+    "StartTime": 1208.9400,
+    "EndTime": 1209.4600
+  },
+  {
+    "AudioFilePath": "Files/30cef132-38cc-4c05-bc9d-2309a8ad7da8.wav",
+    "Text": "Okay.",
+    "Speaker": "Sergiy Kharchenko",
+    "Language": "en-us",
+    "Duration": 0.5600,
+    "StartTime": 1210.0200,
+    "EndTime": 1210.5800
+  },
+  {
+    "AudioFilePath": "Files/30cef132-38cc-4c05-bc9d-2309a8ad7da8.wav",
+    "Text": "And then just waited.",
+    "Speaker": "Christian Claa\u00DFen",
+    "Language": "en-us",
+    "Duration": 1.2800,
+    "StartTime": 1211.7800,
+    "EndTime": 1213.0600
+  },
+  {
+    "AudioFilePath": "Files/30cef132-38cc-4c05-bc9d-2309a8ad7da8.wav",
+    "Text": "Looks.",
+    "Speaker": "Sergiy Kharchenko",
+    "Language": "en-us",
+    "Duration": 0.5600,
+    "StartTime": 1214.2600,
+    "EndTime": 1214.8200
+  },
+  {
+    "AudioFilePath": "Files/30cef132-38cc-4c05-bc9d-2309a8ad7da8.wav",
+    "Text": "We had a very nice. We had a wonderful plan. The location where we set to look at this blood moon, it was just like. Okay, technically the moon should rise just behind the castle. It would have been so nice. And then time came. No moon. The. The air was so kind of dizzy. It took like half an hour later and way higher in the. In the sky when someone said, hey, it\u0027s there. We did not Would. Did not find it before. But then came out and everything was fine.",
+    "Speaker": "Christian Claa\u00DFen",
+    "Language": "en-us",
+    "Duration": 39.1900,
+    "StartTime": 1215.6200,
+    "EndTime": 1254.8100
+  },
+  {
+    "AudioFilePath": "Files/30cef132-38cc-4c05-bc9d-2309a8ad7da8.wav",
+    "Text": "Where\u0027s the moon? Where\u0027s the moon? Oh, there\u0027s the moon.",
+    "Speaker": "Dominique Lohmann",
+    "Language": "en-us",
+    "Duration": 2.2400,
+    "StartTime": 1255.4500,
+    "EndTime": 1257.6900
+  },
+  {
+    "AudioFilePath": "Files/30cef132-38cc-4c05-bc9d-2309a8ad7da8.wav",
+    "Text": "Yeah.",
+    "Speaker": "Roystan Dsouza",
+    "Language": "en-us",
+    "Duration": 0.5600,
+    "StartTime": 1259.9300,
+    "EndTime": 1260.4900
+  },
+  {
+    "AudioFilePath": "Files/30cef132-38cc-4c05-bc9d-2309a8ad7da8.wav",
+    "Text": "Yeah. The.",
+    "Speaker": "Dominique Lohmann",
+    "Language": "en-us",
+    "Duration": 0.5600,
+    "StartTime": 1260.7300,
+    "EndTime": 1261.2900
+  },
+  {
+    "AudioFilePath": "Files/30cef132-38cc-4c05-bc9d-2309a8ad7da8.wav",
+    "Text": "The first images, you couldn\u0027t barely even make it to see them.",
+    "Speaker": "Christian Claa\u00DFen",
+    "Language": "en-us",
+    "Duration": 4.0800,
+    "StartTime": 1261.2900,
+    "EndTime": 1265.3700
+  },
+  {
+    "AudioFilePath": "Files/30cef132-38cc-4c05-bc9d-2309a8ad7da8.wav",
+    "Text": "Yeah. It was not that red as it was meant to be.",
+    "Speaker": "Roystan Dsouza",
+    "Language": "en-us",
+    "Duration": 3.5200,
+    "StartTime": 1265.8500,
+    "EndTime": 1269.3700
+  },
+  {
+    "AudioFilePath": "Files/30cef132-38cc-4c05-bc9d-2309a8ad7da8.wav",
+    "Text": "Maybe when it was the high point here, it was just too dizzy. You. You could not see anything.",
+    "Speaker": "Christian Claa\u00DFen",
+    "Language": "en-us",
+    "Duration": 7.7600,
+    "StartTime": 1269.5300,
+    "EndTime": 1277.2900
+  },
+  {
+    "AudioFilePath": "Files/30cef132-38cc-4c05-bc9d-2309a8ad7da8.wav",
+    "Text": "Right, Right.",
+    "Speaker": "Roystan Dsouza",
+    "Language": "en-us",
+    "Duration": 0.5600,
+    "StartTime": 1277.7700,
+    "EndTime": 1278.3300
+  },
+  {
+    "AudioFilePath": "Files/30cef132-38cc-4c05-bc9d-2309a8ad7da8.wav",
+    "Text": "In clearer nights it would. Would have been better. But next time is 2028, I guess. Yeah.",
+    "Speaker": "Christian Claa\u00DFen",
+    "Language": "en-us",
+    "Duration": 8.4800,
+    "StartTime": 1278.7300,
+    "EndTime": 1287.2100
+  },
+  {
+    "AudioFilePath": "Files/30cef132-38cc-4c05-bc9d-2309a8ad7da8.wav",
+    "Text": "Oh, okay.",
+    "Speaker": "Roystan Dsouza",
+    "Language": "en-us",
+    "Duration": 1.0400,
+    "StartTime": 1287.2100,
+    "EndTime": 1288.2500
+  },
+  {
+    "AudioFilePath": "Files/30cef132-38cc-4c05-bc9d-2309a8ad7da8.wav",
+    "Text": "For the next. What did we say? Solar eclipse. That you can see. It\u0027s 2081, so that takes some time.",
+    "Speaker": "Christian Claa\u00DFen",
+    "Language": "en-us",
+    "Duration": 8.8800,
+    "StartTime": 1290.5700,
+    "EndTime": 1299.4500
+  },
+  {
+    "AudioFilePath": "Files/30cef132-38cc-4c05-bc9d-2309a8ad7da8.wav",
+    "Text": "Yeah. Okay, cool. All right. Okay. Anything else, guys? I have a meeting at 4:30, so I will leave for it. Have a nice weekend.",
+    "Speaker": "Roystan Dsouza",
+    "Language": "en-us",
+    "Duration": 23.3700,
+    "StartTime": 1300.1700,
+    "EndTime": 1323.5400
+  },
+  {
+    "AudioFilePath": "Files/30cef132-38cc-4c05-bc9d-2309a8ad7da8.wav",
+    "Text": "Have a nice weekend. See you.",
+    "Speaker": "Sergiy Kharchenko",
+    "Language": "en-us",
+    "Duration": 1.2800,
+    "StartTime": 1324.1000,
+    "EndTime": 1325.3800
+  },
+  {
+    "AudioFilePath": "Files/30cef132-38cc-4c05-bc9d-2309a8ad7da8.wav",
+    "Text": "Take care of yourself. See you guys.",
+    "Speaker": "Sachin Shukla",
+    "Language": "en-us",
+    "Duration": 1.6800,
+    "StartTime": 1325.3800,
+    "EndTime": 1327.0600
+  },
+  {
+    "AudioFilePath": "Files/30cef132-38cc-4c05-bc9d-2309a8ad7da8.wav",
+    "Text": "Bye. Bye, Sam. Satan.",
+    "Speaker": "Roystan Dsouza",
+    "Language": "en-us",
+    "Duration": 56.5100,
+    "StartTime": 1327.0600,
+    "EndTime": 1383.5700
+  }
+]

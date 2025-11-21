@@ -1,0 +1,245 @@
+[
+  {
+    "AudioFilePath": "Files/7cb9c5c0-08b8-44a3-9f4d-15e4b6c7614d.mp4",
+    "Text": "Moin.",
+    "Speaker": "Sergiy Kharchenko",
+    "Language": "de-de",
+    "Duration": 0.7400,
+    "StartTime": 7.8400,
+    "EndTime": 8.5800
+  },
+  {
+    "AudioFilePath": "Files/7cb9c5c0-08b8-44a3-9f4d-15e4b6c7614d.mp4",
+    "Text": "Was ist das f\u00FCr eine Party hinter dir.",
+    "Speaker": "Leo Izere",
+    "Language": "de-de",
+    "Duration": 1.8600,
+    "StartTime": 12.5600,
+    "EndTime": 14.4200
+  },
+  {
+    "AudioFilePath": "Files/7cb9c5c0-08b8-44a3-9f4d-15e4b6c7614d.mp4",
+    "Text": "Guck mal, da stehen die Leute in bunten Farben. Sehr gut, sind vollz\u00E4hlig. Ich schlie\u00DFe mal bei uns die T\u00FCr",
+    "Speaker": "Fabian Kissel",
+    "Language": "de-de",
+    "Duration": 16.3920,
+    "StartTime": 35.1300,
+    "EndTime": 51.5220
+  },
+  {
+    "AudioFilePath": "Files/7cb9c5c0-08b8-44a3-9f4d-15e4b6c7614d.mp4",
+    "Text": "Ist auch am Start. So k\u00F6nnen wir beginnen. Gebe ich gleich meinen Redeball weiter?",
+    "Speaker": "Fabian Kissel",
+    "Language": "de-de",
+    "Duration": 7.2200,
+    "StartTime": 57.7600,
+    "EndTime": 64.9800
+  },
+  {
+    "AudioFilePath": "Files/7cb9c5c0-08b8-44a3-9f4d-15e4b6c7614d.mp4",
+    "Text": "Ich nehme den Redeball an. Gut, ich starte. Diese Woche hatte ich vorgehabt, den PR von LEAD bei FM zu beenden. Sind noch kleine Sachen da. Ich habe wenigstens die ganzen ESLint Guidelines wegen dem neuen Webpack Aufbau. Die ganzen Sachen habe ich schon mal gefixt. Die Errors sind weg. Bei Feps dachte ich, es wird noch einige Sachen hochkommen, weil wir ja letzte Woche deployed hatten. F\u00FCr Sales ist diese Woche nichts gekommen. Ich denke auch Buket war im Urlaub. Also so sieht es halt vom Team aus. Deswegen kam da jetzt nichts. Aber vom Field Service kamen ein, zwei Sachen. Da sind die \u00C4nderungen auch schon deployed. Und yes, bei Sally QBS, da ging es halt einfach darum, dass ich noch mal mit dem Herrn, den Nachnamen wei\u00DF ich nicht mehr, den Hakan, dass ich da mit ihm noch mal rede wegen dem Flow, ob da auch neue Anpassungsw\u00FCnsche kommen. Die sind gekommen. Da habe ich jetzt hingeschrieben, done. Da gab es noch eine \u00C4nderung, die ich noch nicht geschafft habe, da halt noch ein Issue kam. Also der hat im Flow noch Eintr\u00E4ge im Archiv mitgenommen. Da hat er die ganzen Kommentare noch hinzugef\u00FCgt, was problematisch ist. Dieses Problem habe ich von meinen Testungen aus, also ich habe jetzt nicht mit seinem Trello gearbeitet, sondern mit meinem eigenen Trello. Da habe ich von meinen Testungen aus schon mal den Flow halt \u00FCberarbeitet, habe das angepasst, da funktioniert es. Jetzt geht es darum, dass ich noch mal mit ihm n\u00E4chste Woche dann spreche und dann wieder den Flow aktiviere, wenn es okay ist. Dann hatte ich noch den Block PL, habe ich seit dieser Woche angefangen. Da habe ich den ersten Modul fast durch, aber den habe ich auch schon damals durchgehabt, weil ich angefangen hatte f\u00FCr PL 200 zu lernen. Aber da muss ich die Sachen einfach noch mal auffrischen, noch mal durchgehen. Und da fehlen mir jetzt noch zwei Lerneinheiten. Das werde ich dann auch noch fertigstellen, warum ich diese Woche der Beste bin. Ich finde, meine Kommunikation mit Hakan diese Woche war auch sehr gut wegen Trello. Auch da kann ich noch selbstbewusster sein. Da habe ich auch ein kleines Feedback dazu bekommen von Fabian. Aber auch da, wie ich dann auch mit dem Problem umgegangen bin. Ich habe auch schnell gesehen, dass im Archiv halt eben noch ein paar Einzelheiten sind, die ich dann eben rausfiltern kann. Und das Problem habe ich halt selbst rausgefunden. Und da finde ich, dass ich da auch einen gro\u00DFen Step gemacht habe in Sache von Problemfindung und daraus eine L\u00F6sung zu finden. Das finde ich gut. Das habe ich gut gemacht. Privat training weiter durchgezogen, Gym durchgezogen, Fu\u00DFball jetzt erstmal komplett pausiert, weil meine Verletzung ein bisschen schlimmer geworden ist. Aber auch da werde ich n\u00E4chste Woche jetzt beim Sportmediziner pers\u00F6nlich erscheinen, um Termin ausmachen zu k\u00F6nnen, weil es telefonisch nicht ging. So, jetzt bin ich durch. Ich gebe weiter an Blago.",
+    "Speaker": "Leo Izere",
+    "Language": "de-de",
+    "Duration": 215.0300,
+    "StartTime": 65.8400,
+    "EndTime": 280.8700
+  },
+  {
+    "AudioFilePath": "Files/7cb9c5c0-08b8-44a3-9f4d-15e4b6c7614d.mp4",
+    "Text": "Dankesch\u00F6n. Also bei FPM, ich hatte zwei Bugtickets gefixt und gemacht. Dort gibt es noch ein paar Themen, das ich werde n\u00E4chste Woche fertigstellen. Also die zwei Bugtickets, das ich habe erledigt. Die sind bei Kunde schon am testen. Die m\u00FCssen das einfach durchtesten und dann schauen wir, ob etwas kommt zur\u00FCck oder nicht. Und bei Lichtblick, ich hatte ein Bugticket fertiggestellt und auch ich habe dem Backend mit Testing geholfen die ganze Woche. Und ja, also warum bin ich der Beste diese Woche? Weil ich war echt hilfreich bei bei Lichtblick mit dem Testing von Backend. Ich hatte ja also mehrere Sessions gehabt mit Pedro und mit. Und die zweite Grund ist, dass ich habe Einb\u00FCrgerungsurkunde bekommen. German Citizenship.",
+    "Speaker": "Blagoja Mojsoski",
+    "Language": "de-de",
+    "Duration": 77.5100,
+    "StartTime": 282.3300,
+    "EndTime": 359.8400
+  },
+  {
+    "AudioFilePath": "Files/7cb9c5c0-08b8-44a3-9f4d-15e4b6c7614d.mp4",
+    "Text": "Nice, congratulations.",
+    "Speaker": "Sachin Shukla",
+    "Language": "de-de",
+    "Duration": 2.5400,
+    "StartTime": 361.7000,
+    "EndTime": 364.2400
+  },
+  {
+    "AudioFilePath": "Files/7cb9c5c0-08b8-44a3-9f4d-15e4b6c7614d.mp4",
+    "Text": "Und ich gebe weiter.",
+    "Speaker": "Blagoja Mojsoski",
+    "Language": "de-de",
+    "Duration": 1.3800,
+    "StartTime": 366.2600,
+    "EndTime": 367.6400
+  },
+  {
+    "AudioFilePath": "Files/7cb9c5c0-08b8-44a3-9f4d-15e4b6c7614d.mp4",
+    "Text": "Danke dir. Genau, was ich diese Folge vorhatte. Erstmal bei Lichtblick, die Themen, die bei mir auf waren, hatte ich vor, die einfach zu erledigen, aber das war halt nicht m\u00F6glich, weil der Po und Anja, Process Managerin, war krank seit zwei Wochen und Anja war im Urlaub, deswegen k\u00F6nnte ich die Best\u00E4tigung und die fachlichen Fragen, die ich hatte, k\u00F6nnte ich einfach nicht geantwortet bekommen. Und deswegen die Themen habe ich einfach on hold gelassen und die Bugtickets und alle Supportthemen habe ich durchgenommen und erledigt. Genau. Au\u00DFerdem habe ich auch der e mail Form habe ich auch ganz optimiert. Und das hei\u00DFt jetzt, dieser Arbeitsplatz beim E Mail Formular ist auch richtig gut geworden. Und das wird mit dem n\u00E4chsten Deployment live gehen. Genau. Bei P hatte ich vor dieser Woche die Themen, die wir seit drei Wochen entwickelt haben, live zu nehmen. Das habe ich gemacht und daf\u00FCr haben wir auch einen gro\u00DFen Lob bekommen von Anja, dass alles sauber l\u00E4uft, obwohl sie mir. Ja, danke. Obwohl sie mir eine. Also obwohl sie einen Bug gefunden hat, das habe ich auch sofort gefixt heute Nachmittag. Aber ja, schon gut.",
+    "Speaker": "Sachin Shukla",
+    "Language": "de-de",
+    "Duration": 106.3420,
+    "StartTime": 369.0600,
+    "EndTime": 475.4020
+  },
+  {
+    "AudioFilePath": "Files/7cb9c5c0-08b8-44a3-9f4d-15e4b6c7614d.mp4",
+    "Text": "Was war das f\u00FCr ein Bug?",
+    "Speaker": "Fabian Kissel",
+    "Language": "de-de",
+    "Duration": 1.3240,
+    "StartTime": 475.5060,
+    "EndTime": 476.8300
+  },
+  {
+    "AudioFilePath": "Files/7cb9c5c0-08b8-44a3-9f4d-15e4b6c7614d.mp4",
+    "Text": "Das war ein managed layer und, also sie hatte ein Problem bei E Mails und das haben wir schnell gefixt. Import. Und nach dem Deployment gab es diese Layer. Das war schon lange her. Und genau das habe ich Learnings auf jeden Fall. Aber ja, sie ist zufrieden. Das ist wichtig und wir machen weiter. Genau bei G h hatte ich diese Woche wirklich viel Zeit genommen, weil ich hatte und diese Power BI Dashboard habe ich aufgebaut. Ein sehr geiles Dashboard. Die waren echt zufrieden und Flows habe ich gefixt. Field Service App habe ich angepasst, dieser Kalender und alle Sachen Ansichten habe ich angepasst und optimiert. Und diese Verkaufschance und Angebot Entit\u00E4t Formularen habe ich auch ein bisschen angepasst. Genau diese Wortvorlage bleibt immer noch auf, weil daf\u00FCr hatte ich knapp Zeit und das habe ich f\u00FCr n\u00E4chste Woche daran zu arbeiten. Warum bin ich der Beste diese Woche? Weil ich viele Supportthemen um mich gefummelt habe und habe ich auch wie gesagt, meine Kunden zufrieden gelassen. Und ja. Und zweiter Grund warum bin ich der beste diese Woche? Weil ich. Also ich war fast krank, aber ich habe \u00FCberlebt. Genau, Fabi kann das best\u00E4tigen.",
+    "Speaker": "Sachin Shukla",
+    "Language": "de-de",
+    "Duration": 111.7200,
+    "StartTime": 477.4900,
+    "EndTime": 589.2100
+  },
+  {
+    "AudioFilePath": "Files/7cb9c5c0-08b8-44a3-9f4d-15e4b6c7614d.mp4",
+    "Text": "Das stimmt. Ich habe, ich habe glaube ich, 3 l Tee an einem Tag trinken sehen. Es war krass. Hat es geklappt mit dem Word Template, dass du es nochmal downloadest? Customization, also die Metadaten gezogen werden noch.",
+    "Speaker": "Fabian Kissel",
+    "Language": "de-de",
+    "Duration": 15.4600,
+    "StartTime": 589.6300,
+    "EndTime": 605.0900
+  },
+  {
+    "AudioFilePath": "Files/7cb9c5c0-08b8-44a3-9f4d-15e4b6c7614d.mp4",
+    "Text": "Nicht, aber ja, ich werde es weiterschauen und finden wir bestimmt heraus. Genau, dann damit gebe ich das Wort weiter an Dominik.",
+    "Speaker": "Sachin Shukla",
+    "Language": "de-de",
+    "Duration": 14.9400,
+    "StartTime": 605.1300,
+    "EndTime": 620.0700
+  },
+  {
+    "AudioFilePath": "Files/7cb9c5c0-08b8-44a3-9f4d-15e4b6c7614d.mp4",
+    "Text": "Danke dir. Ja, genau f\u00FCr die zwei Tage, wo ich hier war. Lichtblick, da hatte ich mir ein Ticket vorgenommen. Das das eine Ticket ist auch fertig, das andere Ticket, das ist soweit durch, wie ich es machen konnte. Ich brauche jetzt die Anja daf\u00FCr, f\u00FCr die weitere R\u00FCcksprache der restlichen E Mails, die bei dem Gesch\u00E4ftspartner noch \u00FCbrig geblieben sind, wie wir mit denen verkehren. Das sind jetzt nur noch acht e Mails. Also von daher von knapp 100 E Mails ist das so gut wie dann IT. Da hatte ich Canvas App supported diese Woche und diverse R\u00FCckfragen nochmal auch nochmal danke an dir, Fabian, an die Kollegen gestellt und bin ein bisschen weitergekommen. Gleich jetzt n\u00E4chste Woche mit dem Kunden nochmal, dass sie auch von Dev in die andere Richtung arbeiten und nicht mehr von Prod in Richtung Dev und It Netx, da haben wir diese Woche unser Meeting gehabt f\u00FCr das Sparring f\u00FCr 2025. Daraus sind schon vier gro\u00DFe Themen entstanden. Eins davon ist schon fertig. Ist jetzt gerade das Prod Deployment am Laufen. Genau. Und dann, wenn das Pro Deployment durch ist, mache ich dann noch die Daten\u00FCbertragung der Records und dann ist das eine Ticket auch somit abgeschlossen f\u00FCr diese Woche. Und das war meine kurze aber knackige Woche. Warum bin ich die Woche der Beste? Ich bin zur\u00FCck von den Toten. Nichtsdestotrotz werde ich am Wochenende wieder weiter mein Saxophon \u00FCben. Jetzt geht oft mit der Lunge es wieder. Und ja, deswegen bin ich die Woche der Beste. Dann Sergej, mach bitte weiter.",
+    "Speaker": "Dominique Lohmann",
+    "Language": "de-de",
+    "Duration": 99.6100,
+    "StartTime": 620.8100,
+    "EndTime": 720.4200
+  },
+  {
+    "AudioFilePath": "Files/7cb9c5c0-08b8-44a3-9f4d-15e4b6c7614d.mp4",
+    "Text": "Danke, Dominik. OK, FST Investment Management Solution. Deployment to test and prod. That\u0027s done. I\u0027ve completed deployment to production just ten minutes ago. But really, it\u0027s done. FST Investment Management. It\u0027s not completed because during the testing, they found that some docu items should be changed. And i worked on code adjustment according to changes in docu items. Basically i released one ticket and started second to left FBM complete code refactoring. This is regarding the quote Ts file. Basically it\u0027s refactoried but not deployed to test and dev because no time for protested and support performance improvement testing. Regarding this, I refactored code as well. And now I\u0027m one hundred percent sure that it works in Multithread Mode and it\u0027s deployed to test system. It does not give us the result. I expected but my guess do equipment limits not do the approach and also embed PBI report. That\u0027s also done. FST gets complete. One ticket also done. And i supported roy in another ticket debugging the cloudflow. Why I\u0027m the best this week. I\u0027m really proud embedding the power BI report. Thank you, Fabio. You found the Docu item, how to implement it and as turned out, it\u0027s quite easy, but it\u0027s very nice learning. For me also another reason also related to FPM. I found that i found the way how I can see logs. Because for now it\u0027s not really traceable. But i\u0027ve developed, by the way, for your information, i developed a special endpoint where you can request the trace log as and the response basically is a trace log. You can see it and work. So can you share it here in.",
+    "Speaker": "Sergiy Kharchenko",
+    "Language": "de-de",
+    "Duration": 209.1640,
+    "StartTime": 722.2400,
+    "EndTime": 931.4040
+  },
+  {
+    "AudioFilePath": "Files/7cb9c5c0-08b8-44a3-9f4d-15e4b6c7614d.mp4",
+    "Text": "Two minutes like or how fast would it be possible?",
+    "Speaker": "Fabian Kissel",
+    "Language": "de-de",
+    "Duration": 4.1080,
+    "StartTime": 931.4120,
+    "EndTime": 935.5200
+  },
+  {
+    "AudioFilePath": "Files/7cb9c5c0-08b8-44a3-9f4d-15e4b6c7614d.mp4",
+    "Text": "Yes, just the moment. I just don\u0027t remember if I have. I have to log in okay, Authenticator and Fabi, could you remind me the endpoint?",
+    "Speaker": "Sergiy Kharchenko",
+    "Language": "de-de",
+    "Duration": 37.0400,
+    "StartTime": 935.9400,
+    "EndTime": 972.9800
+  },
+  {
+    "AudioFilePath": "Files/7cb9c5c0-08b8-44a3-9f4d-15e4b6c7614d.mp4",
+    "Text": "The.",
+    "Speaker": "Fabian Kissel",
+    "Language": "de-de",
+    "Duration": 0.7400,
+    "StartTime": 974.0700,
+    "EndTime": 974.8100
+  },
+  {
+    "AudioFilePath": "Files/7cb9c5c0-08b8-44a3-9f4d-15e4b6c7614d.mp4",
+    "Text": "Because i have to run swagger?",
+    "Speaker": "Sergiy Kharchenko",
+    "Language": "de-de",
+    "Duration": 2.4400,
+    "StartTime": 979.6700,
+    "EndTime": 982.1100
+  },
+  {
+    "AudioFilePath": "Files/7cb9c5c0-08b8-44a3-9f4d-15e4b6c7614d.mp4",
+    "Text": "You mean the swagger endpoint? Do you need it? Sorry, do you need the endpoint? Do you need the URL?",
+    "Speaker": "Fabian Kissel",
+    "Language": "de-de",
+    "Duration": 6.8960,
+    "StartTime": 982.2700,
+    "EndTime": 989.1660
+  },
+  {
+    "AudioFilePath": "Files/7cb9c5c0-08b8-44a3-9f4d-15e4b6c7614d.mp4",
+    "Text": "I need the URL of the endpoint.",
+    "Speaker": "Sergiy Kharchenko",
+    "Language": "de-de",
+    "Duration": 3.6520,
+    "StartTime": 989.2780,
+    "EndTime": 992.9300
+  },
+  {
+    "AudioFilePath": "Files/7cb9c5c0-08b8-44a3-9f4d-15e4b6c7614d.mp4",
+    "Text": "I think this should be it.",
+    "Speaker": "Fabian Kissel",
+    "Language": "de-de",
+    "Duration": 1.7800,
+    "StartTime": 993.2700,
+    "EndTime": 995.0500
+  },
+  {
+    "AudioFilePath": "Files/7cb9c5c0-08b8-44a3-9f4d-15e4b6c7614d.mp4",
+    "Text": "And i will run my Postman. Now I have to share my. So basically we have get trace log endpoint, try it. For now the response is empty. And now i will trigger. So basically that\u0027s it. You can copy. I just select shift and copy. Then i go to notepad, paste it and i have a Special macro switch, replaces this symbols to carriage return. So basically we see that ten threads run simultaneously and they have some locks and they do some job. And basically everything here cool.",
+    "Speaker": "Sergiy Kharchenko",
+    "Language": "de-de",
+    "Duration": 93.1300,
+    "StartTime": 1007.7600,
+    "EndTime": 1100.8900
+  },
+  {
+    "AudioFilePath": "Files/7cb9c5c0-08b8-44a3-9f4d-15e4b6c7614d.mp4",
+    "Text": "I think such small things are really cool and gives you a better overview and a better look into the system. That\u0027s cool.",
+    "Speaker": "Fabian Kissel",
+    "Language": "de-de",
+    "Duration": 8.7400,
+    "StartTime": 1101.7200,
+    "EndTime": 1110.4600
+  },
+  {
+    "AudioFilePath": "Files/7cb9c5c0-08b8-44a3-9f4d-15e4b6c7614d.mp4",
+    "Text": "So i\u0027m finished, Roy.",
+    "Speaker": "Sergiy Kharchenko",
+    "Language": "de-de",
+    "Duration": 2.7000,
+    "StartTime": 1114.0400,
+    "EndTime": 1116.7400
+  },
+  {
+    "AudioFilePath": "Files/7cb9c5c0-08b8-44a3-9f4d-15e4b6c7614d.mp4",
+    "Text": "Thank you. So, besch\u00E4ftigt bei Casino und auch FSD gets. So bei Casino, ich hatte die \u00C4nderung von Dev Environment Test Deployment gemacht. Dann habe ich drei neue Plugin Tasks geschrieben und letztes von der Bug Resolution, das ist noch, es fehlt noch, weil die Microsoft Support hat keine L\u00F6sung gefunden. So unfortunately zweites von FST GAD, so complete three ticket transfer. Das habe ich gemacht, aber ich hatte auch viele kleinere Bugs erledigt. Und heute wir hatten eine Review oder einen Test mit dem Kunden und es war gut. Und Nestwalker haben wir Knock and Deployment Production mit dem Noise Changes by Lisplic, so deploy new pre sales changes the savage less worker the Freitag gemacht und die Dokumentation ist in progress auf Kanban und auch pre sales. Und letztes bei PIN war ein Support Ticket, that i had to write, aber das war resolved mit einem Teammeeting mit Julian und Sachin. Yeah, this is the problem from customer voice app. That\u0027s why nist in the license. Now we hadn\u0027t kind of license for customer wise app, although we had the other apps, dynamics apps, so we just found out why and they have to create a new or they have to purchase the Customer wise thing, what else? So, bei Lupus Alpha, wir haben diese Woche kein Task, weil ich warte auf Christian. Hoffentlich n\u00E4chste Woche ist da. Und ja, so, ich bin die Beste diese Woche, weil ich habe gelernt, ich habe detailed plugin Tasks. I learned to write detailed plugin tasks with the help of Julian. So i am confident now to write more and more tasks for the casino project and Zoitis Shaba Field. Themen oder \u00C4nderungen gemacht bei GATs, auch bei Canvas App und Power BI. Das gef\u00E4llt mir. Danke Fabi.",
+    "Speaker": "Roystan Dsouza",
+    "Language": "de-de",
+    "Duration": 199.6000,
+    "StartTime": 1120.1200,
+    "EndTime": 1319.7200
+  },
+  {
+    "AudioFilePath": "Files/7cb9c5c0-08b8-44a3-9f4d-15e4b6c7614d.mp4",
+    "Text": "Danke dir, Roy. Bei mir diese Woche sah es \u00E4hnlich aus wie bei allen. Hat auch viel zu tun. Bei FBM haben wir wirklich jetzt die V Feature Claim abgeschlossen. Die zwei und dreiig Tickets wurden am Montag alle geschlossen. Es gab zwei kleinere \u00C4nderungen, die wir direkt live nehmen mussten, aber wir sind durch. F\u00FChlt sich gut an, ist noch nicht in Use, weil die immer noch auf die Quality Management Canvas App warten. Die wird quasi intern von einem Entwickler gebaut. Ich denke mal, das dauert noch Wochen und danach ist dann die Solution in Use. Parallel dazu haben wir mit dem aktuellen Sprint angefangen. Da sind ungef\u00E4hr 20 Tickets drin. Davon habe ich jetzt auch schon vier abgearbeitet diese Woche und Svenja zur\u00FCckgestellt. Das ist ein stark bug related Sprint. Also wir haben ungef\u00E4hr 10 Bugs, die sich jetzt \u00FCber die letzten vier, f\u00FCnf, sechs Monate angestaut haben, die alle nicht wirklich businessrelevant sind, also alle so ein relativ low rating haben. Deswegen wurden die auch jetzt die letzten drei, vier Monate ignoriert. Aber jetzt geht es eben darum, einfach mal die Technical Depths abzuarbeiten und neue Features dann sich zu \u00FCberlegen. Gerade beim Claim gibt es auch schon die Version zwei Tickets, die jetzt teilweise auch schon im Sprint sind. LB hatte ich mir vorgenommen, die Solution aufzur\u00E4umen und einmal zu upgraden. Das haben wir nicht gemacht. Wir sind nicht live gegangen mit den aktuellen \u00C4nderungen, weil da Willis auch mit der WhatsApp, mit dem WhatsApp Feature, die integrieren WhatsApp in Dynamics noch nicht 100 % durch ist und die n\u00E4chsten drei Tage dann, also Montag, Dienstag, Mittwoch weg ist, hatten wir OK, skippen wir das Prod Deployment, bedeutet das ganze ist noch in progress, genau wie die Dokumentation. Wir hatten einen guten Termin, wo wir die Support Cases aufgedeckt haben, die wir zusammen mit den mit dem Ops und dem Sales Team haben, um das eben intern abgeben zu k\u00F6nnen. Aliro Kurs ist ein Kurs, den ich mir vorgenommen habe in meiner Zielvereinbarung bis April. Bedeutet bis Ende April sind 2 Stunden left. Die mache ich jetzt heute oder morgen noch. Bedeutet da bin ich dann auch dann und hab eins von f\u00FCnf Themen, die ich bis Ende April angehen will, schon gel\u00F6st. Hoffe nat\u00FCrlich auch, ihr seid auf eurem Weg, eure Zielvereinbarungsthemen anzugehen. Falls ihr da Unterst\u00FCtzung braucht, sagt Bescheid. Warum bin ich der Beste? Ich bin stolz aufs Claim Feature, muss ich ganz ehrlich sagen. Es ist sch\u00F6ne Solution, die ist rund, hat einen geilen Approval Prozess, einfach cool und sportlich. Diese Woche auch schon zweimal Sport gemacht. Am Sonntag geht es dann noch mal ins Fitness. Dann bin ich bei dreimal. Ist auch mein Ziel dieses Jahr dreimal im Durchschnitt zu gehen die Woche. Genau. Sonst eine gute Woche gepasst. Ich bin aber auch froh, wenn n\u00E4chste Woche hoffentlich wieder alle von uns da sind, insbesondere Christian. Dr\u00FCcken wir die Daumen. Hinter dir ist der Waldemar schon zu sehen. Das bedeutet, die sind auch durch. Dann wollen wir es auch nicht in die L\u00E4nge ziehen und wollen uns zu den anderen gesellen. Fragen, Anmerkungen, Themen von eurer Seite aus vielleicht noch ganz, ganz, ganz interessant f\u00FCr euch bei Sally. Diese Woche \u00FCberschreiten wir wahrscheinlich die 600 aktiven Kunden. Bedeutet, wir \u00FCberholen damit ein anderes Startup, das im SAS Bereich hier in Marfinex aktiv ist. Noch nicht vom Monthly Recurring, auch nicht vom Annual Recurring Revenue, aber schon mal von der Kundenanzahl, was gut ist. Das bedeutet, Jede Woche floaten die Kunden rein. Mario betreut die Support Technik extrem gut. Schaut, welche Wehwehchen die haben, schaut, dass neue Features in die Pipeline reinkommen. Und Julian, Yannick, Amalia setzen das Ganze um. Ich finde das schon ziemlich Geil, dass da die Kunden einfach gebotet werden ohne ohne gro\u00DFen Aufwand. Gut, immer r\u00FCber.",
+    "Speaker": "Fabian Kissel",
+    "Language": "de-de",
+    "Duration": 270.4100,
+    "StartTime": 1320.6200,
+    "EndTime": 1591.0300
+  }
+]

@@ -1,0 +1,425 @@
+[
+  {
+    "AudioFilePath": "Files/8e916041-0b6d-4ff1-9328-c46f4a7fd550.mp4",
+    "Text": "Hey guys, how are you doing?",
+    "Speaker": "Sergiy Kharchenko",
+    "Language": "de-de",
+    "Duration": 1.3600,
+    "StartTime": 3.6800,
+    "EndTime": 5.0400
+  },
+  {
+    "AudioFilePath": "Files/8e916041-0b6d-4ff1-9328-c46f4a7fd550.mp4",
+    "Text": "Hi Shaggy, how are you?",
+    "Speaker": "Roystan Dsouza",
+    "Language": "de-de",
+    "Duration": 4.0800,
+    "StartTime": 5.5200,
+    "EndTime": 9.6000
+  },
+  {
+    "AudioFilePath": "Files/8e916041-0b6d-4ff1-9328-c46f4a7fd550.mp4",
+    "Text": "I\u0027m fine.",
+    "Speaker": "Fabian Kissel",
+    "Language": "de-de",
+    "Duration": 0.8800,
+    "StartTime": 10.7200,
+    "EndTime": 11.6000
+  },
+  {
+    "AudioFilePath": "Files/8e916041-0b6d-4ff1-9328-c46f4a7fd550.mp4",
+    "Text": "Good.",
+    "Speaker": "Roystan Dsouza",
+    "Language": "de-de",
+    "Duration": 0.4000,
+    "StartTime": 18.5600,
+    "EndTime": 18.9600
+  },
+  {
+    "AudioFilePath": "Files/8e916041-0b6d-4ff1-9328-c46f4a7fd550.mp4",
+    "Text": "We accompanied. Hello, let me share the screen.",
+    "Speaker": "Fabian Kissel",
+    "Language": "de-de",
+    "Duration": 8.8800,
+    "StartTime": 24.2400,
+    "EndTime": 33.1200
+  },
+  {
+    "AudioFilePath": "Files/8e916041-0b6d-4ff1-9328-c46f4a7fd550.mp4",
+    "Text": "DOM, where is your mustache.",
+    "Speaker": "Sergiy Kharchenko",
+    "Language": "de-de",
+    "Duration": 1.7600,
+    "StartTime": 34.3200,
+    "EndTime": 36.0800
+  },
+  {
+    "AudioFilePath": "Files/8e916041-0b6d-4ff1-9328-c46f4a7fd550.mp4",
+    "Text": "Right.",
+    "Speaker": "Christian Claa\u00DFen",
+    "Language": "de-de",
+    "Duration": 0.4800,
+    "StartTime": 41.3600,
+    "EndTime": 41.8400
+  },
+  {
+    "AudioFilePath": "Files/8e916041-0b6d-4ff1-9328-c46f4a7fd550.mp4",
+    "Text": "Hidden to me.",
+    "Speaker": "Fabian Kissel",
+    "Language": "de-de",
+    "Duration": 1.0400,
+    "StartTime": 43.6800,
+    "EndTime": 44.7200
+  },
+  {
+    "AudioFilePath": "Files/8e916041-0b6d-4ff1-9328-c46f4a7fd550.mp4",
+    "Text": "This plan on.",
+    "Speaker": "Christian Claa\u00DFen",
+    "Language": "de-de",
+    "Duration": 1.1200,
+    "StartTime": 46.8800,
+    "EndTime": 48.0000
+  },
+  {
+    "AudioFilePath": "Files/8e916041-0b6d-4ff1-9328-c46f4a7fd550.mp4",
+    "Text": "The Avascon function was not working.",
+    "Speaker": "Dominique Lohmann",
+    "Language": "de-de",
+    "Duration": 2.0000,
+    "StartTime": 51.6800,
+    "EndTime": 53.6800
+  },
+  {
+    "AudioFilePath": "Files/8e916041-0b6d-4ff1-9328-c46f4a7fd550.mp4",
+    "Text": "Well.",
+    "Speaker": "Fabian Kissel",
+    "Language": "de-de",
+    "Duration": 0.4000,
+    "StartTime": 53.9200,
+    "EndTime": 54.3200
+  },
+  {
+    "AudioFilePath": "Files/8e916041-0b6d-4ff1-9328-c46f4a7fd550.mp4",
+    "Text": "Por you.",
+    "Speaker": "Sergiy Kharchenko",
+    "Language": "de-de",
+    "Duration": 1.2000,
+    "StartTime": 55.7900,
+    "EndTime": 56.9900
+  },
+  {
+    "AudioFilePath": "Files/8e916041-0b6d-4ff1-9328-c46f4a7fd550.mp4",
+    "Text": "That\u0027s why he\u0027s wearing a wig outside. The police is searching for him. Okay, nice one Sergei. Okay, dann w\u00FCrde ich sagen, starten wir in die Woche. Leo, go fight.",
+    "Speaker": "Fabian Kissel",
+    "Language": "de-de",
+    "Duration": 17.3600,
+    "StartTime": 61.7900,
+    "EndTime": 79.1500
+  },
+  {
+    "AudioFilePath": "Files/8e916041-0b6d-4ff1-9328-c46f4a7fd550.mp4",
+    "Text": "Perfekt, ich starte. Ich hatte vorgehabt diese Woche Plugins zu testen, die ich letzte Woche angefangen habe. Da bin ich noch nicht dran gekommen. Da hatte ich andere prios, vor allem PRs, die sind jetzt aber immer noch im Draft Modus quasi, weil der Kunde sie noch testen muss. Also die Funktionalit\u00E4t, was ich noch vorhatte, ein Plugin, Create Contract Content Rating Relation, da hatte ich auch Learnings und warum ich auch der Beste bin, da habe ich Learnings vom Shared bekommen. Da haben wir sehr viele Funktionen, die ich quasi als Hilfsfunktion benutzen kann. Da hatten wir jetzt den Fetch XML Manager und davon aus kann ich mir die ganzen Fetches ziehen bei FST Und da habe ich viele Fortschritte in diesem Plugin gemacht. Ist schon gebaut, muss ich aber dann noch fertig testen. Es ist ready. Und das Deactivate Plugin TAS war an sich auch nicht f\u00FCr mich bestimmt. Es war im Backlog, es war f\u00FCr Aliru gestellt, aber ich habe dann gesehen, als ich dann mal einen kleinen Leerlauf hatte oder eher gesagt nicht weiterkam mit meinen Plugin Task, wollte ich dann da halt was kleines machen, damit ich meinen Kopf wieder frei bekomme. Habe dann gesehen, dass der Task an Amalia zugewiesen worden ist. Nichtsdestotrotz hatte ich halt prs offen und am Owning Assignment gab es dann doch noch mal \u00C4nderungen von Waldemar Seite aus, weil er da nochmal \u00C4nderungen gemacht hat, ich das rebasen musste und dann nochmal neu schreiben, also paar \u00C4nderungen machen musste. Und am Cosmos Service Request, da hatte ich seit gestern dann auch noch mal einen neuen Punkt. Da wurde auch endlich mal getestet von Christian Emig und da sind ihm auch noch ein paar Sachen eingefallen, die wahrscheinlich auch vom Rebase zur\u00FCckgekommen sind. Da wurde die n\u00E4chste Entit\u00E4t, also der Contract und die Scope nicht mehr erstellt. Da muss ich dann auch noch mal \u00C4nderungen machen. Da gab es dann heute noch mal ein Timeout. Es hat irgendwie lange geladen, den Fehler hatten wir vorher nicht gehabt und da hat mir Waldeber dann was Sch\u00F6nes gezeigt, was er dann auch wahrscheinlich der ganze Gruppe zeigen wird, wo es dann auch noch ein Video gibt. Das habe ich dann auch noch gefixt und das ist jetzt durch vier Lectures. Mein Fokus war dann doch auf der Arbeit, aber ich werde die Lectures noch mal nachholen dieses Wochenende. Warum ich jetzt der Beste bin? Das ist zum einen die Absprache mit Philipp, da wieder was Neues gelernt zu haben, dass ich jede Woche was Neues lerne und dass ich diese Woche meinen Anschluss im Gym wiedergefunden habe. Ich gehe wieder trainieren. Ich war jetzt diese Woche zweimal, gehe heute und morgen noch mal, dann sind es viermal und das mache ich jetzt erstmal so weiter.",
+    "Speaker": "Leo Izere",
+    "Language": "de-de",
+    "Duration": 183.6600,
+    "StartTime": 81.5600,
+    "EndTime": 265.2200
+  },
+  {
+    "AudioFilePath": "Files/8e916041-0b6d-4ff1-9328-c46f4a7fd550.mp4",
+    "Text": "Sachin, du darfst weitermachen.",
+    "Speaker": "Leo Izere",
+    "Language": "de-de",
+    "Duration": 1.2000,
+    "StartTime": 272.1800,
+    "EndTime": 273.3800
+  },
+  {
+    "AudioFilePath": "Files/8e916041-0b6d-4ff1-9328-c46f4a7fd550.mp4",
+    "Text": "Gerne, danke dir. Genau, meine Woche erstmal bei Lichtblick hatte ich vor, diesen Komplettprozess zu implementieren. Das habe ich mit Team Effort geschafft. Danke dir Christian nochmal f\u00FCr diese Frontend \u00C4nderungen. Das macht immer Spa\u00DF, mit dir zu arbeiten. Au\u00DFerdem hat Dominik auch diese Ansichten angepasst und das war auch geil. Ich hatte auch vor, diese Plugin Face Logs zu dokumentieren. Das habe ich.",
+    "Speaker": "Sachin Shukla",
+    "Language": "de-de",
+    "Duration": 36.0600,
+    "StartTime": 274.7500,
+    "EndTime": 310.8100
+  },
+  {
+    "AudioFilePath": "Files/8e916041-0b6d-4ff1-9328-c46f4a7fd550.mp4",
+    "Text": "Sorry, ich wollte eigentlich nur eine Reaktion machen, aber ich bin daneben gehauen.",
+    "Speaker": "Dominique Lohmann",
+    "Language": "de-de",
+    "Duration": 4.2400,
+    "StartTime": 313.9300,
+    "EndTime": 318.1700
+  },
+  {
+    "AudioFilePath": "Files/8e916041-0b6d-4ff1-9328-c46f4a7fd550.mp4",
+    "Text": "Unangenehm, wenn das in sehr gro\u00DFen Townhall Meetings passiert.",
+    "Speaker": "Fabian Kissel",
+    "Language": "de-de",
+    "Duration": 2.7200,
+    "StartTime": 320.5700,
+    "EndTime": 323.2900
+  },
+  {
+    "AudioFilePath": "Files/8e916041-0b6d-4ff1-9328-c46f4a7fd550.mp4",
+    "Text": "Oh ja.",
+    "Speaker": "Christian Claa\u00DFen",
+    "Language": "de-de",
+    "Duration": 0.5600,
+    "StartTime": 323.7700,
+    "EndTime": 324.3300
+  },
+  {
+    "AudioFilePath": "Files/8e916041-0b6d-4ff1-9328-c46f4a7fd550.mp4",
+    "Text": "Genau. Zur\u00FCck zu dem Thema. Plugin Trace Logs hatte ich vor, dieser Woche zu dokumentieren. Das habe ich geschafft und Dokumentation habe ich vorbereitet, habe ich auch an dem Ticket geh\u00E4ngt. N\u00E4chste Woche werde ich nochmal durchgucken und ja, weil wir k\u00F6nnen leider momentan nur zwei Tage Traces sehen, diese Exception Traces und deswegen muss ich mindestens f\u00FCr zwei Wochen die Trace Logs dokumentieren, damit wir die Prozesse nochmal optimieren k\u00F6nnen. Genau, bei PIN hatte ich vor die beiden PR Kommentare, also ich hatte zwei PR auf und da gab es auch viele Kommentare, die habe ich auch Resolves und PRs waren auch durch. Deployment zum Test war auch erfolgreich. Dinge wurden getestet. Anja ist zufrieden wie immer. Und genau, bei G. H. Finalize the Canvas App, das habe ich diese Woche nicht geschafft, weil ich eine neue Sache diese Woche angefangen habe. Marketing. Danke Fabian. Genau, habe ich abgestern Bis heute habe ich viele Vorlagen erstellt. Formulare habe ich angepasst bzw. Habe ich auch Formulare erstellt, obwohl das nur ein Klick war, aber trotzdem z\u00E4hlt. Warum bin ich der Beste diese Woche? Weil ich, wie gesagt, erstes Mal mit dem Marketing angefangen habe. Das macht ich Spa\u00DF, neue Sachen zu lernen. Und zweiter Grund, warum bin ich der Beste diese Woche, weil ich morgen in den Urlaub gehe, Italien.",
+    "Speaker": "Sachin Shukla",
+    "Language": "de-de",
+    "Duration": 120.8400,
+    "StartTime": 329.0300,
+    "EndTime": 449.8700
+  },
+  {
+    "AudioFilePath": "Files/8e916041-0b6d-4ff1-9328-c46f4a7fd550.mp4",
+    "Text": "Dann schon mal.",
+    "Speaker": "Fabian Kissel",
+    "Language": "de-de",
+    "Duration": 0.5600,
+    "StartTime": 451.8700,
+    "EndTime": 452.4300
+  },
+  {
+    "AudioFilePath": "Files/8e916041-0b6d-4ff1-9328-c46f4a7fd550.mp4",
+    "Text": "Gute Erholung, danke, werde ich tun. Genau. Dann Dominik, magst du gerne weitermachen?",
+    "Speaker": "Sachin Shukla",
+    "Language": "de-de",
+    "Duration": 8.1600,
+    "StartTime": 452.4300,
+    "EndTime": 460.5900
+  },
+  {
+    "AudioFilePath": "Files/8e916041-0b6d-4ff1-9328-c46f4a7fd550.mp4",
+    "Text": "Danke dir, Sajin. Das war es dann mit der Liste bei Lichtblick. Da hatte ich mir die Dokumentation f\u00FCr die Synchronisation der Mailboxen vorgenommen, bzw. Haupts\u00E4chlich der Main Fokus f\u00FCr die Woche, die Dokumentation der Prozesse. Das wurde als Prio B eingestuft und als Prio A gab es dann ein Zwischenthema, dass wir Mails gefunden haben, die im System gelandet sind, die so h\u00E4tten gar nicht drin landen d\u00FCrfen. Viele Postf\u00E4cher, die aktiviert sind im QA System, was aber nicht so sein sollte, also beziehungsweise die Synchronisation nicht sein sollte. Und daran habe ich jetzt die letzten Tage gesessen, um das alles rauszufiltern, zu analysieren, welche Mailboxen sind aktiv, welche werden synchronisiert, welche E Mails sind davon betroffen, welche Tasks, Appointments etc. Was dann von der Synchronisation den Rattenschwanz zieht. Die Liste habe ich erfolgreich beenden k\u00F6nnen und heute noch dem Jens zuschicken k\u00F6nnen, Der schaut sich das jetzt noch mal an, schaut, ob das ein DSGVO-Versto\u00DF ist oder nicht. Und dann sprechen wir am Montag nochmal. Des Weiteren habe ich dann noch zwei weitere Tasks zus\u00E4tzlich abgeschlossen dazu. Und ja, bei itnetx war leider mein Kunde nicht erreichbar, der hat den Termin verpeilt und da haben wir den jetzt auf n\u00E4chste Woche geschoben. Und bei TNA gab es diese Woche Neuigkeiten, dass sie irgendwann mal Dataverse abschaffen wollen, also als Datenbank abschaffen wollen und die Daten dann in Azure DevOps, in Azure SQL speichern wollen. Da werde ich jetzt am Dienstag mich aufkl\u00E4ren lassen, wie genau das in ihren best\u00E4ndigen Projekten schon funktioniert, wie sie das geplant haben, wie sie es sich vorstellen. Dementsprechend, wenn das so sein soll, Dann ist die FileNet Integration Geschichte bei denen, so ist die Aussage von Waldemar, das ist optimiert f\u00FCr Dataverse und auf Basis von Dataverse und nicht f\u00FCr Azure SQL. Dementsprechend wird es auch ein sehr interessantes Meeting dann oder die n\u00E4chsten Meetings sehr interessant bei TNA Und f\u00FCr die PL 200, da habe ich mir 10 Module vorgenommen. Da ich jetzt durch die Priorit\u00E4ten bei Lichtblake sehr viel Fokus auf den Arbeitsalltag gelegt habe, waren es nur 5 Module. Dennoch werde ich die anderen 5 aufholen noch am Wochenende. Ich habe mir vorgenommen bis zum Ende diesen Monats die Plattform mit den Modulen fertig zu sein und das sehe ich mir auch als Wochenendziel, deswegen bin ich auch der Beste, da ich bei der PL 200 jetzt so gut wie durch bin. F\u00FCnf Module fehlen noch und dann ist die Vorbereitung, das Learning abgeschlossen. Noch ein bisschen Testpr\u00FCfungen und dann die Pr\u00FCfung machen. Des Weiteren bin ich noch der Beste. Meine Schwester, die ist aus Mexiko zur\u00FCck, mein bester Freund, der ist auch gerade aus Koblenz hier und wir machen am Wochenende richtig sch\u00F6ne Family Time alle zusammen. Da freue ich mich auch drauf. Da grill ich wieder heute Abend. Das wird super. Danke, danke. Ich habe meine Schwester auch schon seit \u00FCber einem Jahr nicht mehr gesehen. Mist, wenn man am Ende der Welt wohnt. Dann gebe ich mal weiter an Christian.",
+    "Speaker": "Dominique Lohmann",
+    "Language": "de-de",
+    "Duration": 200.8600,
+    "StartTime": 461.3200,
+    "EndTime": 662.1800
+  },
+  {
+    "AudioFilePath": "Files/8e916041-0b6d-4ff1-9328-c46f4a7fd550.mp4",
+    "Text": "Bitte gehen wir schon wieder au\u00DFerhalb der Reihenfolge jedes.",
+    "Speaker": "Christian Claa\u00DFen",
+    "Language": "de-de",
+    "Duration": 5.4400,
+    "StartTime": 662.1800,
+    "EndTime": 667.6200
+  },
+  {
+    "AudioFilePath": "Files/8e916041-0b6d-4ff1-9328-c46f4a7fd550.mp4",
+    "Text": "Die Reihenfolge von unten nach oben.",
+    "Speaker": "Fabian Kissel",
+    "Language": "de-de",
+    "Duration": 1.5200,
+    "StartTime": 672.9800,
+    "EndTime": 674.5000
+  },
+  {
+    "AudioFilePath": "Files/8e916041-0b6d-4ff1-9328-c46f4a7fd550.mp4",
+    "Text": "OK, my weak Firstly I had goal to deploy solution to dev in prod and I had some dependencies during deployment to test. I spent some time figuring out with that stuff and basically I resolved it and production deployment. It basically was like a charm investment management. I released three tickets and they are already tested so I\u0027m in the process of the code review. I have some notes from Waldemar that\u0027s regular stuff, but this goal is reached as well. Also I plan to continue working on data distribution, architecture design. I didn\u0027t have time on that on this stuff because we actively worked with FST guys testing, doing testing and fixing bugs so I didn\u0027t have time for that. FBM implement feature for null values and of entity properties. That\u0027s done and it\u0027s also deployed to production and next item support and request. As figured out. There were some bugs in my deployment so I quickly fixed it.",
+    "Speaker": "Sergiy Kharchenko",
+    "Language": "de-de",
+    "Duration": 104.0000,
+    "StartTime": 675.0600,
+    "EndTime": 779.0600
+  },
+  {
+    "AudioFilePath": "Files/8e916041-0b6d-4ff1-9328-c46f4a7fd550.mp4",
+    "Text": "For now.",
+    "Speaker": "Fabian Kissel",
+    "Language": "de-de",
+    "Duration": 0.3200,
+    "StartTime": 780.9500,
+    "EndTime": 781.2700
+  },
+  {
+    "AudioFilePath": "Files/8e916041-0b6d-4ff1-9328-c46f4a7fd550.mp4",
+    "Text": "I don\u0027t have any other notes. Why am I the best this week? The first reason I continue working on my project and hopefully next week I already can share some pictures maybe next year. Next week may be a week later, but I am almost on the finish. Also what else might be because I can combine my office work and my treatment because usually I have my irradiation sessions at at eight yesterday it was quite late and basically it\u0027s very annoying because I finished my work. I have dinner and then I have to go to the clinique and then I just come home and I had to sleep already. No breaks. That\u0027s it, but I still can manage it. That was my week.",
+    "Speaker": "Sergiy Kharchenko",
+    "Language": "de-de",
+    "Duration": 82.8800,
+    "StartTime": 781.2700,
+    "EndTime": 864.1500
+  },
+  {
+    "AudioFilePath": "Files/8e916041-0b6d-4ff1-9328-c46f4a7fd550.mp4",
+    "Text": "Sergey, I\u0027m excited.",
+    "Speaker": "Dominique Lohmann",
+    "Language": "de-de",
+    "Duration": 1.2800,
+    "StartTime": 864.9500,
+    "EndTime": 866.2300
+  },
+  {
+    "AudioFilePath": "Files/8e916041-0b6d-4ff1-9328-c46f4a7fd550.mp4",
+    "Text": "Thank you. Christian, Hand it over to you.",
+    "Speaker": "Sergiy Kharchenko",
+    "Language": "de-de",
+    "Duration": 5.5200,
+    "StartTime": 867.5100,
+    "EndTime": 873.0300
+  },
+  {
+    "AudioFilePath": "Files/8e916041-0b6d-4ff1-9328-c46f4a7fd550.mp4",
+    "Text": "Ja, danke dir. So, Plan Die Product of the month E Mail Generation ist nicht fertig, weil ich komme immer noch nicht aufs System. Ich habe noch keinen Zugang auf die Umgebung, aber ich habe Der Code ist 99 Prozent, sage ich mal jetzt fertig. Ich lege E Mails an, ich lege Journeys an, ich regeneriere E Mails, wenn der User das m\u00F6chte, wenn er Dinge kaputt gemacht hat oder wenn Dinge dazu kamen. Funktioniert jetzt alles einwandfrei. Ich m\u00FCsste nur langsam mal auf die Umgebung kommen. Lichtblick Drei Tickets hatte ich mir vorgenommen. Ich glaube, f\u00FCnf sind es gewonnen. Lupus Alpha Meeting Die Azure Function soll erweitert werden. Das ist auch passiert. Das Meeting Estimation und so weiter habe ich abgegeben. Ich warte jetzt am Ende des Tages noch darauf, dass die Vorarbeiten daf\u00FCr gemacht werden, weil ich das Datenmodell, was erweitert werden soll, noch nicht habe. Das kriege ich hoffentlich Anfang n\u00E4chste Woche FST, die Azure Function fertig bekommen, die ich offen hatte. Segi I just got the info from Nadja that I can merge the request so then meist of stunners while. Ich habe schon eine Nachfolgeaufgabe bekommen, also da wird es auch nicht langweilig. Und f\u00FCr die PL wollte ich drei bis f\u00FCnf Stunden. Ich habe jetzt dann gesagt, es sind eher drei Stunden geworden, aber es ist ja im Rahmen so warum bin ich der Beste die Woche? Ich habe die Woche wieder eine ganze Menge Learnings, was das Marketing angeht, gemacht. Gerade was so die Feinheiten von diesen Datenstrukturen angeht. Marketing, da wird quasi alles in JSON gespeichert. Dann muss man wieder darauf vertrauen, dass Microsoft die Struktur nicht \u00E4ndert, sonst gehen wieder Dinge kaputt. Ich bin gespannt, wie lange das h\u00E4lt. Ansonsten habe ich nicht viel war eine produktive Woche. Viel mehr als Arbeiten habe ich noch nicht gemacht tats\u00E4chlich. Also werden wir eigentlich das erste reine Marketing Team. Ich meine, wir haben jetzt 5 Leute, 4 Leute, die mit Marketing zu tun haben. Dauert nicht mehr lang. Dann haben wir alle you missed me.",
+    "Speaker": "Christian Claa\u00DFen",
+    "Language": "de-de",
+    "Duration": 139.6100,
+    "StartTime": 873.0300,
+    "EndTime": 1012.6400
+  },
+  {
+    "AudioFilePath": "Files/8e916041-0b6d-4ff1-9328-c46f4a7fd550.mp4",
+    "Text": "Basically we are the only Marketing team currently. But please I need some sales, some customer service. At least I know what Roy means with so so marketing somehow flights are right.",
+    "Speaker": "Fabian Kissel",
+    "Language": "de-de",
+    "Duration": 20.0100,
+    "StartTime": 1014.4800,
+    "EndTime": 1034.4900
+  },
+  {
+    "AudioFilePath": "Files/8e916041-0b6d-4ff1-9328-c46f4a7fd550.mp4",
+    "Text": "I will get into sales.",
+    "Speaker": "Roystan Dsouza",
+    "Language": "de-de",
+    "Duration": 1.4400,
+    "StartTime": 1034.8900,
+    "EndTime": 1036.3300
+  },
+  {
+    "AudioFilePath": "Files/8e916041-0b6d-4ff1-9328-c46f4a7fd550.mp4",
+    "Text": "Next. Yeah, good.",
+    "Speaker": "Fabian Kissel",
+    "Language": "de-de",
+    "Duration": 3.0400,
+    "StartTime": 1036.3300,
+    "EndTime": 1039.3700
+  },
+  {
+    "AudioFilePath": "Files/8e916041-0b6d-4ff1-9328-c46f4a7fd550.mp4",
+    "Text": "Thank you, Christian. So minor worker bei Casino. Alle Use Cases sind getestet. Das bedeutet, jetzt kann ich alle E Mails oder die updated E Mails im Prod Deployment machen kann. Und was fehlt noch sind drei Aufgaben, das w\u00FCrde n\u00E4chste Woche erledigt und auch von den Canvas App Updates sind pending. Das ist auch von n\u00E4chster Woche, weil wir waited until we testet die other Stufe by get completes Y tasks so that is fertig und ist vorbereitet. Preparing for handover for next week while these projects sind fest abgeschlossen. By Lisplic E mobility completion of pending tasks. Das habe ich alles dieses Worker gemacht. DCP Product Deployment DCP Product Deployment heute gestern Hub is the Power BI Anpassung gemacht, Power BI Report und for Nestor ist oft Release nach dem User Testing. Ansonsten bei Lupusalphabision Changes in their Power BI Reports came out and with Nestor worker the users or the test users Marke alle Testing for the 3 Dashboards und wenn anything comes up I am dev support. Das war\u0027s von den Projekte warum? Ich bin die beste dieser Worker. Ich bin froh, dass ich habe alle Tests der Marketing Use Cases bei Casino abgeschlossen und die Kunden sind auch happy. Kundal Khan Auk sells customer journeys, emails own segments building Khan so yeah and vaartan bisnak is y worker for the go live by casino so yeah been. Happy that we did a good job there. Das war\u0027s.",
+    "Speaker": "Roystan Dsouza",
+    "Language": "de-de",
+    "Duration": 147.9400,
+    "StartTime": 1039.3700,
+    "EndTime": 1187.3100
+  },
+  {
+    "AudioFilePath": "Files/8e916041-0b6d-4ff1-9328-c46f4a7fd550.mp4",
+    "Text": "Danke dir Roy. Gut, was habe ich mir diese Woche vorgenommen? Zehn Minuten jeden Morgen zu nehmen, um meinen Tag zu strukturieren und eben die wichtigen Dinge aufzuschreiben, die den Tag \u00FCber oder eben einfach die Woche \u00FCber getan werden m\u00FCssen. Das hat sehr sehr gut geklappt. Ich habe meistens 5 Minuten gebraucht. Die wichtigen Dinge habe ich dann oftmals abgeschlossen gehabt am Tag, aber nat\u00FCrlich kam dann auch sehr viel Dringendes dazwischen, was dann hinzugef\u00FCgt wurde. Aber es hat trotzdem geholfen einfach den Tag zu strukturieren und dann eben immer sch\u00F6n H\u00E4kchen dahinter zu machen. Das tat wirklich gut, werde ich auf jeden Fall so beibehalten. Bei Plansee war mein Ziel die Product of the Month E Mail Template zu erstellen in zehn verschiedenen Sprachen. Das habe ich getan. Die sind leider nur noch nicht fertig, weil Christian eine kleine \u00C4nderung notwendig gemacht hat, was sehr sehr gut ist, weil dadurch sehen die Ergebnisse sehr sehr gut aus. Ich muss nur einfach noch mal an jedes Template dran bin ich gewohnt aus Marketing. Sonst hatte ich mir vorgenommen die Gated Content Formulare abzudaten. Da haben wir zwei neue Felder erstellt, zwei Option Set FE, die dann zusammengenommen auch einen sogenannten Job Title ergeben. Also es gibt eine Logik, die aus Joblevel und dem Department, bei denen die den Job Title zusammensetzen. Also wenn du, keine Ahnung, Head of bist und dein Department Marketing ist, bekommst du den Job Title Head of Marketing bei denen gesetzt. Standardm\u00E4\u00DFig. Diese Logik muss noch implementiert werden. Die Felder sind jetzt aber schon da und auch schon in den Formularen. Gleichzeitig hat Dutch mir da auch geholfen, nochmal \u00FCber jedes Formular dr\u00FCber zu b\u00FCgeln, weil wir nicht nur Leads erstellen, sondern Leads und Kontakte mit verschiedenen Matching Rules. Es hat einfach sich die Notwendigkeit daraus ergeben, dass wir jedes Feld austauschen. Bist du damit eigentlich schon durch.",
+    "Speaker": "Fabian Kissel",
+    "Language": "de-de",
+    "Duration": 126.0200,
+    "StartTime": 1191.1500,
+    "EndTime": 1317.1700
+  },
+  {
+    "AudioFilePath": "Files/8e916041-0b6d-4ff1-9328-c46f4a7fd550.mp4",
+    "Text": "Zehn kleine Formular, diese Skripte.",
+    "Speaker": "Sachin Shukla",
+    "Language": "de-de",
+    "Duration": 3.1200,
+    "StartTime": 1319.1700,
+    "EndTime": 1322.2900
+  },
+  {
+    "AudioFilePath": "Files/8e916041-0b6d-4ff1-9328-c46f4a7fd550.mp4",
+    "Text": "Das ist schon mal gut. Schon mal gut. Auch ein Grund, warum ich der Beste bin, weil das erste Formular auf der Webseite drauf ist, aktuell nur auf einer Test Webseite, aber ein kleiner Step f\u00FCr uns, ein gro\u00DFer f\u00FCr den Kunden, Die.",
+    "Speaker": "Fabian Kissel",
+    "Language": "de-de",
+    "Duration": 12.0700,
+    "StartTime": 1324.2100,
+    "EndTime": 1336.2800
+  },
+  {
+    "AudioFilePath": "Files/8e916041-0b6d-4ff1-9328-c46f4a7fd550.mp4",
+    "Text": "Hat.",
+    "Speaker": "Christian Claa\u00DFen",
+    "Language": "de-de",
+    "Duration": 0.2800,
+    "StartTime": 1336.2800,
+    "EndTime": 1336.5600
+  },
+  {
+    "AudioFilePath": "Files/8e916041-0b6d-4ff1-9328-c46f4a7fd550.mp4",
+    "Text": "Schon Angst auf jeden Fall war f\u00FCr sie ein cooler Moment. Bei FPM. Dank Sergi ist die Schnittstelle in Richtung BW ins Produktivsystem \u00FCbertragen worden. Ich habe da jetzt heute Morgen mit dem Business, also mit Lead zusammen die Interface Configuration \u00FCbertragen von Test. Auf Rot und das Ganze auch schon getestet. Sie schaut sich jetzt die Daten an und ab dem Zeitpunkt k\u00F6nnen die SAP Developer die Daten aus dem System ziehen, weil die quasi sowas wie Power BI haben. Also die haben im Endeffekt einen Data Lake, wo sie CRM Daten und SAP Daten miteinander verheiraten und visuell aufbereiten. Genau das funktioniert jetzt. Gleichzeitig habe ich einen Termin wahrgenommen, wo es um den Opportunity Rework geht. Ein Teil von dem, was wir umgesetzt haben, wird wieder zur\u00FCckgebaut. Also Christian, f\u00FCr dich zum Beispiel der Termination Dialog, der wird wieder entfernt bei FPM. Da wird jetzt quasi das Forecasting und diese Termination wird nicht mehr direkt im Samen gemacht, sondern in einem Planning Tool, das quasi mit dem SAP System verkn\u00FCpft ist und direkt eben auf die Ums\u00E4tze zur\u00FCckgreifen kann. Macht irgendwie Sinn in dem Moment. CRM ist dann in dem Moment eben nur noch da bis zu dem Punkt, wo der Close gemacht wird. Also Angebot ist unterschrieben und damit ist die Planning Seite des CRMs vorbei. Genau. Noch ein Grund, warum ich der Beste bin. Auch Sport. Ich war diese Woche schon zweimal im Fitness und werde auch am Sonntag noch mal gehen. Dann bin ich beim dreimal, das habe ich mir auch Ende letzten Jahres bei unserer Weihnachtsfeier vorgenommen, dass ich dreimal dieses Jahr ins Fitnessstudio, nein Spa\u00DF, dass ich jede Woche dreimal ins Fitnessstudio gehe. Ich bin auf dem Weg und es macht Spa\u00DF. Genau, sonst n\u00E4chste Woche f\u00E4ngt Sebastian an. For you it\u0027s a development trainee currently the idea is that he will sit behind Julian, but not for long. Let\u0027s see, because the room is pretty Lead. I guess, maybe either we or Jan will have another teammate in our team, but the start point will be in Julian\u0027s room. Sonst organisatorische Sachen. Next Woche Sachin Urlaub, anyone else? Vacation? No, I think. Okay, so I think we are big group next week again. It\u0027s always good.",
+    "Speaker": "Fabian Kissel",
+    "Language": "de-de",
+    "Duration": 165.7800,
+    "StartTime": 1338.8000,
+    "EndTime": 1504.5800
+  },
+  {
+    "AudioFilePath": "Files/8e916041-0b6d-4ff1-9328-c46f4a7fd550.mp4",
+    "Text": "Is the new joinee experienced a bit or training?",
+    "Speaker": "Roystan Dsouza",
+    "Language": "de-de",
+    "Duration": 4.8800,
+    "StartTime": 1506.9800,
+    "EndTime": 1511.8600
+  },
+  {
+    "AudioFilePath": "Files/8e916041-0b6d-4ff1-9328-c46f4a7fd550.mp4",
+    "Text": "He\u0027s pretty interested in coding. So he\u0027s doing many things in his private life. So he\u0027s interested developer. He\u0027s like I\u0027ve not talked to him, but what Norton and Julian told us is basically that he\u0027s a bit geeky. Which is I think for this job really cool. Like we all you know, he will be not an absolute beginner in coding. It\u0027s but we\u0027ll see. He\u0027s still with need to run through the onboarding process and after that. We can tell more. But in October Joachim is joining. He\u0027s basically pretty experienced and also one thing, there\u0027s another person inside of the whole recruiting funnel who has twenty years of experience in it. Also like he\u0027s, I don\u0027t know, mid forty and he\u0027s interested in yeah, dynamics. He\u0027s not only doing dynamics, but I think Waldemar was really excited after the coding challenge. Cool.",
+    "Speaker": "Fabian Kissel",
+    "Language": "de-de",
+    "Duration": 77.9200,
+    "StartTime": 1512.7400,
+    "EndTime": 1590.6600
+  },
+  {
+    "AudioFilePath": "Files/8e916041-0b6d-4ff1-9328-c46f4a7fd550.mp4",
+    "Text": "Nice, good to know new people.",
+    "Speaker": "Roystan Dsouza",
+    "Language": "de-de",
+    "Duration": 3.2000,
+    "StartTime": 1592.9800,
+    "EndTime": 1596.1800
+  },
+  {
+    "AudioFilePath": "Files/8e916041-0b6d-4ff1-9328-c46f4a7fd550.mp4",
+    "Text": "Okay.",
+    "Speaker": "Sachin Shukla",
+    "Language": "de-de",
+    "Duration": 0.4000,
+    "StartTime": 1599.9500,
+    "EndTime": 1600.3500
+  },
+  {
+    "AudioFilePath": "Files/8e916041-0b6d-4ff1-9328-c46f4a7fd550.mp4",
+    "Text": "Other topics. So I\u0027ll say enjoy your weekend. Good week, Sergi.",
+    "Speaker": "Fabian Kissel",
+    "Language": "de-de",
+    "Duration": 14.0800,
+    "StartTime": 1602.9100,
+    "EndTime": 1616.9900
+  },
+  {
+    "AudioFilePath": "Files/8e916041-0b6d-4ff1-9328-c46f4a7fd550.mp4",
+    "Text": "Sch\u00F6nes Wochenende.",
+    "Speaker": "Sergiy Kharchenko",
+    "Language": "de-de",
+    "Duration": 1.2000,
+    "StartTime": 1617.4700,
+    "EndTime": 1618.6700
+  },
+  {
+    "AudioFilePath": "Files/8e916041-0b6d-4ff1-9328-c46f4a7fd550.mp4",
+    "Text": "John.",
+    "Speaker": "Fabian Kissel",
+    "Language": "de-de",
+    "Duration": 24.9000,
+    "StartTime": 1624.4700,
+    "EndTime": 1649.3700
+  }
+]
