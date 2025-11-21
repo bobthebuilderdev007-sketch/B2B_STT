@@ -1,0 +1,96 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environment
+venv/
+env/
+ENV/
+venv.bak/
+
+# Environment Variables
+.env
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb
+
+# Data Files (large files)
+data/audio/*.wav
+data/audio/*.mp3
+data/audio/*.flac
+data/audio/*.m4a
+data/video/*.mp4
+data/video/*.avi
+data/video/*.mov
+data/video/*.mkv
+*.wav
+*.mp3
+*.mp4
+*.avi
+
+# Keep directory structure but ignore contents
+data/audio/*
+!data/audio/.gitkeep
+data/video/*
+!data/video/.gitkeep
+data/json/*
+!data/json/.gitkeep
+
+# Outputs
+outputs/
+temp/
+chunks/
+logs/*.log
+
+# Models (can be large)
+models/*.pt
+models/*.pth
+models/*.bin
+models/*.safetensors
+
+# Cache
+.cache/
+*.cache
+__pycache__/
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Linux
+*~
+.directory
+.Trash-*
